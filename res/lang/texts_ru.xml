@@ -2170,70 +2170,70 @@ You receive <gold>::gold::</gold>.</t>
 	<t id="tavern">Open the Tavern</t>
     </g>
     <g id="bounty_adjectives">
-        <t _id="lgorgeur">the Cutthroat</t>
-        <t _id="lcarteleur">the Boneripper</t>
-        <t _id="leviolent">the Violent</t>
-        <t _id="lepleutre">the Coward</t>
-        <t _id="lerebelle">the Rebel</t>
-        <t _id="leflau">the Bane</t>
-        <t _id="lemchant">the Mean</t>
-        <t _id="lidiot">the Idiot</t>
-        <t _id="leparjure">the Oathbreaker</t>
-        <t _id="ledserteur">the Deserter</t>
-        <t _id="lebalafr">the Scarred</t>
-        <t _id="lpouvantail">the Scarecrow</t>
-        <t _id="lerat">the Rat</t>
-        <t _id="lerenard">the Fox</t>
-        <t _id="leloup">the Wolf</t>
-        <t _id="labelette">the Weasel</t>
-        <t _id="lavipre">the Viper</t>
-        <t _id="labuse">the Buzzard</t>
-        <t _id="lerouge">the Red</t>
-        <t _id="levert">the Green</t>
-        <t _id="lesournois">the Sly</t>
-        <t _id="leglouton">the Glutton</t>
-        <t _id="letyran">the Tyrant</t>
-        <t _id="lebricoleur">the Tinkerer</t>
-        <t _id="lecostaud">the Tough</t>
-        <t _id="lecoquin">the Cheeky</t>
-        <t _id="lerustique">the Rustic</t>
-        <t _id="lepetit">the Little</t>
-        <t _id="lediplomatedupoing">the Pummeler</t>
-        <t _id="leterrible">the Terrible</t>
-        <t _id="leperturb">the Disturbed</t>
-        <t _id="limpudique">the Unchaste</t>
-        <t _id="labrute">the Brute</t>
+        <t _id="lgorgeur">Різник</t>
+        <t _id="lcarteleur">Кістколом</t>
+        <t _id="leviolent">Жорстокий</t>
+        <t _id="lepleutre">Боягуз</t>
+        <t _id="lerebelle">Бунтар</t>
+        <t _id="leflau">Прокляття</t>
+        <t _id="lemchant">Злий</t>
+        <t _id="lidiot">Дурень</t>
+        <t _id="leparjure">Клятвопорушник</t>
+        <t _id="ledserteur">Дезертир</t>
+        <t _id="lebalafr">Шрамований</t>
+        <t _id="lpouvantail">Лякало</t>
+        <t _id="lerat">Щур</t>
+        <t _id="lerenard">Лис</t>
+        <t _id="leloup">Вовк</t>
+        <t _id="labelette">Ласка</t>
+        <t _id="lavipre">Гадюка</t>
+        <t _id="labuse">Стерв'ятник</t>
+        <t _id="lerouge">Червоний</t>
+        <t _id="levert">Зелений</t>
+        <t _id="lesournois">Підступний</t>
+        <t _id="leglouton">Обжора</t>
+        <t _id="letyran">Тиран</t>
+        <t _id="lebricoleur">Винахідник</t>
+        <t _id="lecostaud">Міцний</t>
+        <t _id="lecoquin">Шибеник</t>
+        <t _id="lerustique">Сільський</t>
+        <t _id="lepetit">Маленький</t>
+        <t _id="lediplomatedupoing">Кулакодавець</t>
+        <t _id="leterrible">Страшний</t>
+        <t _id="leperturb">Збентежений</t>
+        <t _id="limpudique">Безсоромний</t>
+        <t _id="labrute">Грубіян</t>
     </g>
     <g id="bounty_adjectives_fem">
-        <t _id="legorgeuse">the Cutthroat</t>
-        <t _id="lecarteleuse">the Bonesplitter</t>
-        <t _id="laviolente">the Violent</t>
-        <t _id="lapleutre">the Coward</t>
-        <t _id="larebelle">the Rebel</t>
-        <t _id="leflau">the Bane</t>
-        <t _id="lamchante">the Mean</t>
-        <t _id="lidiote">the Idiot</t>
-        <t _id="laparjure">the Oathbreaker</t>
-        <t _id="ladserteuse">the Deserter</t>
-        <t _id="labalafre">the Scarred</t>
-        <t _id="lepouvantail">the Scarecrow</t>
-        <t _id="larenarde">the Vixen</t>
-        <t _id="lalouve">the She-Wolf</t>
-        <t _id="labelette">the Weasel</t>
-        <t _id="lavipre">the Viper</t>
-        <t _id="labuse">the Buzzard</t>
-        <t _id="larouge">the Red</t>
-        <t _id="laverte">the Green</t>
-        <t _id="lasournoise">the Sly</t>
-        <t _id="lagloutone">the Glutton</t>
-        <t _id="latyranique">the Tyrant</t>
-        <t _id="labricoleuse">the Tinkerer</t>
-        <t _id="lapetite">the Little</t>
-        <t _id="ladiplomatedupoing">the Pummeler</t>
-        <t _id="laterrible">the Terrible</t>
-        <t _id="laperturbe">the Disturbed</t>
-        <t _id="limpudique">the Unchaste</t>
-        <t _id="labrute">the Brute</t>
+        <t _id="legorgeuse">Різниця</t>
+        <t _id="lecarteleuse">Кістколомка</t>
+        <t _id="laviolente">Жорстока</t>
+        <t _id="lapleutre">Боягузка</t>
+        <t _id="larebelle">Бунтарка</t>
+        <t _id="leflau">Прокляття</t>
+        <t _id="lamchante">Зла</t>
+        <t _id="lidiote">Дурепа</t>
+        <t _id="laparjure">Клятвопорушниця</t>
+        <t _id="ladserteuse">Дезертирка</t>
+        <t _id="labalafre">Шрамована</t>
+        <t _id="lepouvantail">Лякало</t>
+        <t _id="larenarde">Лисиця</t>
+        <t _id="lalouve">Вовчиця</t>
+        <t _id="labelette">Ласка</t>
+        <t _id="lavipre">Гадюка</t>
+        <t _id="labuse">Стерв'ятник</t>
+        <t _id="larouge">Червона</t>
+        <t _id="laverte">Зелена</t>
+        <t _id="lasournoise">Підступна</t>
+        <t _id="lagloutone">Обжора</t>
+        <t _id="latyranique">Тиранка</t>
+        <t _id="labricoleuse">Винахідниця</t>
+        <t _id="lapetite">Маленька</t>
+        <t _id="ladiplomatedupoing">Кулакодавка</t>
+        <t _id="laterrible">Страшна</t>
+        <t _id="laperturbe">Збентежена</t>
+        <t _id="limpudique">Безсоромна</t>
+        <t _id="labrute">Грубіянка</t>
     </g>
     <g id="systemic_goals">
         <t id="defender_killed">Location liberated</t>
@@ -2242,27 +2242,27 @@ You receive <gold>::gold::</gold>.</t>
         <t id="ruins">Ruins explored</t>
     </g>
     <g id="start">
-        <t id="choose_troop">Your Companions are...</t>
-        <t id="troop_tip">Bonuses</t>
-        <t id="troop_tip_malus">Debuff</t>
-        <t id="tip_bonus">Starts with:</t>
-        <t id="tip_units">Starting Companions</t>
-        <t id="choose_bonus">Your Companions...</t>
-        <t id="choose_malus">If they had a flaw, it would be...</t>
-        <t id="start_option">Starting Options</t>
-        <t id="region">Starting Region</t>
-        <t id="region_help">Progress in the game to unlock new Starting Regions.</t>
-        <t id="troop">Troop</t>
-        <t id="difficulty_fight">Combat Difficulty</t>
-        <t id="difficulty_sim">Survival Difficulty</t>
-        <t id="dif_sim_help">The simulation difficulty affects your Companions’ tiredness, hunger and wages.</t>
-        <t id="dif_fight_help">Wartales is a challenging game, be sure to reduce the difficulty level if it doesn't feel right.</t>
-        <t id="dif_change">You can change the difficulty at any time.</t>
+        <t id="choose_troop">Ваші компаньйони...</t>
+        <t id="troop_tip">Бонуси</t>
+        <t id="troop_tip_malus">Дебафф</t>
+        <t id="tip_bonus">Починають з:</t>
+        <t id="tip_units">Початкові компаньйони</t>
+        <t id="choose_bonus">Ваші компаньйони...</t>
+        <t id="choose_malus">Якби у них був недолік, це був би...</t>
+        <t id="start_option">Початкові опції</t>
+        <t id="region">Початковий регіон</t>
+        <t id="region_help">Пройдіть гру, щоб розблокувати нові початкові регіони.</t>
+        <t id="troop">Військо</t>
+        <t id="difficulty_fight">Складність бою</t>
+        <t id="difficulty_sim">Складність виживання</t>
+        <t id="dif_sim_help">Складність симуляції впливає на втому, голод і зарплату ваших компаньйонів.</t>
+        <t id="dif_fight_help">Wartales - це складна гра, обов'язково знизьте рівень складності, якщо вона здається вам занадто важкою.</t>
+        <t id="dif_change">Ви можете змінити рівень складності в будь-який час.</t>
         <g id="difficulties">
-            <t _id="novice">Novice</t>
-            <t _id="confirm">Experienced</t>
-            <t _id="expert">Expert</t>
-            <t _id="extrme">Extreme</t>
+            <t _id="novice">Новачок</t>
+            <t _id="confirm">Досвідчений</t>
+            <t _id="expert">Експерт</t>
+            <t _id="extrme">Екстремальний</t>
         </g>
         <g id="fight_difficulties_desc">
             <t _id="voussouhaitezuneexpriencedecombatpluslgre">You want an easier combat experience.</t>
@@ -2289,11 +2289,11 @@ You receive <gold>::gold::</gold>.</t>
  - Merchants restock slowly.
  - Overall difficulty is at its maximum level.</t>
         </g>
-        <t id="save_mode">Save Mode</t>
+        <t id="save_mode">Режим збереження</t>
         <g id="save_modes">
-            <t _id="limit">Limited</t>
-            <t _id="libre">Free</t>
-            <t _id="ironmen">Ironmen</t>
+            <t _id="limit">Обмежений</t>
+            <t _id="libre">Вільний</t>
+            <t _id="ironmen">Залізна людина</t>
         </g>
         <g id="save_modes_desc">
             <t _id="uneseulesauvegardeparpartiemaisvouspouvezrevenirtoutmomentcertainspointsderetourtelsquelederniervillagevisitledbutduncombatetc">Only one save per game, but you can go back at any time to certain checkpoints, like the last village you visited, the beginning of a battle, etc.</t>
@@ -2309,14 +2309,14 @@ You receive <gold>::gold::</gold>.</t>
 
 		- <inf>Ironmen</inf> Mode: One save, one chance! You cannot go back and any Game Over is irreversible. This is the most difficult and demanding game mode in Wartales!
         </t>
-        <t id="scale_mode">Exploration Mode</t>
+        <t id="scale_mode">Режим дослідження</t>
         <g id="scale_modes">
-            <t _id="explorationadaptative">Adaptive Exploration</t>
-            <t _id="explorationzone">Region-locked Exploration</t>
+            <t _id="explorationadaptative">Адаптивне дослідження</t>
+            <t _id="explorationzone">Регіональне дослідження</t>
         </g>
         <g id="scale_modes_desc">
-            <t _id="lesrgionsdumondeontunedifficultquisadaptedynamiquementlatailledevotregroupeetlapuissancedevosunitslejeuvousproposeraenpermanenceunchallengeadaptvotrequipe">The difficulty of all regions adapts dynamically to your group's size and your units' power. The game will always offer a challenge suited to your troop.</t>
-            <t _id="ladifficultdesrgionsdumondeestfixedsledpartetnvoluepasilvousfaudraagrandiretamliorervotretroupeavantdepouvoirexplorerlesrecoinslesplusdangereuxetaffronterlesennemislespluspuissants">Each region of the world has a set difficulty from the start. You will have to expand and improve your troop before you can explore more dangerous areas and fight more powerful enemies.</t>
+            <t _id="lesrgionsdumondeontunedifficultquisadaptedynamiquementlatailledevotregroupeetlapuissancedevosunitslejeuvousproposeraenpermanenceunchallengeadaptvotrequipe">Складність усіх регіонів динамічно адаптується до розміру вашої групи та сили ваших юнітів. Гра завжди буде пропонувати виклик, відповідний вашому війську.</t>
+            <t _id="ladifficultdesrgionsdumondeestfixedsledpartetnvoluepasilvousfaudraagrandiretamliorervotretroupeavantdepouvoirexplorerlesrecoinslesplusdangereuxetaffronterlesennemislespluspuissants">Кожен регіон світу має встановлену складність з самого початку. Вам доведеться розширити та покращити ваше військо, перш ніж ви зможете досліджувати більш небезпечні зони та битися з потужнішими ворогами.</t>
         </g>
         <t id="scale_mode_help">You can explore the world of Wartales in two different ways:
 
@@ -2385,14 +2385,14 @@ You receive <gold>::gold::</gold>.</t>
         </g>
     </g>
     <g id="padKeyInfo">
-        <t id="show_cursor">Cursor <small>(hold)</small></t>
-        <t id="run">Run <small>(hold)</small></t>
-        <t id="drag_unit">Move <small>(hold)</small></t>
-        <t id="select_unit">Select</t>
-        <t id="unselect_unit">Unselect</t>
-        <t id="renfort_unit">Withdraw</t>
-        <t id="show_preview">Show Preview</t>
-        <t id="save_edition">Save Changes</t>
-        <t id="cancel_edition">Discard Changes</t>
+        <t id="show_cursor">Курсор <small>(утримувати)</small></t>
+        <t id="run">Біг <small>(утримувати)</small></t>
+        <t id="drag_unit">Перемістити <small>(утримувати)</small></t>
+        <t id="select_unit">Вибрати</t>
+        <t id="unselect_unit">Скасувати вибір</t>
+        <t id="renfort_unit">Відкликати</t>
+        <t id="show_preview">Показати попередній перегляд</t>
+        <t id="save_edition">Зберегти зміни</t>
+        <t id="cancel_edition">Відхилити зміни</t>
     </g>
 </texts>
