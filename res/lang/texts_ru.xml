@@ -361,45 +361,45 @@
             <t _id="j3">P3</t>
             <t _id="j4">P4</t>
         </g>
-        <t id="hold_action"><small>(hold)</small></t>
-        <t id="player_too_far">::playerName::'s Companions are too far away to enter this building.</t>
-        <t id="player_too_far_camp">::playerName::'s Companions are too far away to set up the camp.</t>
-        <t id="connection">Waiting for host...</t>
-        <t id="waiting_players">Waiting for players...</t>
-        <t id="host_only">Only the game's host can do this.</t>
-        <t id="cant_create_lobby">Failed to create a game session.
-Please try again later.</t>
-        <t id="room_code">Invite code</t>
-        <t id="show_hide_code">Show/Hide invite code</t>
-        <t id="copy_code">Copy</t>
-        <t id="code_copied">Code copied</t>
+        <t id="hold_action"><small>(утримуйте)</small></t>
+        <t id="player_too_far">Товариші ::playerName:: занадто далеко, щоб увійти до цієї будівлі.</t>
+        <t id="player_too_far_camp">Товариші ::playerName:: занадто далеко, щоб розбити табір.</t>
+        <t id="connection">Очікування хоста...</t>
+        <t id="waiting_players">Очікування гравців...</t>
+        <t id="host_only">Тільки хост гри може це зробити.</t>
+        <t id="cant_create_lobby">Не вдалося створити ігрову сесію.
+Будь ласка, спробуйте пізніше.</t>
+        <t id="room_code">Код запрошення</t>
+        <t id="show_hide_code">Показати/Приховати код запрошення</t>
+        <t id="copy_code">Копіювати</t>
+        <t id="code_copied">Код скопійовано</t>
         <g id="errors">
-            <t id="LobbyFull">Cannot join the lobby.
-The game session is full.</t>
-            <t id="InvalidPlayer">Cannot join this saved game.
-No slots available.</t>
-            <t id="Fail">Cannot join the lobby.
-Please try again later.</t>
-            <t id="InvalidCode">Found no game session linked to this invite code.</t>
+            <t id="LobbyFull">Не вдалося приєднатися до лобі.
+Ігрова сесія заповнена.</t>
+            <t id="InvalidPlayer">Не вдалося приєднатися до цього збереження.
+Немає доступних слотів.</t>
+            <t id="Fail">Не вдалося приєднатися до лобі.
+Будь ласка, спробуйте пізніше.</t>
+            <t id="InvalidCode">Не знайдено ігрову сесію, пов'язану з цим кодом запрошення.</t>
         </g>
-        <t id="add_user">Add new player</t>
-        <t id="remove_user">Remove ::playerName::</t>
-        <t id="transfer_unit">Transfer units</t>
+        <t id="add_user">Додати нового гравця</t>
+        <t id="remove_user">Видалити ::playerName::</t>
+        <t id="transfer_unit">Передати підрозділи</t>
     </g>
     <g id="tips">
-        <t id="craft_by_troup">Made by the troop</t>
-        <t id="seal_name">Stamp: ::skillName::</t>
-        <t id="tiredness">Fatigue</t>
-        <t id="tiredness_info">Check your troop's <b>Fatigue</b> to know when you need to set up camp and rest.
-Use the campfire to cook a nice meal and get some sleep.</t>
-        <t id="rest_not_tired">Your troop has rested long enough for now.</t>
-        <t id="gold_info"><b>Krowns</b> are the basic currency. You must pay your Companions' wages every ::nbRest:: Rests.
+        <t id="craft_by_troup">Зроблено загоном</t>
+        <t id="seal_name">Штамп: ::skillName::</t>
+        <t id="tiredness">Втома</t>
+        <t id="tiredness_info">Перевіряйте <b>втому</b> вашого загону, щоб дізнатися, коли потрібно розбити табір і відпочити.
+Використовуйте багаття, щоб приготувати смачну їжу і виспатися.</t>
+        <t id="rest_not_tired">Ваш загін відпочив достатньо на цей момент.</t>
+        <t id="gold_info"><b>Крони</b> — основна валюта. Ви повинні платити зарплату своїм товаришам кожні ::nbRest:: відпочинки.
 
- Rests before next wages: <b>::nextDueDate::</b>
+ Решта до наступної зарплати: <b>::nextDueDate::</b>
 
-Current total: <gold>::gold::</gold>
-Wages: <gold>::salaries::</gold>
-Wages due: <gold>::dueSalaries::</gold></t>
+Поточний підсумок: <gold>::gold::</gold>
+Зарплати: <gold>::salaries::</gold>
+Нарахована зарплата: <gold>::dueSalaries::</gold></t>
         <t id="gold_info_coop">Total Wages due: <gold>::dueSalaries::</gold></t>
         <t id="mission_gold">Fulfilled contracts: <gold>::gold::</gold></t>
         <t id="food_info">You must feed your Companions before each Rest: make sure you have enough <b>Food</b> in stock.
@@ -419,65 +419,65 @@ Consumption: <food>::conso::</food></t>
 
 		<::color2::>Any gain above <happy>::max::</happy> grants you <influence><b>::infl::</b></influence> per Happiness point.</::color2::>
         </t>
-        <t id="repair_all">Repair all for <img src="/item/RawMaterials"/>::count::</t>
-        <t id="repair_one">Repair <img src="/icon/Guard"/>::amount:: for <img src="/item/RawMaterials"/>1</t>
-        <t id="repair_ctrl_all"><comment>(Ctrl - Repair all)</comment></t>
-        <t id="pick_found_item">[RMB] Take</t>
-        <t id="drop_found_item">[RMB] Put down</t>
-        <t id="buy_shop_item">[RMB] Buy for <gold>::price::</gold></t>
-        <t id="cant_buy_shop_item">[RMB] Buy for <gold><bad>::price::</bad></gold></t>
-        <t id="buy_shop_item_with">[RMB] Buy for <font color="#ffffff"><img src="item/::currency::"/>::price::</font></t>
-        <t id="cant_buy_shop_item_with">[RMB] Buy for <bad><img src="item/::currency::"/>::price::</bad></t>
-        <t id="sell_shop_item">[RMB] Sell for <gold>::price::</gold></t>
-        <t id="sell_shop_item_stolen">[RMB] Sell for <gold>::price::</gold> <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
-        <t id="shop_ctrl_all"><comment>([CTRL] - All)</comment></t>
-        <t id="buy_shop_item_all">[RMB] Buy all for <gold>::price::</gold></t>
-        <t id="cant_buy_shop_item_all">[RMB] Buy all for <gold><bad>::price::</bad></gold></t>
-        <t id="buy_shop_item_with_all">[RMB] Buy all for <font color="#ffffff"><img src="item/::currency::"/>::price::</font></t>
-        <t id="cant_buy_shop_item_with_all">[RMB] Buy all for <bad><img src="item/::currency::"/>::price::</bad></t>
-        <t id="sell_shop_item_all">[RMB] Sell all for <gold>::price::</gold></t>
-        <t id="sell_shop_item_stolen_all">[RMB] Sell all for <gold>::price::</gold> <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
-        <t id="steal_item">[RMB] Steal <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
-        <t id="item_discounted_price"><good>(price temporarily reduced)</good></t>
-        <t id="unit_equip_item">[RMB] Equip</t>
-        <t id="unit_heal_injury">[RMB] Treat an injury</t>
-        <t id="item_require_level">Level ::level:: required</t>
-        <t id="layer_require_level">Level ::level:: armour required</t>
-        <t id="upgrade_weapon_need_unit">Requires a level ::level:: Companion who can use this weapon</t>
-        <t id="stolen_item_label">(stolen item)</t>
+        <t id="repair_all">Полагодити все за <img src="/item/RawMaterials"/>::count::</t>
+        <t id="repair_one">Полагодити <img src="/icon/Guard"/>::amount:: за <img src="/item/RawMaterials"/>1</t>
+        <t id="repair_ctrl_all"><comment>(Ctrl - Полагодити все)</comment></t>
+        <t id="pick_found_item">[ПКМ] Взяти</t>
+        <t id="drop_found_item">[ПКМ] Покласти</t>
+        <t id="buy_shop_item">[ПКМ] Купити за <gold>::price::</gold></t>
+        <t id="cant_buy_shop_item">[ПКМ] Купити за <gold><bad>::price::</bad></gold></t>
+        <t id="buy_shop_item_with">[ПКМ] Купити за <font color="#ffffff"><img src="item/::currency::"/>::price::</font></t>
+        <t id="cant_buy_shop_item_with">[ПКМ] Купити за <bad><img src="item/::currency::"/>::price::</bad></t>
+        <t id="sell_shop_item">[ПКМ] Продати за <gold>::price::</gold></t>
+        <t id="sell_shop_item_stolen">[ПКМ] Продати за <gold>::price::</gold> <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
+        <t id="shop_ctrl_all"><comment>([CTRL] - Все)</comment></t>
+        <t id="buy_shop_item_all">[ПКМ] Купити все за <gold>::price::</gold></t>
+        <t id="cant_buy_shop_item_all">[ПКМ] Купити все за <gold><bad>::price::</bad></gold></t>
+        <t id="buy_shop_item_with_all">[ПКМ] Купити все за <font color="#ffffff"><img src="item/::currency::"/>::price::</font></t>
+        <t id="cant_buy_shop_item_with_all">[ПКМ] Купити все за <bad><img src="item/::currency::"/>::price::</bad></t>
+        <t id="sell_shop_item_all">[ПКМ] Продати все за <gold>::price::</gold></t>
+        <t id="sell_shop_item_stolen_all">[ПКМ] Продати все за <gold>::price::</gold> <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
+        <t id="steal_item">[ПКМ] Вкрасти <bad><img src="icon/Suspicion"/> +::danger::</bad></t>
+        <t id="item_discounted_price"><good>(ціна тимчасово знижена)</good></t>
+        <t id="unit_equip_item">[ПКМ] Екіпірувати</t>
+        <t id="unit_heal_injury">[ПКМ] Лікувати поранення</t>
+        <t id="item_require_level">Вимагається рівень ::level::</t>
+        <t id="layer_require_level">Вимагається броня рівня ::level::</t>
+        <t id="upgrade_weapon_need_unit">Потрібен товариш рівня ::level::, який може використовувати цю зброю</t>
+        <t id="stolen_item_label">(вкрадений предмет)</t>
         <t id="item_bonus">::name:: <img src="icon/::icon::"/><good>::value::</good></t>
         <t id="item_convert">::name:: <img src="item/::item::"/><good>+::count::</good></t>
-        <t id="item_skill"><::color::>::name::</::color::> Skill</t>
-        <t id="item_diet_info">Corresponding Diet:</t>
-        <t id="skill_item_usage">Uses remaining: <b>::count::</b><img src="::icon::"/></t>
-        <t id="skill_item_usage_global_item">You have: <b>::count::</b><img src="::icon::"/></t>
-        <t id="cant_equip_this_item">This item cannot be equipped</t>
-        <t id="cant_equip_no_armor_slot">There are no free slots on your armour</t>
-        <t id="cant_equip_no_helmet">No helmet equipped.</t>
-        <t id="cant_equip_no_helmet_seal">The stamp has already been applied to this helmet.</t>
-        <t id="cant_equip_no_weapon">No weapon equipped.</t>
-        <t id="cant_equip_no_weapon_oil">The oil has already been applied to this weapon.</t>
-        <t id="cant_equip_shield">::name:: cannot equip a shield</t>
-        <t id="cant_equip_this_weapon">::name:: cannot equip this type of weapon</t>
-        <t id="cant_equip_armor">::name:: cannot equip "::armorType::"</t>
-        <t id="cant_equip_req_level">Level insufficient</t>
-        <t id="cant_equip_req_attribute">::name:: insufficient</t>
-        <t id="can_equip_armor">Can equip the ::name::</t>
-        <t id="cant_equip_left_hand">::name::'s offhand is already in use.</t>
-        <t id="cant_equip_madness">::name:: has gone mad and cannot equip this item.</t>
-        <t id="cant_equip_not_prisoner">::name:: is not a prisoner.</t>
-        <t id="item_already_equipped">This item is already equipped.</t>
-        <t id="clear_armor_slots">[RMBSHIFT] Remove layers (<img src="item/::item::"/> ::count::)</t>
-        <t id="clear_helmet_seal">[RMBSHIFT] Remove stamp</t>
-        <t id="skill_replace_seal">This skill is replaced by the stamp's skill</t>
-        <t id="cant_choose_specialization"><bad>This specialisation requires the <img src="skill/::skill::"/>::name:: skill</bad></t>
-        <t id="unit_salary">Wages paid to ::name:: <gold>::daily::</gold>.
-        You still owe them <gold>::due::</gold> in wages.</t>
-        <t id="unit_food">Daily food consumption</t>
-        <t id="unit_food_trait">Favourite food:</t>
-        <t id="unit_badDiet_days"><bad>Food requirements unmet for ::count:: days</bad></t>
-        <t id="unit_noDrinking_days">::count:: days without drinking alcohol</t>
-        <t id="unit_recruitSalary">::name::'s wages if recruited <gold>::daily::</gold>.</t>
+        <t id="item_skill"><::color::>::name::</::color::> Навичка</t>
+        <t id="item_diet_info">Відповідна дієта:</t>
+        <t id="skill_item_usage">Залишилось використань: <b>::count::</b><img src="::icon::"/></t>
+        <t id="skill_item_usage_global_item">У вас є: <b>::count::</b><img src="::icon::"/></t>
+        <t id="cant_equip_this_item">Цей предмет не може бути екіпірований</t>
+        <t id="cant_equip_no_armor_slot">На вашій броні немає вільних слотів</t>
+        <t id="cant_equip_no_helmet">Немає екіпірованого шолома.</t>
+        <t id="cant_equip_no_helmet_seal">Штамп вже застосовано до цього шолома.</t>
+        <t id="cant_equip_no_weapon">Немає екіпірованої зброї.</t>
+        <t id="cant_equip_no_weapon_oil">Олія вже застосована до цієї зброї.</t>
+        <t id="cant_equip_shield">::name:: не може екіпірувати щит</t>
+        <t id="cant_equip_this_weapon">::name:: не може екіпірувати цей тип зброї</t>
+        <t id="cant_equip_armor">::name:: не може екіпірувати "::armorType::"</t>
+        <t id="cant_equip_req_level">Недостатній рівень</t>
+        <t id="cant_equip_req_attribute">::name:: недостатньо</t>
+        <t id="can_equip_armor">Може екіпірувати ::name::</t>
+        <t id="cant_equip_left_hand">Другорядна рука ::name:: вже використовується.</t>
+        <t id="cant_equip_madness">::name:: збожеволів і не може екіпірувати цей предмет.</t>
+        <t id="cant_equip_not_prisoner">::name:: не є в'язнем.</t>
+        <t id="item_already_equipped">Цей предмет вже екіпірований.</t>
+        <t id="clear_armor_slots">[RMBSHIFT] Зняти шари (<img src="item/::item::"/> ::count::)</t>
+        <t id="clear_helmet_seal">[RMBSHIFT] Зняти штамп</t>
+        <t id="skill_replace_seal">Ця навичка замінена навичкою штампа</t>
+        <t id="cant_choose_specialization"><bad>Ця спеціалізація вимагає навичку <img src="skill/::skill::"/>::name::</bad></t>
+        <t id="unit_salary">Зарплата, виплачена ::name:: <gold>::daily::</gold>.
+        Ви ще повинні їм <gold>::due::</gold> зарплати.</t>
+        <t id="unit_food">Щоденне споживання їжі</t>
+        <t id="unit_food_trait">Улюблена їжа:</t>
+        <t id="unit_badDiet_days"><bad>Вимоги до харчування не виконані протягом ::count:: днів</bad></t>
+        <t id="unit_noDrinking_days">::count:: днів без вживання алкоголю</t>
+        <t id="unit_recruitSalary">Зарплата ::name:: у разі рекрутування <gold>::daily::</gold>.</t>
         <t id="knockout_unit">This fighter was stunned in combat and was taken prisoner.
 
 [LMB] Actions
@@ -591,507 +591,507 @@ Upgrade your carriage or unload heavy items.</t>
             <t _id="poids">Weight</t>
             <t _id="raret">Rarity</t>
         </g>
-        <t id="camp_place_tool">Place in camp</t>
-        <t id="camp_cant_place_tool"><bad>Already placed in camp</bad></t>
-        <t id="camp_no_more_place"><bad>No space left.</bad></t>
-        <t id="hideout_reveal">Reveal location</t>
-        <t id="camp_use_tool">[RMB] Use</t>
-        <t id="camp_remove_tool">[RMBSHIFT] Place in inventory</t>
-        <t id="camp_move">[LMB] Move <small>(hold)</small></t>
-        <t id="camp_move_no_hold">[LMB] Move</t>
-        <t id="select_unit">[LMB] Select a Companion</t>
-        <t id="inspect">[RMB] Inspect</t>
-        <t id="shift_inspect">[RMBSHIFT] Examine</t>
-        <t id="leave_companion">[LMB] Garrison</t>
-        <t id="add_companion">[LMB] Add to the troop</t>
-        <t id="use_heal_remedy">[RMB] Treat injury</t>
-        <t id="action_assign_armor_layer">[RMB] Add layer to armour</t>
-        <t id="action_assign_helmet_seal">[RMB] Place stamp on helmet</t>
-        <t id="trade_log_buy"><small>::when:: </small> <good>Purchased</good> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small> from ::where:: for <gold>::price::</gold></t>
-        <t id="trade_log_sell"><small>::when:: </small> <bad>Sold</bad> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small> to ::where:: for <gold>::price::</gold></t>
-        <t id="wanted_title">Wanted</t>
-        <t id="wanted_status_progress">Current Wanted Level: <b>::current::/::max::</b></t>
-        <t id="wanted_status_active"><bad>You are wanted for the following reasons:</bad></t>
-        <t id="wanted_status_desc"><good>You are not currently Wanted by the Guard.</good></t>
-        <t id="wanted_stolen_fine">Stolen items possessed</t>
-        <t id="wanted_stolen_used_fine">Stolen items disposed of</t>
+        <t id="camp_place_tool">Розмістити в таборі</t>
+        <t id="camp_cant_place_tool"><bad>Вже розміщено в таборі</bad></t>
+        <t id="camp_no_more_place"><bad>Немає вільного місця</bad></t>
+        <t id="hideout_reveal">Розкрити місцезнаходження</t>
+        <t id="camp_use_tool">[ПКМ] Використати</t>
+        <t id="camp_remove_tool">[RMBSHIFT] Покласти в інвентар</t>
+        <t id="camp_move">[ЛКМ] Перемістити <small>(утримуйте)</small></t>
+        <t id="camp_move_no_hold">[ЛКМ] Перемістити</t>
+        <t id="select_unit">[ЛКМ] Обрати товариша</t>
+        <t id="inspect">[ПКМ] Оглянути</t>
+        <t id="shift_inspect">[RMBSHIFT] Розглянути</t>
+        <t id="leave_companion">[ЛКМ] Залишити в гарнізоні</t>
+        <t id="add_companion">[ЛКМ] Додати до загону</t>
+        <t id="use_heal_remedy">[ПКМ] Лікувати поранення</t>
+        <t id="action_assign_armor_layer">[ПКМ] Додати шар до броні</t>
+        <t id="action_assign_helmet_seal">[ПКМ] Нанести штамп на шолом</t>
+        <t id="trade_log_buy"><small>::when:: </small> <good>Придбано</good> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small> з ::where:: за <gold>::price::</gold></t>
+        <t id="trade_log_sell"><small>::when:: </small> <bad>Продано</bad> <img src="item/::icon::"/><b> ::name:: </b><small>::qty::</small> до ::where:: за <gold>::price::</gold></t>
+        <t id="wanted_title">Розшук</t>
+        <t id="wanted_status_progress">Поточний рівень розшуку: <b>::current::/::max::</b></t>
+        <t id="wanted_status_active"><bad>Вас розшукують з таких причин:</bad></t>
+        <t id="wanted_status_desc"><good>Наразі вас не розшукує охорона.</good></t>
+        <t id="wanted_stolen_fine">Володіння краденими предметами</t>
+        <t id="wanted_stolen_used_fine">Утилізація крадених предметів</t>
         <t id="wanted_reason_fine">- ::reason:: <gold>::fine::</gold></t>
-        <t id="item_level_short">Lvl.::level::</t>
+        <t id="item_level_short">Рівень ::level::</t>
         <g id="item_rarity">
-            <t _id="commun">Common</t>
-            <t _id="inhabituel">Unusual</t>
-            <t _id="rare">Rare</t>
-            <t _id="lgendaire">Legendary</t>
+            <t _id="commun">Звичайний</t>
+            <t _id="inhabituel">Незвичайний</t>
+            <t _id="rare">Рідкісний</t>
+            <t _id="lgendaire">Легендарний</t>
         </g>
-        <t id="item_upgradable">- Upgradable</t>
-        <t id="item_unique">- Unique</t>
+        <t id="item_upgradable">- Може бути покращено</t>
+        <t id="item_unique">- Унікальний</t>
         <t id="camp_assigned_count"><img src="icon/::icon::"/>::cur::/::max::</t>
-        <t id="battle_deploy_slot">You can place a Companion here before the battle starts.</t>
-        <t id="unit_set_job">::name:: will become a ::job::</t>
-        <t id="unit_switch_job">This Companion will lose all experience gained as ::job:: ::level::.</t>
-        <t id="unit_no_job">This Companion does not have a profession yet.</t>
-        <t id="unit_job"><b>Profession:</b> ::name::</t>
-        <t id="unit_job_choose">[LMB] Choose a profession</t>
-        <t id="unit_job_change">[LMB] Change profession</t>
-        <t id="item_global_bonus"><b>Troop bonus:</b> ::desc::</t>
-        <t id="item_local_bonus"><b>Bonus:</b> ::desc::</t>
-        <t id="item_food_bonus"><disable> (lasts until the next Rest)</disable></t>
-        <t id="mission_board_cant_accept_quest">You must complete active contracts before accepting new ones.</t>
-        <t id="gameinfo_toggle_units">Show/Hide Companions list</t>
-        <t id="action_skill_upgrade">[RMB] Improve the skill <img src="item/::item::"/></t>
-        <t id="skill_upgrade_no_unit">View a <idesc>Companion</idesc> and choose which skill to upgrade.</t>
-        <t id="skill_upgradable">Choose which skill to upgrade.</t>
-        <t id="skill_no_skill_upgradable"><bad>Your <idesc>Companion</idesc> has no upgradable skills.</bad></t>
-        <t id="unlock_class">Learn the <b>::name::</b> specialisation</t>
-        <t id="preview_unlock_class">Preview the specialisation</t>
-        <t id="codex_need_restored">This codex of the Ancients is damaged. You can use the <img src="item/Lectern"/><b>Lectern</b> to restore it.</t>
-        <t id="codex_locked_desc">This codex of the Ancients can be deciphered only if the following <b>runes</b> have been learned:</t>
-        <t id="codex_can_be_unlocked">This codex of the Ancients can be deciphered at the <img src="item/Lectern"/><b>Lectern</b>.</t>
-        <t id="codex_unlocked_desc">You have deciphered the following excerpt from the codex of the Ancients:</t>
-        <t id="page_need_restored">This journal is damaged. You can use the <img src="item/Lectern"/><b>Lectern</b> to restore it.</t>
-        <t id="page_locked_desc">This journal can be deciphered only if the following <b>runes</b> have been learned:</t>
-        <t id="page_can_be_unlocked">This journal can be deciphered at the <img src="item/Lectern"/><b>Lectern</b>.</t>
-        <t id="page_unlocked_desc">You have deciphered the following excerpt from the journal:</t>
-        <t id="rune_desc">You have furthered your knowledge of the runes of the Ancients. This rune symbolises the word <b>::word::</b>”</t>
-        <t id="recipe_food">Recipe: ::name::</t>
-        <t id="recipe_food_desc">Teaches you how to cook: ::name::</t>
-        <t id="recipe_alchemist">Recipe: ::name::</t>
-        <t id="recipe_alchemist_desc">Teaches you how to prepare: ::name::</t>
-        <t id="recipe_forge_desc">Teaches you how to forge: ::name::</t>
-        <t id="recipe_other">Blueprint: ::name::</t>
-        <t id="recipe_other_desc">Teaches you how to craft: ::name::</t>
-        <t id="manual_name">Manual: ::skillName::</t>
-        <t id="manual_desc">Contains knowledge that will allow one of your Companions to learn a new skill.</t>
-        <t id="manual_requires_unit">View a <idesc>Companion</idesc> to learn this skill.</t>
-        <t id="manual_already_learnt">Your <idesc>Companion</idesc> has already learnt this skill.</t>
-        <t id="strategy_name">Strategy: ::strategyName::</t>
-        <t id="strategy_desc">Read this to learn a new strategy for your Strategy Table.</t>
-        <t id="job_assigned"><b><img src="/trait/::icon::"/>Assigned ::kind::: </b></t>
-        <t id="rank_assigned"><b> Assigned ::kind::: </b></t>
-        <t id="ranked_assigned"><b>High-ranking Companion assigned: </b></t>
-        <t id="map_defended_by">Defended by: <b>::name::</b></t>
-        <t id="probabilitySuccess">Success rate: ::value::%</t>
+        <t id="battle_deploy_slot">Ви можете розмістити товариша тут перед початком бою.</t>
+        <t id="unit_set_job">::name:: стане ::job::</t>
+        <t id="unit_switch_job">Цей товариш втратить весь отриманий досвід як ::job:: ::level::.</t>
+        <t id="unit_no_job">Цей товариш ще не має професії.</t>
+        <t id="unit_job"><b>Професія:</b> ::name::</t>
+        <t id="unit_job_choose">[ЛКМ] Обрати професію</t>
+        <t id="unit_job_change">[ЛКМ] Змінити професію</t>
+        <t id="item_global_bonus"><b>Бонус загону:</b> ::desc::</t>
+        <t id="item_local_bonus"><b>Бонус:</b> ::desc::</t>
+        <t id="item_food_bonus"><disable> (діє до наступного відпочинку)</disable></t>
+        <t id="mission_board_cant_accept_quest">Ви повинні завершити активні контракти перед прийняттям нових.</t>
+        <t id="gameinfo_toggle_units">Показати/приховати список товаришів</t>
+        <t id="action_skill_upgrade">[ПКМ] Покращити навичку <img src="item/::item::"/></t>
+        <t id="skill_upgrade_no_unit">Перегляньте <idesc>товариша</idesc> і оберіть, яку навичку покращити.</t>
+        <t id="skill_upgradable">Оберіть, яку навичку покращити.</t>
+        <t id="skill_no_skill_upgradable"><bad>Ваш <idesc>товариш</idesc> не має навичок, які можна покращити.</bad></t>
+        <t id="unlock_class">Вивчити спеціалізацію <b>::name::</b></t>
+        <t id="preview_unlock_class">Попередній перегляд спеціалізації</t>
+        <t id="codex_need_restored">Цей кодекс Стародавніх пошкоджений. Ви можете використовувати <img src="item/Lectern"/><b>Лектр</b> для його відновлення.</t>
+        <t id="codex_locked_desc">Цей кодекс Стародавніх можна розшифрувати лише якщо вивчені наступні <b>руни</b>:</t>
+        <t id="codex_can_be_unlocked">Цей кодекс Стародавніх можна розшифрувати на <img src="item/Lectern"/><b>Лектрі</b>.</t>
+        <t id="codex_unlocked_desc">Ви розшифрували наступний уривок з кодексу Стародавніх:</t>
+        <t id="page_need_restored">Цей журнал пошкоджений. Ви можете використовувати <img src="item/Lectern"/><b>Лектр</b> для його відновлення.</t>
+        <t id="page_locked_desc">Цей журнал можна розшифрувати лише якщо вивчені наступні <b>руни</b>:</t>
+        <t id="page_can_be_unlocked">Цей журнал можна розшифрувати на <img src="item/Lectern"/><b>Лектрі</b>.</t>
+        <t id="page_unlocked_desc">Ви розшифрували наступний уривок з журналу:</t>
+        <t id="rune_desc">Ви поглибили свої знання про руни Стародавніх. Ця руна символізує слово <b>::word::</b></t>
+        <t id="recipe_food">Рецепт: ::name::</t>
+        <t id="recipe_food_desc">Навчає вас готувати: ::name::</t>
+        <t id="recipe_alchemist">Рецепт: ::name::</t>
+        <t id="recipe_alchemist_desc">Навчає вас готувати: ::name::</t>
+        <t id="recipe_forge_desc">Навчає вас кувати: ::name::</t>
+        <t id="recipe_other">Чертеж: ::name::</t>
+        <t id="recipe_other_desc">Навчає вас майструвати: ::name::</t>
+        <t id="manual_name">Посібник: ::skillName::</t>
+        <t id="manual_desc">Містить знання, які дозволять одному з ваших товаришів вивчити нову навичку.</t>
+        <t id="manual_requires_unit">Перегляньте <idesc>товариша</idesc> для вивчення цієї навички.</t>
+        <t id="manual_already_learnt">Ваш <idesc>товариш</idesc> вже вивчив цю навичку.</t>
+        <t id="strategy_name">Стратегія: ::strategyName::</t>
+        <t id="strategy_desc">Прочитайте це, щоб вивчити нову стратегію для вашого Стратегічного Столу.</t>
+        <t id="job_assigned"><b><img src="/trait/::icon::"/>Призначено ::kind::: </b></t>
+        <t id="rank_assigned"><b> Призначено ::kind::: </b></t>
+        <t id="ranked_assigned"><b>Призначено високопоставленого товариша: </b></t>
+        <t id="map_defended_by">Обороняється: <b>::name::</b></t>
+        <t id="probabilitySuccess">Імовірність успіху: ::value::%</t>
         <g id="bonuses">
-            <t id="title">Troop and Bonuses</t>
+            <t id="title">Загін і бонуси</t>
             <t id="gameTitle">::troopName::</t>
-            <t id="count">You have <img src="icon/Companions"/><b>::count::</b> Companions in your troop.</t>
-            <t id="bonus_global">General Bonuses</t>
-            <t id="bonus_equip">Equipment Bonuses</t>
-            <t id="bonus_path">Path Bonuses</t>
-            <t id="bonus_untilrest">Bonus until the next Rest</t>
-            <t id="skill_untilrest">Passive Skills until the next Rest</t>
+            <t id="count">У вашому загоні <img src="icon/Companions"/><b>::count::</b> товаришів.</t>
+            <t id="bonus_global">Загальні бонуси</t>
+            <t id="bonus_equip">Бонуси спорядження</t>
+            <t id="bonus_path">Бонуси шляху</t>
+            <t id="bonus_untilrest">Бонус до наступного відпочинку</t>
+            <t id="skill_untilrest">Пасивні навички до наступного відпочинку</t>
         </g>
-        <t id="dialog_rest">Rest so that your troop can recuperate and recover <ap>::ap::</ap></t>
-        <t id="dialog_sing">Sing a song to let the Bard in you shine.</t>
-        <t id="recruit_announce">Publish a Vacancy Notice to hire a recruit.</t>
-        <t id="dialog_heal_injuries">Heal all your Companions' minor wounds.</t>
-        <t id="dialog_heal_prisoners_injuries">Heal all your Prisoners' minor wounds.</t>
-        <t id="orient_map">[RMB] Place a location marker</t>
-        <t id="stickers_map">[LMB] Place a sticker</t>
-        <t id="map_goal_default">Go there to find out more.</t>
-        <t id="map_goal_need_mission">Take on ::name::'s mission</t>
-        <t id="map_goal_need_mission_nonpc">Take on a mission there</t>
-        <t id="map_goal_unknown">Talk to someone or look around the area to find out more.</t>
-        <t id="map_goal_done"><good>Complete!</good></t>
-        <t id="open_gold_purse">Open</t>
-        <t id="use_hidden_item">Use</t>
+        <t id="dialog_rest">Відпочиньте, щоб ваш загін міг відновитися та відновити <ap>::ap::</ap></t>
+        <t id="dialog_sing">Заспівайте пісню, щоб дати блиснути вашому барду.</t>
+        <t id="recruit_announce">Опублікуйте оголошення про вакансію, щоб найняти рекрута.</t>
+        <t id="dialog_heal_injuries">Вилікуйте всі незначні рани ваших товаришів.</t>
+        <t id="dialog_heal_prisoners_injuries">Вилікуйте всі незначні рани ваших в'язнів.</t>
+        <t id="orient_map">[ПКМ] Встановити маркер місцезнаходження</t>
+        <t id="stickers_map">[ЛКМ] Встановити наліпку</t>
+        <t id="map_goal_default">Йдіть туди, щоб дізнатися більше.</t>
+        <t id="map_goal_need_mission">Візьміть завдання від ::name::</t>
+        <t id="map_goal_need_mission_nonpc">Візьміть завдання там</t>
+        <t id="map_goal_unknown">Поговоріть з кимось або огляньте місцевість, щоб дізнатися більше.</t>
+        <t id="map_goal_done"><good>Завершено!</good></t>
+        <t id="open_gold_purse">Відкрити</t>
+        <t id="use_hidden_item">Використати</t>
         <g id="escape">
-            <t id="other_prisoners">Prisoner in the troop</t>
-            <t id="ally_around">Companions nearby</t>
-            <t id="watchstool_assign">Camp is guarded</t>
+            <t id="other_prisoners">В'язень у загоні</t>
+            <t id="ally_around">Товариші поруч</t>
+            <t id="watchstool_assign">Табір охороняється</t>
         </g>
         <g id="relation">
-            <t id="gain_with">::value:: Relationship with ::name::.</t>
-            <t id="gain_group">::value:: Relationship with the group.</t>
-            <t id="gain_group_percent">::value:: Relationship with close Companions.</t>
-            <t id="gain_group_best">::value:: Relationship with appreciated Companions.</t>
-            <t id="gain_companion">::value:: Relationship with a Companion.</t>
-            <t id="gain_random_with">Will affect your relationship with ::name::.</t>
-            <t id="gain_random_group">Will affect your relationship with the group.</t>
-            <t id="gain_random_group_percent">Will affect your relationship with nearby Companions.</t>
-            <t id="gain_random_group_best">Will affect your relationship with your favourite Companions.</t>
-            <t id="gain_random_companion">Will affect your relationship with a Companion.</t>
+            <t id="gain_with">::value:: Відносини з ::name::.</t>
+            <t id="gain_group">::value:: Відносини з групою.</t>
+            <t id="gain_group_percent">::value:: Відносини з близькими товаришами.</t>
+            <t id="gain_group_best">::value:: Відносини з улюбленими товаришами.</t>
+            <t id="gain_companion">::value:: Відносини з товаришем.</t>
+            <t id="gain_random_with">Вплине на ваші відносини з ::name::.</t>
+            <t id="gain_random_group">Вплине на ваші відносини з групою.</t>
+            <t id="gain_random_group_percent">Вплине на ваші відносини з близькими товаришами.</t>
+            <t id="gain_random_group_best">Вплине на ваші відносини з улюбленими товаришами.</t>
+            <t id="gain_random_companion">Вплине на ваші відносини з товаришем.</t>
         </g>
         <g id="xp">
-            <t id="gain_self">::value:: xp</t>
-            <t id="gain_target">::value:: xp for ::name::</t>
-            <t id="gain_group_percent">::value:: xp with close Companions.</t>
+            <t id="gain_self">::value:: XP</t>
+            <t id="gain_target">::value:: XP для ::name::</t>
+            <t id="gain_group_percent">::value:: XP з близькими товаришами.</t>
         </g>
-        <t id="gain_injury">Risk of Injury</t>
-        <t id="gain_status">::name:: will gain the <b>::status::</b> status</t>
+        <t id="gain_injury">Ризик поранення</t>
+        <t id="gain_status">::name:: отримає статус <b>::status::</b></t>
         <t id="desc_status"><comment><b>::status::</b>: ::desc::</comment></t>
-        <t id="gain_trait">::name:: will gain the <b>::trait::</b> trait</t>
-        <t id="gain_job">::name:: will become a <b>::job:: ::level::</b></t>
-        <t id="rest_die">::name:: will die during the next Rest</t>
+        <t id="gain_trait">::name:: отримає рису <b>::trait::</b></t>
+        <t id="gain_job">::name:: стане <b>::job:: ::level::</b></t>
+        <t id="rest_die">::name:: помре під час наступного відпочинку</t>
         <g id="job_xp">
             <t id="gain">::value:: xp as ::job::</t>
         </g>
         <g id="confession">
-            <t id="suggested_by">Suggested by ::name::.</t>
-            <t id="leaver">::name:: will leave the troop.</t>
-            <t id="kill">::name:: will die.</t>
-            <t id="surrender">::name:: will go to Jail.</t>
-            <t id="notify_relation_improve_list"><b>::name::</b>'s relationship with the following Companions has improved: <b>::names::</b></t>
-            <t id="notify_relation_deteriorate_list"><b>::name::</b>'s relationship with the following Companions has deteriorated: <b>::names::</b></t>
+            <t id="suggested_by">Запропоновано ::name::.</t>
+            <t id="leaver">::name:: покине загін.</t>
+            <t id="kill">::name:: помре.</t>
+            <t id="surrender">::name:: потрапить до в'язниці.</t>
+            <t id="notify_relation_improve_list">Відносини <b>::name::</b> з наступними товаришами покращилися: <b>::names::</b></t>
+            <t id="notify_relation_deteriorate_list">Відносини <b>::name::</b> з наступними товаришами погіршилися: <b>::names::</b></t>
         </g>
-        <t id="attribute_point">Aptitude Point(s)</t>
-        <t id="item_required">Requires <img src="item/::item::"/><bad>::itemName::</bad></t>
-        <t id="food_delicious">Delicious</t>
+        <t id="attribute_point">Очки здібностей</t>
+        <t id="item_required">Вимагається <img src="item/::item::"/><bad>::itemName::</bad></t>
+        <t id="food_delicious">Смачно</t>
         <g id="boat">
-            <t id="durability">Durability</t>
-            <t id="action_embark">Board</t>
-            <t id="action_dock">Dock</t>
-            <t id="crew_position">Crew Position</t>
-            <t id="job_require">Requires ::jobName::</t>
-            <t id="job_action_require">Only the Companion assigned to the ::jobName:: position can perform this action.</t>
-            <t id="assign_job">[LMB] Assign Companion</t>
-            <t id="unassign_job">[RMB] Remove Companion</t>
-            <t id="replace_job">[LMB] Replace Companion</t>
-            <t id="boat_repatriate">Send the Ship to this Dock for ::cost::?</t>
-            <t id="boat_repatriate_small">Retrieve for ::cost::</t>
-            <t id="action_install_equipment">[LMB] Install equipment</t>
-            <t id="action_build_equipment">[LMB] Build equipment</t>
-            <t id="action_upgrade_equipment">[RMB] Upgrade equipment</t>
-            <t id="action_repair_equipment">[RMB] Repair equipment</t>
-            <t id="select_ammo">[LMB] Select</t>
-            <t id="need_dock_equipment"><bad>The ship must be moored at a Dock to modify its equipment</bad></t>
-            <t id="need_dock_repair"><bad>The ship must be moored at a Dock to undergo repairs</bad></t>
-            <t id="build_equipment_confirm">Build ::item::?</t>
-            <t id="repair_confirm">Make repairs?</t>
-            <t id="no_ballista">The ship is not equipped with a ballista</t>
-            <t id="damaged_equipment"><bad>This part of the boat is damaged and no longer works. Repair it at a Dock.</bad></t>
-            <t id="repair">Repairs</t>
-            <t id="ballista_damaged"><bad>The ballista is damaged</bad></t>
-            <t id="equipment_unknown">You have not yet found the blueprints to build this equipment.</t>
+            <t id="durability">Міцність</t>
+            <t id="action_embark">Сісти на борт</t>
+            <t id="action_dock">Причалити</t>
+            <t id="crew_position">Позиція екіпажу</t>
+            <t id="job_require">Вимагається ::jobName::</t>
+            <t id="job_action_require">Тільки товариш, призначений на позицію ::jobName::, може виконати цю дію.</t>
+            <t id="assign_job">[ЛКМ] Призначити товариша</t>
+            <t id="unassign_job">[ПКМ] Видалити товариша</t>
+            <t id="replace_job">[ЛКМ] Заміна товариша</t>
+            <t id="boat_repatriate">Відправити корабель до цього причалу за ::cost::?</t>
+            <t id="boat_repatriate_small">Повернути за ::cost::</t>
+            <t id="action_install_equipment">[ЛКМ] Встановити обладнання</t>
+            <t id="action_build_equipment">[ЛКМ] Побудувати обладнання</t>
+            <t id="action_upgrade_equipment">[ПКМ] Оновити обладнання</t>
+            <t id="action_repair_equipment">[ПКМ] Полагодити обладнання</t>
+            <t id="select_ammo">[ЛКМ] Вибрати</t>
+            <t id="need_dock_equipment"><bad>Корабель повинен бути пришвартований до причалу, щоб змінити обладнання</bad></t>
+            <t id="need_dock_repair"><bad>Корабель повинен бути пришвартований до причалу, щоб провести ремонт</bad></t>
+            <t id="build_equipment_confirm">Побудувати ::item::?</t>
+            <t id="repair_confirm">Зробити ремонт?</t>
+            <t id="no_ballista">Корабель не оснащений балістою</t>
+            <t id="damaged_equipment"><bad>Ця частина корабля пошкоджена і більше не працює. Полагодьте її на причалі.</bad></t>
+            <t id="repair">Ремонт</t>
+            <t id="ballista_damaged"><bad>Баліста пошкоджена</bad></t>
+            <t id="equipment_unknown">Ви ще не знайшли креслення для побудови цього обладнання.</t>
         </g>
         <g id="watchman">
-            <t id="animal_try_telling_something">**(Strange noises coming from the Lookout's post)**</t>
+            <t id="animal_try_telling_something">**(Дивні звуки доносяться з посту спостерігача)**</t>
             <g id="insight">
-                <t _id="nameregardelouest">::name:: looks to the West.</t>
-                <t _id="nameregardeaunordouest">::name:: looks to the North-West.</t>
-                <t _id="nameregardeaunord">::name:: looks to the North.</t>
-                <t _id="nameregardeaunordest">::name:: looks to the North-East.</t>
-                <t _id="nameregardelest">::name:: looks to the East.</t>
-                <t _id="nameregardeausudest">::name:: looks to the South-East.</t>
-                <t _id="nameregardeausud">::name:: looks to the South.</t>
-                <t _id="nameregardeausudouest">::name:: looks to the South-West.</t>
+                <t _id="nameregardelouest">::name:: дивиться на Захід.</t>
+                <t _id="nameregardeaunordouest">::name:: дивиться на Північний Захід.</t>
+                <t _id="nameregardeaunord">::name:: дивиться на Північ.</t>
+                <t _id="nameregardeaunordest">::name:: дивиться на Північний Схід.</t>
+                <t _id="nameregardelest">::name:: дивиться на Схід.</t>
+                <t _id="nameregardeausudest">::name:: дивиться на Південний Схід.</t>
+                <t _id="nameregardeausud">::name:: дивиться на Південь.</t>
+                <t _id="nameregardeausudouest">::name:: дивиться на Південний Захід.</t>
             </g>
-            <t id="guard">“The Guard!”</t>
-            <t id="pirates">“Pirates!”</t>
-            <t id="new_land">“New land in sight!”</t>
-            <t id="floatable">“Something floating!”</t>
-            <t id="animal_worried">** worried grunts! **</t>
-            <t id="animal_excited">** enthusiastic grunts! **</t>
-            <t id="animal_intrigued">** curious grunts! **</t>
+            <t id="guard">“Охорона!”</t>
+            <t id="pirates">“Пірати!”</t>
+            <t id="new_land">“На горизонті нова земля!”</t>
+            <t id="floatable">“Щось плаває!”</t>
+            <t id="animal_worried">** стурбоване гарчання! **</t>
+            <t id="animal_excited">** захоплене гарчання! **</t>
+            <t id="animal_intrigued">** цікаве гарчання! **</t>
         </g>
     </g>
     <g id="items">
-        <t id="hideoutmap_defender_killed_desc">::name:: has been destroyed. This map is of no use to you.</t>
-        <t id="raw_materials">Armour Points restored: <b>::qty::</b></t>
+        <t id="hideoutmap_defender_killed_desc">::name:: був знищений. Ця карта вам не потрібна.</t>
+        <t id="raw_materials">Очки броні відновлено: <b>::qty::</b></t>
     </g>
     <g id="confirm">
-        <t id="unit_dismiss">Do you really want to dismiss <b>::name::</b> ?</t>
-        <t id="unit_dismiss_no_more_unit">You cannot dismiss your last Companion.</t>
-        <t id="transfer_title">Transfer a Unit</t>
-        <t id="choose_player">Choose a Player</t>
-        <t id="unit_transfer">Transfer <b>::unit::</b> to <b>::player::</b></t>
-        <t id="unit_kill">Do you really want to execute <b>::name::</b>?</t>
-        <t id="unit_kill_no_more_unit">You cannot execute your last Companion.</t>
-        <t id="unit_kill_title">::name:: has been executed.</t>
-        <t id="drop_item">Do you want to drop <b>::name::</b> x::count::?</t>
-        <t id="retreat_fight">Do you want to sound the retreat and give up the battle?</t>
-        <t id="repair_action">Repair all <img src="/item/RawMaterials"/>::count::</t>
-        <t id="repair_armor">Use ::qty:: to repair the armour?</t>
-        <t id="repair_all_armors">Repair all armour for ::qty::?</t>
-        <t id="cure_all_injuries">Heal all the wounds for ::qty:: ?</t>
-        <t id="unit_unchain">Free <b>::name::</b>?</t>
-        <t id="unit_chain">Take <b>::name::</b> prisoner?
-<small>(will certainly feel betrayed...)</small></t>
-        <t id="heal_action">Heal all <img src="/item/Remedy"/>::count::</t>
-        <t id="heal_title">Treat an injury</t>
-        <t id="heal_injury">Use <img src="/item/::icon::"/><b>::remedy::</b> to heal <b>::name::</b>?</t>
-        <t id="heal_remedy_none">You do not have any medicine for this injury. Visit an Apothecary to buy or make some.</t>
-        <t id="choose_remedy">Choose a remedy</t>
-        <t id="choose_injury">Choose an injury</t>
-        <t id="skill_up">Upgrade <b>::name::</b> ?</t>
-        <t id="attribute_up">Upgrade <b>::name::</b> ?</t>
-        <t id="nothing_found_here">You haven't found anything here.</t>
-        <t id="recruit_unit">Recruit ::name:: for ::cost::?</t>
-        <t id="recruit_unit_free">Do you want to recruit <b>::name::</b> ?</t>
-        <t id="element_empty">You haven't found anything here.</t>
-        <t id="npc_no_dialog">::name:: is ignoring you.</t>
-        <t id="salary_cost">You will pay your troop <gold>::v::</gold> during this Rest.</t>
-        <t id="salary_partially_paid_cost">You will pay part of your troop's wages: <gold>::v::</gold>/::total:: during this Rest.
+        <t id="unit_dismiss">Ви справді хочете відпустити <b>::name::</b>?</t>
+        <t id="unit_dismiss_no_more_unit">Ви не можете відпустити свого останнього товариша.</t>
+        <t id="transfer_title">Передати підрозділ</t>
+        <t id="choose_player">Оберіть гравця</t>
+        <t id="unit_transfer">Передати <b>::unit::</b> гравцю <b>::player::</b></t>
+        <t id="unit_kill">Ви справді хочете стратити <b>::name::</b>?</t>
+        <t id="unit_kill_no_more_unit">Ви не можете стратити свого останнього товариша.</t>
+        <t id="unit_kill_title"><b>::name::</b> був страчений.</t>
+        <t id="drop_item">Ви хочете викинути <b>::name::</b> x::count::?</t>
+        <t id="retreat_fight">Ви хочете дати сигнал до відступу і здатися?</t>
+        <t id="repair_action">Полагодити все <img src="/item/RawMaterials"/>::count::</t>
+        <t id="repair_armor">Використати ::qty:: для ремонту броні?</t>
+        <t id="repair_all_armors">Полагодити всю броню за ::qty::?</t>
+        <t id="cure_all_injuries">Вилікувати всі рани за ::qty::?</t>
+        <t id="unit_unchain">Звільнити <b>::name::</b>?</t>
+        <t id="unit_chain">Взяти <b>::name::</b> в полон?
+<small>(безумовно відчує зраду...)</small></t>
+        <t id="heal_action">Вилікувати все <img src="/item/Remedy"/>::count::</t>
+        <t id="heal_title">Лікування поранення</t>
+        <t id="heal_injury">Використати <img src="/item/::icon::"/><b>::remedy::</b> для лікування <b>::name::</b>?</t>
+        <t id="heal_remedy_none">У вас немає ліків для цього поранення. Відвідайте аптекаря, щоб купити або виготовити їх.</t>
+        <t id="choose_remedy">Оберіть засіб</t>
+        <t id="choose_injury">Оберіть поранення</t>
+        <t id="skill_up">Покращити <b>::name::</b>?</t>
+        <t id="attribute_up">Підвищити <b>::name::</b>?</t>
+        <t id="nothing_found_here">Ви нічого не знайшли тут.</t>
+        <t id="recruit_unit">Рекрутувати ::name:: за ::cost::?</t>
+        <t id="recruit_unit_free">Ви хочете рекрутувати <b>::name::</b>?</t>
+        <t id="element_empty">Ви нічого не знайшли тут.</t>
+        <t id="npc_no_dialog">::name:: ігнорує вас.</t>
+        <t id="salary_cost">Ви заплатите своєму загону <gold>::v::</gold> під час цього відпочинку.</t>
+        <t id="salary_partially_paid_cost">Ви заплатите частину заробітної плати своєму загону: <gold>::v::</gold>/::total:: під час цього відпочинку.
 
-Some Companions will be unhappy that they were not paid in time.</t>
-        <t id="salary_will_be_paid_good">Paying wages today will make your Companions happy.</t>
-        <t id="salary_will_be_paid_bad">Paying wages today will put an end to your Companions' discontent.</t>
-        <t id="salary_will_be_not_paid">Failing to pay wages today will make your Companions unhappy.</t>
-        <t id="salary_paid">You have paid your troop <gold>::v::</gold> .</t>
-        <t id="salary_paid_perfect">Wages were paid when due.</t>
-        <t id="salary_paid_good">Wages were paid slightly late.</t>
-        <t id="salary_paid_bad">Wages were paid very late.</t>
-        <t id="salary_paid_partially">Wages were partially paid.</t>
-        <t id="mission_accept">Accept contract "<b>::name::</b>"?</t>
-        <t id="mission_cancel">Cancel contract "<b>::name::</b>"?</t>
-        <t id="upgrade_to_class">Do you want <b>::name::</b> to become a/an <b>::cl::?</b></t>
-        <t id="add_skill">Do you want to learn <b>::name::?</b></t>
-        <t id="craft_done">You have crafted:</t>
-        <t id="craft_bonus">First craft bonus:</t>
-        <t id="craft_bonuses">Additional Production:</t>
-        <t id="craft_saved">Resources returned:</t>
-        <t id="missing_cost">You do not have enough resources for this action.</t>
-        <t id="add_armor_slot">Add the layer to this armour?</t>
-        <t id="add_helmet_seal">Place the stamp on this helmet?</t>
-        <t id="retrieve_helmet_seal">You will retrieve <good>::seal_name::</good></t>
-        <t id="clear_armor_slots">Remove layers from this armour?</t>
-        <t id="clear_helmet_seal">Remove the stamp from this helmet?</t>
-        <t id="destroy_armor_slots_warning">They will be destroyed in the process.</t>
-        <t id="item_cost">Use <img src="item/::item::"/><font color="#ffffff">::cost::</font>?</t>
-        <t id="dialog_cost">Use ::cost::?</t>
-        <t id="dialog_action">Confirm <img src="icon/::act::"/>::text::?</t>
-        <t id="exit_ruin_no_light">You do not have <img src="icon/RuinsLight"/><b>Light</b>. You will need Light to continue exploring!</t>
-        <t id="ruins_tired_warning"><bad>Your Companions are tired!</bad>
-It would be advised to rest before pushing on.</t>
-        <t id="ratmare"><b>::name::</b> is scared of rats and will leave the troop if you take up this mission.</t>
-        <t id="battle_let_runaway">Your opponents are demoralised and flee!
-Do you want to let them go and win the battle?</t>
-        <t id="battle_end_turn_without_playing">Do you really want to end <b>::name::'s</b> turn without taking any action?</t>
-        <t id="battle_end_turn_cancel_skill">This will put an end to <b>::skillName::</b>.</t>
-        <t id="battle_dying_unit_retreat"><b>::name::</b> is dying. You will be <bad>defeated</bad> if they die!
- Do you want to <b>retreat immediately</b>?</t>
+Деякі товариші будуть незадоволені, що їм не заплатили вчасно.</t>
+        <t id="salary_will_be_paid_good">Виплата заробітної плати сьогодні зробить ваших товаришів щасливими.</t>
+        <t id="salary_will_be_paid_bad">Виплата заробітної плати сьогодні покладе край невдоволенню ваших товаришів.</t>
+        <t id="salary_will_be_not_paid">Невиплата заробітної плати сьогодні зробить ваших товаришів нещасними.</t>
+        <t id="salary_paid">Ви заплатили своєму загону <gold>::v::</gold>.</t>
+        <t id="salary_paid_perfect">Зарплата була виплачена вчасно.</t>
+        <t id="salary_paid_good">Зарплата була виплачена трохи із запізненням.</t>
+        <t id="salary_paid_bad">Зарплата була виплачена дуже пізно.</t>
+        <t id="salary_paid_partially">Зарплата була частково виплачена.</t>
+        <t id="mission_accept">Прийняти контракт "<b>::name::</b>"?</t>
+        <t id="mission_cancel">Скасувати контракт "<b>::name::</b>"?</t>
+        <t id="upgrade_to_class">Ви хочете, щоб <b>::name::</b> став <b>::cl::?</b></t>
+        <t id="add_skill">Ви хочете вивчити <b>::name::?</b></t>
+        <t id="craft_done">Ви створили:</t>
+        <t id="craft_bonus">Бонус за перше створення:</t>
+        <t id="craft_bonuses">Додаткове виробництво:</t>
+        <t id="craft_saved">Повернено ресурси:</t>
+        <t id="missing_cost">У вас недостатньо ресурсів для цієї дії.</t>
+        <t id="add_armor_slot">Додати шар до цієї броні?</t>
+        <t id="add_helmet_seal">Нанести штамп на цей шолом?</t>
+        <t id="retrieve_helmet_seal">Ви отримаєте <good>::seal_name::</good></t>
+        <t id="clear_armor_slots">Видалити шари з цієї броні?</t>
+        <t id="clear_helmet_seal">Видалити штамп з цього шолома?</t>
+        <t id="destroy_armor_slots_warning">Вони будуть знищені в процесі.</t>
+        <t id="item_cost">Використати <img src="item/::item::"/><font color="#ffffff">::cost::</font>?</t>
+        <t id="dialog_cost">Використати ::cost::?</t>
+        <t id="dialog_action">Підтвердити <img src="icon/::act::"/>::text::?</t>
+        <t id="exit_ruin_no_light">У вас немає <img src="icon/RuinsLight"/><b>світла</b>. Вам потрібне світло, щоб продовжити дослідження!</t>
+        <t id="ruins_tired_warning"><bad>Ваші товариші втомилися!</bad>
+Рекомендується відпочити перед подальшими діями.</t>
+        <t id="ratmare"><b>::name::</b> боїться щурів і покине загін, якщо ви візьметеся за це завдання.</t>
+        <t id="battle_let_runaway">Ваші противники деморалізовані і тікають!
+Ви хочете відпустити їх і виграти бій?</t>
+        <t id="battle_end_turn_without_playing">Ви справді хочете завершити хід <b>::name::</b> без виконання жодної дії?</t>
+        <t id="battle_end_turn_cancel_skill">Це припинить дію <b>::skillName::</b>.</t>
+        <t id="battle_dying_unit_retreat"><b>::name::</b> вмирає. Ви будете <bad>переможені</bad>, якщо він помре!
+Ви хочете <b>негайно відступити</b>?</t>
         <t id="item_convert_action">::action:: ::item::?</t>
-        <t id="rename_unit">What nickname do you want to give ::unitName::?</t>
-        <t id="rename_troop">What would you like to name your troop?</t>
-        <t id="rename_boat">What would you like to name your ship?</t>
-        <t id="rename_tavern">What would you like to name your Tavern?</t>
-        <t id="message_accompany"><b>::name::</b> has joined your troop.</t>
-        <t id="message_accompany_left"><b>::name::</b> has left your troop.</t>
-        <t id="message_follow"><b>::name::</b> is now following your troop.</t>
-        <t id="message_follow_left"><b>::name::</b> is no longer following your troop.</t>
-        <t id="message_recruit"><b>::name::</b> has joined your troop!</t>
-        <t id="message_leave"><b>::name::</b> has left your troop.</t>
+        <t id="rename_unit">Яке прізвисько ви хочете дати ::unitName::?</t>
+        <t id="rename_troop">Як ви хочете назвати свій загін?</t>
+        <t id="rename_boat">Як ви хочете назвати свій корабель?</t>
+        <t id="rename_tavern">Як ви хочете назвати свою таверну?</t>
+        <t id="message_accompany"><b>::name::</b> приєднався до вашого загону.</t>
+        <t id="message_accompany_left"><b>::name::</b> покинув ваш загін.</t>
+        <t id="message_follow"><b>::name::</b> тепер слідує за вашим загоном.</t>
+        <t id="message_follow_left"><b>::name::</b> більше не слідує за вашим загоном.</t>
+        <t id="message_recruit"><b>::name::</b> приєднався до вашого загону!</t>
+        <t id="message_leave"><b>::name::</b> покинув ваш загін.</t>
         <g id="message_recruit_add">
-            <t _id="voscompagnonssontsatisfaits">Your Companions are happy.</t>
-            <t _id="voscompagnonsletrouventsympatique">Your Companions find him friendly.</t>
-            <t _id="voscompagnonsdoutentquilfasselaffaire">Your Companions doubt he is up to the task.</t>
-            <t _id="voscompagnonslaccueillentavecjoie">Your Companions happily welcome him.</t>
+            <t _id="voscompagnonssontsatisfaits">Ваші товариші щасливі.</t>
+            <t _id="voscompagnonsletrouventsympatique">Ваші товариші вважають його дружелюбним.</t>
+            <t _id="voscompagnonsdoutentquilfasselaffaire">Ваші товариші сумніваються, що він впорається із завданням.</t>
+            <t _id="voscompagnonslaccueillentavecjoie">Ваші товариші радісно вітають його.</t>
         </g>
         <g id="message_recruit_add_fem">
-            <t _id="voscompagnonssontsatisfaits">Your Companions are happy.</t>
-            <t _id="voscompagnonslatrouventsympatique">Your Companions find her friendly.</t>
-            <t _id="voscompagnonsdoutentquellefasselaffaire">Your Companions doubt she is up to the task.</t>
-            <t _id="voscompagnonslaccueillentavecjoie">Your Companions happily welcome her.</t>
+            <t _id="voscompagnonssontsatisfaits">Ваші товариші щасливі.</t>
+            <t _id="voscompagnonslatrouventsympatique">Ваші товариші вважають її дружелюбною.</t>
+            <t _id="voscompagnonsdoutentquellefasselaffaire">Ваші товариші сумніваються, що вона впорається із завданням.</t>
+            <t _id="voscompagnonslaccueillentavecjoie">Ваші товариші радісно вітають її.</t>
         </g>
         <g id="message_recruit_add_animal">
-            <t _id="voscompagnonssedemandentjustepourquoi">Your Companions are wondering... why?</t>
-            <t _id="voscompagnonstrouventquecestuneexcellenteide">Your Companions think it is a great idea.</t>
-            <t _id="voscompagnonsapprouvent">Your Companions approve.</t>
-            <t _id="voscompagnonsnontaucunavissurcechoix">Your Companions have no opinion on this choice.</t>
+            <t _id="voscompagnonssedemandentjustepourquoi">Ваші товариші задаються питанням... чому?</t>
+            <t _id="voscompagnonstrouventquecestuneexcellenteide">Ваші товариші вважають, що це чудова ідея.</t>
+            <t _id="voscompagnonsapprouvent">Ваші товариші схвалюють.</t>
+            <t _id="voscompagnonsnontaucunavissurcechoix">Ваші товариші не мають думки з цього приводу.</t>
         </g>
-        <t id="place_piton_here">Place a <b>Piton</b> here ?</t>
-        <t id="place_tomb_here">Place the <b>Tomb</b> here?</t>
-        <t id="upgrade_skill">Use ::item:: to upgrade your Companion's skill?</t>
-        <t id="skill_upgraded">The <good>::name::</good> skill has been upgraded!</t>
-        <t id="unlocked_class">You learned the <good>::name::</good> specialisation!</t>
-        <t id="use_oil">Apply this effect to the <good>::weapon::</good> weapon?</t>
-        <t id="replace_prev_oil">The current applied effect will be <bad>lost</bad>.</t>
-        <t id="oil_choose_replace">Choose the effect to be replaced on <good>::weapon::</good>:</t>
-        <t id="use_rat_bait">Do you want to place <img src="item/::item::"/>?</t>
-        <t id="use_respecialization_manual">Do you want to use <img src="item/::item::"/><b>::name::</b> on <b>::unit::</b>?</t>
-        <t id="name_to_rank">Grant ::name:: the rank of <b>::rank::?</b></t>
-        <t id="loosing_rank"><bad>::name:: will lose their <b>::rank::</b> rank</bad></t>
-        <t id="was_named_to_rank">::name:: has been appointed <b>::rank::</b> by the troop.</t>
-        <t id="was_named_to_rank_fem">::name:: has been appointed <b>::rank::</b> by the troop.</t>
+        <t id="place_piton_here">Розмістити <b>пітон</b> тут?</t>
+        <t id="place_tomb_here">Розмістити <b>могилу</b> тут?</t>
+        <t id="upgrade_skill">Використати ::item:: для покращення навички товариша?</t>
+        <t id="skill_upgraded">Навичка <good>::name::</good> була покращена!</t>
+        <t id="unlocked_class">Ви вивчили спеціалізацію <good>::name::</good>!</t>
+        <t id="use_oil">Застосувати цей ефект до зброї <good>::weapon::</good>?</t>
+        <t id="replace_prev_oil">Поточний застосований ефект буде <bad>втрачено</bad>.</t>
+        <t id="oil_choose_replace">Виберіть ефект, який буде замінено на <good>::weapon::</good>:</t>
+        <t id="use_rat_bait">Ви хочете розмістити <img src="item/::item::"/>?</t>
+        <t id="use_respecialization_manual">Ви хочете використовувати <img src="item/::item::"/><b>::name::</b> на <b>::unit::</b>?</t>
+        <t id="name_to_rank">Присвоїти ::name:: звання <b>::rank::?</b></t>
+        <t id="loosing_rank"><bad>::name:: втратить звання <b>::rank::</b></bad></t>
+        <t id="was_named_to_rank">::name:: було призначено на звання <b>::rank::</b> загоном.</t>
+        <t id="was_named_to_rank_fem">::name:: було призначено на звання <b>::rank::</b> загоном.</t>
         <t id="cannot_drop_unique_item">
-		You cannot drop this unique item.
-		It will remain with you to the very end, or until you learn how to use it.
+		Ви не можете викинути цей унікальний предмет.
+        Він залишиться з вами до самого кінця або до тих пір, поки ви не навчитеся ним користуватися.
         </t>
-        <t id="travel_to">Go to ::place::?</t>
-        <t id="epitaph">Do you want to leave an epitaph?</t>
+        <t id="travel_to">Піти до ::place::?</t>
+        <t id="epitaph">Ви хочете залишити епітафію?</t>
         <t id="debug_confirm">::cmd::</t>
     </g>
     <g id="ui">
-        <t id="defaultsave">Save</t>
-        <t id="autosave">Autosave</t>
-        <t id="quicksave">Quick Save</t>
-        <t id="inventory_title">Inventory</t>
-        <t id="choose_sell_quantity">How many <b>::name::</b> do you want to sell?</t>
-        <t id="choose_buy_quantity">How many <b>::name::</b> do you want to buy?</t>
-        <t id="choose_pick_quantity">How many <b>::name::</b> do you want to take?</t>
-        <t id="choose_craft_quantity">How many <b>::name::</b>  do you want to craft?</t>
-        <t id="choose_drop_quantity">How many <b>::name::</b> do you want to drop?</t>
-        <t id="buy_sell_quantity_label">Quantity:</t>
+        <t id="defaultsave">Зберегти</t>
+        <t id="autosave">Автозбереження</t>
+        <t id="quicksave">Швидке збереження</t>
+        <t id="inventory_title">Інвентар</t>
+        <t id="choose_sell_quantity">Скільки <b>::name::</b> ви хочете продати?</t>
+        <t id="choose_buy_quantity">Скільки <b>::name::</b> ви хочете купити?</t>
+        <t id="choose_pick_quantity">Скільки <b>::name::</b> ви хочете взяти?</t>
+        <t id="choose_craft_quantity">Скільки <b>::name::</b> ви хочете створити?</t>
+        <t id="choose_drop_quantity">Скільки <b>::name::</b> ви хочете скинути?</t>
+        <t id="buy_sell_quantity_label">Кількість:</t>
         <t id="choose_amount_total">(<gold>::gold::</gold>)</t>
         <t id="choose_amount_item">(<img src="item/::currency::"/>::count::)</t>
         <t id="inventory_price_label"><gold>::price::</gold></t>
-        <t id="drop_item_label">Drop</t>
-        <t id="heal_remedy_label">Heal with <img src="/item/::icon::"/>::name::</t>
+        <t id="drop_item_label">Скинути</t>
+        <t id="heal_remedy_label">Лікувати за допомогою <img src="/item/::icon::"/> ::name::</t>
         <t id="gain_place_discovery">+::number:: <img src="/item/::icon::"/> ::name::</t>
-        <t id="activity_xp_gain">+::value:: xp</t>
+        <t id="activity_xp_gain">+::value:: XP</t>
         <t id="activity_item_gain">+::value:: <img src="/item/::icon::"/> ::name::</t>
-        <t id="board_puzzle_instruction">[LMB] Activate (Hold)</t>
-        <t id="fishing_counter">::number:: <img src="/item/::icon::"/>fish to catch</t>
-        <t id="fishing_start">Use fish bait</t>
-        <t id="fishing_instruction">[LMB] Don't let the fish escape!</t>
-        <t id="fishing_fail">The fish escaped</t>
-        <t id="fishing_leave">Leave</t>
-        <t id="gather_production">Produce ::name:: (+::count::/j)</t>
-        <t id="gather_resource">Collect ::name:: (::count::/::max::)</t>
-        <t id="lockpick_quantity"><img src="/item/::icon::"/>::name:: x::number:: left</t>
-        <t id="lockpick_no_more_lockpicks">No <img src="/item/::icon::"/>::name:: left</t>
-        <t id="lockpick_leave">Leave</t>
-        <t id="nine_puzzle_leave">Leave</t>
-        <t id="cylinder_puzzle_leave">Leave</t>
-        <t id="board_puzzle_leave">Leave</t>
-        <t id="sing_leave">Leave</t>
-        <t id="archery_shots_remaining">::number:: shots left</t>
-        <t id="archery_no_shots_remaining">End of practice</t>
-        <t id="recipe_equipement_type">Equipment type</t>
-        <t id="recipe_type_dish">Dish Type</t>
-        <t id="recipe_ingredients">Ingredients</t>
-        <t id="recipe_all_recipes">All</t>
-        <t id="recipe_level_required">Required level</t>
-        <t id="recipe_lore_unknown">Unknown origin</t>
-        <t id="recipe_possessed_item">you have :</t>
-        <t id="recipe_ingredient_stock_needed">in stock / required</t>
-        <t id="recipe_unique_item">You can only have this item once.</t>
-        <t id="recipe_not_enough_materials">Not enough resources to craft this amount</t>
-        <t id="recipe_confirm_forge">Do you want to create <img src="/item/::icon::"/> ::name:: x::number::?</t>
-        <t id="recipe_not_has_job_level">You do not have the required level in this profession.</t>
-        <t id="recipe_no_more_upgrade">This item cannot be upgraded.</t>
-        <t id="activity_forge_bonus_title">Quality bonus</t>
-        <t id="activity_forge_bonus_info">Hit the white-hot metal ::number:: times in a row</t>
-        <t id="activity_forge_success_bonus_info">Superior quality item obtained:</t>
-        <t id="activity_forge_fail_bonus_info">Normal quality item obtained:</t>
-        <t id="activity_cook_delicious_bonus_info">Superior quality <img src="/icon/QualityStar"/> dish obtained:</t>
-        <t id="activity_cook_normal_bonus_info">Normal quality dish obtained:</t>
-        <t id="activity_food_delicious">(Delicious) <img src="/icon/QualityStar"/></t>
-        <t id="activity_regular_item">Item obtained:</t>
-        <t id="camp_rotate">Press [KEY_CampRotation] or scroll the mouse wheel to turn</t>
-        <t id="camp_rotate_pad">Press <img src="icon/Pad_LB"/> or <img src="icon/Pad_RB"/> to rotate</t>
-        <t id="camp_reserve">Reserve</t>
-        <t id="reserve_info">Your <b>Reserve</b> hold the Companions you do not wish to have in the camp.
- They cannot be assigned tasks, but must be fed and paid normally.
+        <t id="board_puzzle_instruction">[ЛКМ] Активувати (утримувати)</t>
+        <t id="fishing_counter">::number:: <img src="/item/::icon::"/> риб для лову</t>
+        <t id="fishing_start">Використати наживку</t>
+        <t id="fishing_instruction">[ЛКМ] Не дайте рибі втекти!</t>
+        <t id="fishing_fail">Риба втекла</t>
+        <t id="fishing_leave">Залишити</t>
+        <t id="gather_production">Виробляти ::name:: (+::count::/д)</t>
+        <t id="gather_resource">Збирати ::name:: (::count::/::max::)</t>
+        <t id="lockpick_quantity"><img src="/item/::icon::"/> ::name:: x::number:: залишилося</t>
+        <t id="lockpick_no_more_lockpicks">Немає <img src="/item/::icon::"/> ::name:: залишилося</t>
+        <t id="lockpick_leave">Залишити</t>
+        <t id="nine_puzzle_leave">Залишити</t>
+        <t id="cylinder_puzzle_leave">Залишити</t>
+        <t id="board_puzzle_leave">Залишити</t>
+        <t id="sing_leave">Залишити</t>
+        <t id="archery_shots_remaining">::number:: пострілів залишилося</t>
+        <t id="archery_no_shots_remaining">Кінець практики</t>
+        <t id="recipe_equipement_type">Тип обладнання</t>
+        <t id="recipe_type_dish">Тип страви</t>
+        <t id="recipe_ingredients">Інгредієнти</t>
+        <t id="recipe_all_recipes">Усі</t>
+        <t id="recipe_level_required">Необхідний рівень</t>
+        <t id="recipe_lore_unknown">Невідоме походження</t>
+        <t id="recipe_possessed_item">У вас є:</t>
+        <t id="recipe_ingredient_stock_needed">на складі / необхідно</t>
+        <t id="recipe_unique_item">Цей предмет можна мати лише один раз.</t>
+        <t id="recipe_not_enough_materials">Недостатньо ресурсів для створення цієї кількості</t>
+        <t id="recipe_confirm_forge">Ви хочете створити <img src="/item/::icon::"/> ::name:: x::number::?</t>
+        <t id="recipe_not_has_job_level">У вас недостатньо рівня в цій професії.</t>
+        <t id="recipe_no_more_upgrade">Цей предмет не можна покращити.</t>
+        <t id="activity_forge_bonus_title">Бонус якості</t>
+        <t id="activity_forge_bonus_info">Ударьте по білому-гарячому металу ::number:: разів поспіль</t>
+        <t id="activity_forge_success_bonus_info">Отримано предмет вищої якості:</t>
+        <t id="activity_forge_fail_bonus_info">Отримано предмет звичайної якості:</t>
+        <t id="activity_cook_delicious_bonus_info">Отримано страву вищої якості <img src="/icon/QualityStar"/>:</t>
+        <t id="activity_cook_normal_bonus_info">Отримано страву звичайної якості:</t>
+        <t id="activity_food_delicious">(Смачно) <img src="/icon/QualityStar"/></t>
+        <t id="activity_regular_item">Отримано предмет:</t>
+        <t id="camp_rotate">Натисніть [KEY_CampRotation] або прокрутіть колесо миші, щоб повернути</t>
+        <t id="camp_rotate_pad">Натисніть <img src="icon/Pad_LB"/> або <img src="icon/Pad_RB"/> для повороту</t>
+        <t id="camp_reserve">Резерв</t>
+        <t id="reserve_info">Ваш <b>резерв</b> містить товаришів, яких ви не бажаєте мати в таборі.
+ Вони не можуть бути призначені на завдання, але їх необхідно годувати та платити їм як зазвичай.
 
- <b>[RMBSHIFT] on a Companion in the camp to assign them to the Reserve.</b></t>
-        <t id="mission_name">Contracts</t>
-        <t id="mission_board_quest_list">Contract accepted: ::value::/::max::</t>
-        <t id="mission_next_in">Next contract in ::time::.</t>
-        <t id="mission_expire_in">Contract expires in ::time::.</t>
+ <b>[RMBSHIFT] на товариша в таборі, щоб призначити його до резерву.</b></t>
+        <t id="mission_name">Контракти</t>
+        <t id="mission_board_quest_list">Прийнято контрактів: ::value::/::max::</t>
+        <t id="mission_next_in">Наступний контракт через ::time::.</t>
+        <t id="mission_expire_in">Контракт закінчується через ::time::.</t>
         <g id="mission_difficulty">
-            <t _id="facile">Easy</t>
-            <t _id="normal">Normal</t>
-            <t _id="moyen">Average</t>
-            <t _id="difficile">Hard</t>
+            <t _id="facile">Легкий</t>
+            <t _id="normal">Нормальний</t>
+            <t _id="moyen">Середній</t>
+            <t _id="difficile">Важкий</t>
         </g>
         <g id="mission_negociate">
-            <t id="desc">Adjust the Negotiation meter to get a better price for the contract in exchange for Influence.</t>
-            <t id="contract">Contract: ::name::</t>
-            <t id="inital_offer">Initial offer: ::value::</t>
-            <t id="current_offer">Current offer: ::value::</t>
-            <t id="asked_offer">Requested reward: ::value::</t>
-            <t id="cost">Negotiation cost: ::value::</t>
-            <t id="accept_offer">Accept offer</t>
+            <t id="desc">Відрегулюйте шкалу переговорів, щоб отримати кращу ціну за контракт в обмін на вплив.</t>
+            <t id="contract">Контракт: ::name::</t>
+            <t id="inital_offer">Початкова пропозиція: ::value::</t>
+            <t id="current_offer">Поточна пропозиція: ::value::</t>
+            <t id="asked_offer">Запитана винагорода: ::value::</t>
+            <t id="cost">Вартість переговорів: ::value::</t>
+            <t id="accept_offer">Прийняти пропозицію</t>
         </g>
         <g id="sea_lords">
-            <t id="tutorial">To learn more about the Lords of the Seas, talk to the Fan in the Per-Bast Tavern.</t>
-            <t id="title">Lords of the Seas</t>
-            <t id="leaderboard">Leaderboard</t>
-            <t id="territory">Territory:</t>
-            <t id="status">Status:</t>
-            <t id="rewards">Rewards:</t>
+            <t id="tutorial">Щоб дізнатися більше про Лордів Морів, поговоріть з фанатом у таверні Пер-Баст.</t>
+            <t id="title">Лорди Морів</t>
+            <t id="leaderboard">Таблиця лідерів</t>
+            <t id="territory">Територія:</t>
+            <t id="status">Статус:</t>
+            <t id="rewards">Нагороди:</t>
             <g id="status_list">
-                <t _id="actif"><good>Active</good></t>
-                <t _id="rival"><warn>Rival</warn></t>
-                <t _id="vostrousses"><warn>Hot on your heels</warn></t>
-                <t _id="vaincu"><bad>Defeated</bad></t>
+                <t _id="actif"><good>Активний</good></t>
+                <t _id="rival"><warn>Суперник</warn></t>
+                <t _id="vostrousses"><warn>По п'ятах</warn></t>
+                <t _id="vaincu"><bad>Переможений</bad></t>
             </g>
-            <t id="marker_tooltip">Find and fight ::name::.</t>
+            <t id="marker_tooltip">Знайдіть і бийтеся з ::name::.</t>
         </g>
-        <t id="difficulty">Difficulty:</t>
-        <t id="reward">Reward:</t>
-        <t id="cost">Cost:</t>
-        <t id="bounty_group_name">::name::'s gang</t>
-        <t id="grimoire_empty">The ::name:: is empty.</t>
-        <t id="grimoire_name">Compendium</t>
-        <t id="grimoire_learn_action">Learn for ::item::</t>
+        <t id="difficulty">Складність:</t>
+        <t id="reward">Нагорода:</t>
+        <t id="cost">Вартість:</t>
+        <t id="bounty_group_name">Банда ::name::</t>
+        <t id="grimoire_empty">::name:: порожній.</t>
+        <t id="grimoire_name">Компендіум</t>
+        <t id="grimoire_learn_action">Вивчити за ::item::</t>
         <t id="grimoire_unknown_name">? ? ? ?</t>
-        <t id="grimoire_level_required">::trait:: ::level:: required</t>
-        <t id="grimoire_learn_recipe">Learn in the Compendium</t>
-        <t id="grimoire_can_not_learn_recipe">You do not know a profession linked to this recipe yet.</t>
-        <t id="grimoire_recipe_already_learnt">You already know this recipe.</t>
+        <t id="grimoire_level_required">Необхідно ::trait:: ::level::</t>
+        <t id="grimoire_learn_recipe">Вивчити в Компендіумі</t>
+        <t id="grimoire_can_not_learn_recipe">Ви ще не знаєте професію, пов’язану з цим рецептом.</t>
+        <t id="grimoire_recipe_already_learnt">Ви вже знаєте цей рецепт.</t>
         <t id="grimoire_xp_suffix"><img src="/item/::icon::"/></t>
-        <t id="grimoire_craft_to_gain_discovery">Craft once for your <img src="item/Knowledge"/><b>Knowledge</b> to progress</t>
-        <t id="grimoire_craft_to_reveal_item">Craft once to reveal a new recipe in the Compendium</t>
-        <t id="grimoire_craft_to_reveal_items">Craft once to reveal <b>::number:: recipes</b> in the Compendium</t>
-        <t id="grimoire_craft_to_reveal_bundle">Craft one of these items to reveal the <b>Superior Set</b> in the Compendium</t>
-        <t id="grimoire_craft_to_reveal_bundle_one_item">Craft once to reveal the <b>Superior Set</b> in the Compendium</t>
-        <t id="grimoire_learn_to_gain_discovery">Learn for your <img src="item/Knowledge"/><b>Knowledge</b> to progress</t>
-        <t id="grimoire_learn_to_reveal_item">Learn to reveal a new ability in the Compendium</t>
-        <t id="grimoire_need_to_unlock">Requires <img src="item/::item::"/></t>
-        <t id="grimoire_need_recipe">Requires a recipe.</t>
-        <t id="grimoire_need_knowledge">Require a Knowledge Point.</t>
-        <t id="grimoire_need_setting">Available after completing the region's scenario.</t>
-        <t id="grimoire_need_city_forge">Available at the town's forge.</t>
-        <t id="grimoire_unlock_recipe">New recipe in the Compendium:</t>
-        <t id="grimoire_confirm_learn">Do you want to learn <img src="/item/::icon::"/> ::name:: ?</t>
-        <t id="grimoire_page_number">Page ::current::/::max::</t>
-        <t id="grimoire_craft_learnt">::player_name:: learned ::recipe_name::</t>
-        <t id="grimoire_toggle_undiscovered">Hide undiscovered</t>
+        <t id="grimoire_craft_to_gain_discovery">Виготовте один раз, щоб ваш <img src="item/Knowledge"/><b>знання</b> прогресували</t>
+        <t id="grimoire_craft_to_reveal_item">Виготовте один раз, щоб відкрити новий рецепт у Компендіумі</t>
+        <t id="grimoire_craft_to_reveal_items">Виготовте один раз, щоб відкрити <b>::number:: рецепти</b> у Компендіумі</t>
+        <t id="grimoire_craft_to_reveal_bundle">Виготовте один із цих предметів, щоб відкрити <b>Вищий набір</b> у Компендіумі</t>
+        <t id="grimoire_craft_to_reveal_bundle_one_item">Виготовте один раз, щоб відкрити <b>Вищий набір</b> у Компендіумі</t>
+        <t id="grimoire_learn_to_gain_discovery">Вивчайте для вашого <img src="item/Knowledge"/><b>знання</b> прогресувати</t>
+        <t id="grimoire_learn_to_reveal_item">Вивчіть, щоб відкрити нову здатність у Компендіумі</t>
+        <t id="grimoire_need_to_unlock">Необхідно <img src="item/::item::"/></t>
+        <t id="grimoire_need_recipe">Потрібен рецепт.</t>
+        <t id="grimoire_need_knowledge">Потрібна точка знань.</t>
+        <t id="grimoire_need_setting">Доступно після завершення сценарію регіону.</t>
+        <t id="grimoire_need_city_forge">Доступно в міській кузні.</t>
+        <t id="grimoire_unlock_recipe">Новий рецепт у Компендіумі:</t>
+        <t id="grimoire_confirm_learn">Ви хочете вивчити <img src="/item/::icon::"/> ::name::?</t>
+        <t id="grimoire_page_number">Сторінка ::current::/::max::</t>
+        <t id="grimoire_craft_learnt">::player_name:: вивчив ::recipe_name::</t>
+        <t id="grimoire_toggle_undiscovered">Приховати невідкрите</t>
         <g id="grimoire_knowkedge">
             <t id="group3_unlock_info"><img src="item/Knowledge"/> ::count::/::total::</t>
-            <t id="group3_unlock_tip">Earn a total of ::count:: <img src="item/Knowledge"/> to unlock</t>
+            <t id="group3_unlock_tip">Отримайте загалом ::count:: <img src="item/Knowledge"/>, щоб розблокувати</t>
         </g>
-        <t id="craft_done">::unit_name:: (::player_name::) made ::count:: ::craft_name::</t>
+        <t id="craft_done">::unit_name:: (::player_name::) виготовив(ла) ::count:: ::craft_name::</t>
         <g id="rest">
-            <t id="camp_report">Camp Report</t>
-            <t id="production_detail">The camp has produced resources.</t>
-            <t id="food_inventory">Meal</t>
-            <t id="action_points">You have gained <img src="/icon/ActionPoint"/><b>::count::</b></t>
-            <t id="troop_was_feed">The troop has been fed.</t>
-            <t id="rested">The troop is well rested.</t>
-            <t id="confirm_no_feed">You haven't fed your troop! Do you want to rest anyway?</t>
-            <t id="confirm_no_salary">You haven't paid your Companions their wages! Do you want to rest anyway?</t>
-            <t id="confirm_leaver">::name:: is about to leave the troop! Rest anyway?</t>
-            <t id="confirm_leavers">::count:: Companions will leave your troop! Rest anyway?</t>
-            <t id="not_paid"><bad>Your Companions are dissatisfied as their wages have not been paid!</bad></t>
-            <t id="unit_left"><bad>::name::</bad> was dissatisfied with conditions and left the troop!</t>
-            <t id="unit_left_woman"><bad>::name::</bad> was dissatisfied with conditions and left the troop!</t>
-            <t id="eat_action">Add to meal</t>
-            <t id="remove_action">Remove from meal</t>
-            <t id="feed_action">Modify Meal</t>
-            <t id="unit_plagued">Some Companions are now Plague-ridden because their plague-infected wound was left unhealed: <bad>::names::</bad>.</t>
-            <t id="unit_plagued_starved">Your Plague-ridden Companions are <bad>starving</bad> because their last meal didn't include meat. They could lose control at any moment.</t>
-            <t id="unit_plagued_madness">Some Plague-ridden Companions have become mad while they were resting: <bad>::names::</bad>.</t>
-            <t id="unit_healed_doctor">::name:: used plants to heal ::healedname::’s ::injury::.</t>
-            <t id="unit_crunched_fail"><warn>::plagued::</warn> tried to bite <warn>::victim::</warn>.</t>
-            <t id="unit_crunched_success"><bad>::plagued::</bad> bit <bad>::victim::</bad> while they were resting and gave them a <bad>plague-infected wound</bad>.</t>
-            <t id="become_alcoholic">::name:: has been drinking too much and is now an <bad>alcoholic</bad>!</t>
-            <t id="heal_injury">::name:: has recovered from an injury.</t>
-            <t id="training_xp_gain">::name:: earned <img src="/icon/FightXP"/>::xp:: experience points in training.</t>
-            <t id="bad_diet">The <bad>food requirements</bad> of some of your Companions were not met.</t>
-            <t id="alcohol_withdrawal">::name:: has stopped drinking alcohol!</t>
-            <t id="become_sick">::name:: could not digest the meal from the night before and is <bad>ill</bad>.</t>
-            <t id="happy_log_zero">Your troop’s happiness hasn’t changed.</t>
-            <t id="happy_log_gain">Your troop’s happiness increased by <happy>+::count::</happy></t>
-            <t id="happy_log_lose">Your troop’s happiness decreased by <happy>::count::</happy></t>
-            <t id="happy_current">Your troop’s happiness is <happy>::count::</happy></t>
-            <t id="happy_min"><bad>Your Companions are dissatisfied!</bad></t>
-            <t id="happy_neg">Your Companions are <bad>unhappy</bad>.</t>
-            <t id="happy_normal">Your Companions are pleased.</t>
-            <t id="happy_max">Your Companions are <good>happy</good>.</t>
-            <t id="happy_infl_won">You have <good>gained</good> <img src="/icon/Influence"/><inf>::count::</inf></t>
-            <t id="happy_infl_lost">You have <bad>lost</bad> <img src="/icon/Influence"/><inf>::count::</inf></t>
-            <t id="happy_bonus_won">You have gained the following bonus:</t>
-            <t id="influence_generated"><img src="/icon/Influence"/><b>::count::</b> generated by the camp</t>
-            <t id="bee_sting">::name:: slept too close to the hive and was <bad>stung by bees</bad>.</t>
-            <t id="reproduction">::parent1:: and ::parent2:: have become parents. ::child:: joins your troop.</t>
-            <t id="reproduction_solo">::parent:: has brought a child into the world. ::child:: joins your troop.</t>
-            <t id="blood_collection">::unit:: bit ::target:: during their Rest and does not require food for the next ::value:: meals.</t>
-            <t id="doping_transfusion">Some Companions were bitten overnight and gained <stb>Fury</stb>: ::names::.</t>
-            <t id="browser">Flowers were found during the Rest.</t>
-            <t id="bear_eat_honey">::name:: devoured your <bad>honey</bad>!</t>
+            <t id="camp_report">Звіт табору</t>
+            <t id="production_detail">Табір виробив ресурси.</t>
+            <t id="food_inventory">Їжа</t>
+            <t id="action_points">Ви отримали <img src="/icon/ActionPoint"/><b>::count::</b></t>
+            <t id="troop_was_feed">Загін нагодований.</t>
+            <t id="rested">Загін добре відпочив.</t>
+            <t id="confirm_no_feed">Ви не нагодували свій загін! Хочете відпочити в будь-якому випадку?</t>
+            <t id="confirm_no_salary">Ви не виплатили заробітну плату своїм товаришам! Хочете відпочити в будь-якому випадку?</t>
+            <t id="confirm_leaver">::name:: збирається покинути загін! Відпочити в будь-якому випадку?</t>
+            <t id="confirm_leavers">::count:: товаришів покине ваш загін! Відпочити в будь-якому випадку?</t>
+            <t id="not_paid"><bad>Ваші товариші незадоволені, оскільки їм не виплатили заробітну плату!</bad></t>
+            <t id="unit_left"><bad>::name::</bad> був незадоволений умовами і покинув загін!</t>
+            <t id="unit_left_woman"><bad>::name::</bad> була незадоволена умовами і покинула загін!</t>
+            <t id="eat_action">Додати до їжі</t>
+            <t id="remove_action">Видалити з їжі</t>
+            <t id="feed_action">Змінити їжу</t>
+            <t id="unit_plagued">Деякі товариші заразилися чумою, оскільки їхнє заражене рана залишилася незалікованою: <bad>::names::</bad>.</t>
+            <t id="unit_plagued_starved">Ваші заражені чумою товариші <bad>голодують</bad>, оскільки їх остання їжа не містила м'яса. Вони можуть втратити контроль у будь-який момент.</t>
+            <t id="unit_plagued_madness">Деякі заражені чумою товариші стали божевільними під час відпочинку: <bad>::names::</bad>.</t>
+            <t id="unit_healed_doctor">::name:: використовував рослини для лікування ::healedname::’s ::injury::.</t>
+            <t id="unit_crunched_fail"><warn>::plagued::</warn> намагався вкусити <warn>::victim::</warn>.</t>
+            <t id="unit_crunched_success"><bad>::plagued::</bad> вкусив <bad>::victim::</bad> під час відпочинку та заразив їх <bad>чума-інфікованою раною</bad>.</t>
+            <t id="become_alcoholic">::name:: випив занадто багато і тепер <bad>алкоголік</bad>!</t>
+            <t id="heal_injury">::name:: вилікувався від поранення.</t>
+            <t id="training_xp_gain">::name:: заробив <img src="/icon/FightXP"/>::xp:: очок досвіду під час тренування.</t>
+            <t id="bad_diet"><bad>Їжа</bad> деяких ваших товаришів не була достатньо поживною.</t>
+            <t id="alcohol_withdrawal">::name:: припинив пити алкоголь!</t>
+            <t id="become_sick">::name:: не зміг переварити їжу з минулої ночі і тепер <bad>хворий</bad>.</t>
+            <t id="happy_log_zero">Щастя вашого загону не змінилося.</t>
+            <t id="happy_log_gain">Щастя вашого загону збільшилося на <happy>+::count::</happy></t>
+            <t id="happy_log_lose">Щастя вашого загону зменшилося на <happy>::count::</happy></t>
+            <t id="happy_current">Щастя вашого загону <happy>::count::</happy></t>
+            <t id="happy_min"><bad>Ваші товариші незадоволені!</bad></t>
+            <t id="happy_neg">Ваші товариші <bad>нещасливі</bad>.</t>
+            <t id="happy_normal">Ваші товариші задоволені.</t>
+            <t id="happy_max">Ваші товариші <good>щасливі</good>.</t>
+            <t id="happy_infl_won">Ви <good>отримали</good> <img src="/icon/Influence"/><inf>::count::</inf></t>
+            <t id="happy_infl_lost">Ви <bad>втратили</bad> <img src="/icon/Influence"/><inf>::count::</inf></t>
+            <t id="happy_bonus_won">Ви отримали наступний бонус:</t>
+            <t id="influence_generated"><img src="/icon/Influence"/><b>::count::</b> створено табором</t>
+            <t id="bee_sting">::name:: спав занадто близько до вулика і був <bad>ужалений бджолами</bad>.</t>
+            <t id="reproduction">::parent1:: і ::parent2:: стали батьками. ::child:: приєднується до вашого загону.</t>
+            <t id="reproduction_solo">::parent:: привів у світ дитину. ::child:: приєднується до вашого загону.</t>
+            <t id="blood_collection">::unit:: вкусив ::target:: під час їхнього відпочинку і не потребує їжі для наступних ::value:: прийомів їжі.</t>
+            <t id="doping_transfusion">Деяких товаришів вкусили вночі, і вони отримали <stb>лють</stb>: ::names::.</t>
+            <t id="browser">Під час відпочинку були знайдені квіти.</t>
+            <t id="bear_eat_honey">::name:: з'їв ваш <bad>мед</bad>!</t>
             <g id="escape">
                 <g id="success">
                     <t _id="leprisonniernamesestenfuipendantquetoutlemondedormait">The prisoner <bad>::name::</bad> escaped while everyone was sleeping...</t>
