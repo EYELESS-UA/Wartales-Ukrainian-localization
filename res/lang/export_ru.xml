@@ -39700,142 +39700,142 @@
     </sheet>
     <sheet name="item">
         <Gold>
-            <name>Krowns</name>
-            <desc>A currency commonly used around the world.</desc>
+            <name>Крони</name>
+            <desc>Валюта, що широко використовується в усьому світі.</desc>
         </Gold>
         <Influence>
-            <name>Influence</name>
-            <desc>Your &lt;b&gt;Influence&lt;/b&gt; can be used to recruit new Companions or perform certain actions.</desc>
+            <name>Вплив</name>
+            <desc>Ваш &lt;b&gt;вплив&lt;/b&gt; можна використовувати для найму нових товаришів або виконання певних дій.</desc>
         </Influence>
         <ActionPoint>
-            <name>Valour Point</name>
-            <desc>Use your &lt;b&gt;Valour&lt;/b&gt; points in combat to use certain skills. You'll regain some of these each time you rest.</desc>
+            <name>Очко доблесті</name>
+            <desc>Використовуйте свої &lt;b&gt;очки доблесті&lt;/b&gt; в бою для застосування певних навичок. Ви відновите деякі з них щоразу, коли відпочиватимете.</desc>
         </ActionPoint>
         <Setting>
             <name>? ? ? ? ?</name>
-            <desc>Each region has its own scenario, and you can follow its progress here.<br/><br/>&lt;bad&gt;You haven't started the scenario for this region yet.&lt;/bad&gt;</desc>
+            <desc>Кожен регіон має свій сценарій, і ви можете стежити за його прогресом тут.<br/><br/>&lt;bad&gt;Ви ще не почали сценарій для цього регіону.&lt;/bad&gt;</desc>
         </Setting>
         <Dummy>
-            <name>Remnants</name>
-            <desc>What remains of an old item.</desc>
+            <name>Залишки</name>
+            <desc>Те, що залишилося від старого предмета.</desc>
         </Dummy>
         <PathBonus>
-            <name>Path Bonus</name>
+            <name>Бонус шляху</name>
         </PathBonus>
         <SkillBonus>
-            <name>Skill Bonus</name>
+            <name>Бонус навичок</name>
         </SkillBonus>
         <StartWanted>
-            <name>Suspicion</name>
+            <name>Підозра</name>
         </StartWanted>
         <StartXP>
-            <name>Companions' Experience</name>
+            <name>Досвід товаришів</name>
         </StartXP>
         <Light>
-            <name>Light</name>
+            <name>Світло</name>
         </Light>
         <Happiness>
-            <name>Happiness</name>
+            <name>Щастя</name>
         </Happiness>
         <SeaLordsReputation>
-            <name>Reputation</name>
-            <desc>Reputation represents how well your troop is known and how much they are feared across the archipelago. Build your Reputation to challenge your rivals and become true Lords of the Seas!</desc>
+            <name>Репутація</name>
+            <desc>Репутація відображає, наскільки добре відомий ваш загін і наскільки його бояться по всьому архіпелагу. Підвищуйте свою репутацію, щоб кинути виклик своїм суперникам і стати справжніми Лордами Морів!</desc>
         </SeaLordsReputation>
         <DaggerStart>
-            <name>Rusty Shiv</name>
-            <desc>A rusted old shiv.</desc>
+            <name>Іржавий ніж</name>
+            <desc>Іржавий старий ніж.</desc>
         </DaggerStart>
         <DaggerCommonCivilian>
-            <name>Shiv</name>
-            <desc>A simple knife that isn't worth much.</desc>
+            <name>Ніж</name>
+            <desc>Простий ніж, який мало чого вартий.</desc>
         </DaggerCommonCivilian>
         <DaggerCommonOutlaws>
-            <name>Damaged Dagger</name>
-            <desc>The dulled blade of this dagger can still inflict considerable damage.</desc>
+            <name>Пошкоджений кинджал</name>
+            <desc>Затуплене лезо цього кинджала все ще може завдати значних ушкоджень.</desc>
         </DaggerCommonOutlaws>
         <DaggerCommonPirates>
-            <name>Pirate Machete</name>
-            <desc>Whether it's clearing brush, cutting meat, or mowing down enemies, a true pirate can always put a machete to good use.</desc>
+            <name>Піратський мачете</name>
+            <desc>Чи то розчищення чагарників, різання м'яса чи знищення ворогів, справжній пірат завжди знайде застосування мачете.</desc>
         </DaggerCommonPirates>
         <DaggerCommonBelerion>
-            <name>Ihrian Khanjar</name>
-            <desc>The curve of its blade brings to mind the ritual daggers carried by Mihrian priests.</desc>
+            <name>Іхріанський ханжар</name>
+            <desc>Крива його леза нагадує ритуальні кинджали, які носять священики Міхріан.</desc>
         </DaggerCommonBelerion>
         <DaggerArena>
-            <name>Arena Dagger</name>
-            <desc>Although the hilt is slightly worn, the blade is barely chipped.</desc>
+            <name>Кинджал арени</name>
+            <desc>Хоча руків'я дещо зношене, лезо майже не пошкоджене.</desc>
         </DaggerArena>
         <DaggerUncoCraftT1>
-            <name>Iron Dagger</name>
-            <desc>This dagger has a fearsome blade.</desc>
+            <name>Залізний кинджал</name>
+            <desc>Цей кинджал має грізне лезо.</desc>
         </DaggerUncoCraftT1>
         <DaggerUncoCraftT2>
-            <name>Ghost Billhook</name>
-            <desc>This weapon exudes an odd and frightening energy.</desc>
+            <name>Привидський гак</name>
+            <desc>Ця зброя випромінює дивну та лякаючу енергію.</desc>
         </DaggerUncoCraftT2>
         <DaggerUncoCraftT3>
-            <name>Rimesteel Ballsy Blade</name>
-            <desc>This dagger's pommel has a very suggestive shape.</desc>
+            <name>Клинок з ріместалі</name>
+            <desc>Головка цього кинджала має дуже натякаючу форму.</desc>
         </DaggerUncoCraftT3>
         <DaggerUncoCraftT4>
-            <name>Akhedian Steel Stiletto</name>
-            <desc>This weapon can slip through weak points in any armour.</desc>
+            <name>Акхедіанський сталевий стилет</name>
+            <desc>Ця зброя може проникати через слабкі місця в будь-якій броні.</desc>
         </DaggerUncoCraftT4>
         <DaggerUncoGuard>
-            <name>Tactician's Dagger</name>
-            <desc>If a weapon could bring luck, this one would.</desc>
+            <name>Кинджал тактика</name>
+            <desc>Якби зброя могла приносити удачу, це була б вона.</desc>
         </DaggerUncoGuard>
         <DaggerUncoInquisition>
-            <name>Inquisition Pugio</name>
-            <desc>A sharp weapon, as fearsome as the inquisitors who wield it.</desc>
+            <name>Пугіо Інквізиції</name>
+            <desc>Гостра зброя, така ж грізна, як і інквізитори, які нею володіють.</desc>
         </DaggerUncoInquisition>
         <DaggerUncoTrackers>
-            <name>Harag Billhook</name>
-            <desc>The longer you look at this billhook, the more it resembles a beast's fang.</desc>
+            <name>Гак Хараг</name>
+            <desc>Чим довше ви дивитеся на цей гак, тим більше він нагадує ікло звіра.</desc>
         </DaggerUncoTrackers>
         <DaggerRareOutlaws>
-            <name>Ringleader's Dagger</name>
-            <desc>A short blade, practical and sharp. Highly sought after by bandits.</desc>
+            <name>Кинджал ватажка</name>
+            <desc>Коротке лезо, практичне та гостре. Дуже популярне серед бандитів.</desc>
         </DaggerRareOutlaws>
         <DaggerRareFugitive09>
-            <name>The Ogress</name>
-            <desc>The Ogre has often wielded this blade not to kill, but rather to convince many a reluctant parent to sell off their children.</desc>
+            <name>Огр</name>
+            <desc>Цей клинок Огр часто використовував не для вбивства, а щоб переконати багатьох неохочих батьків продати своїх дітей.</desc>
         </DaggerRareFugitive09>
         <DaggerRareFugitive16>
-            <name>Elderguard</name>
-            <desc>This dagger's hilt has proven very useful for smashing enemy heads.</desc>
+            <name>Старий охоронець</name>
+            <desc>Руків'я цього кинджала виявилося дуже корисним для розбивання голів ворогів.</desc>
         </DaggerRareFugitive16>
         <DaggerRareDeserters>
-            <name>Looter's Dagger</name>
-            <desc>This dagger slit the throats of many innocent villagers.</desc>
+            <name>Кинджал мародера</name>
+            <desc>Цей кинджал перерізав горло багатьом невинним селянам.</desc>
         </DaggerRareDeserters>
         <DaggerRareTraitor>
-            <name>Traitor's Dagger</name>
-            <desc>This dagger is proof that the Marheims don't owe their seats in the Broker Council to luck alone.</desc>
+            <name>Кинджал зрадника</name>
+            <desc>Цей кинджал є доказом того, що Мархейми зобов'язані своїми місцями в Раді брокерів не тільки удачі.</desc>
         </DaggerRareTraitor>
         <Viper>
-            <name>Viper</name>
-            <desc>A weapon designed to leave no chance to one's opponent.</desc>
+            <name>Гадюка</name>
+            <desc>Зброя, розроблена для того, щоб не залишати супротивнику жодного шансу.</desc>
         </Viper>
         <DaggerLegendaryRuinG2>
-            <name>Behedite's Kris</name>
-            <desc>The Ancients crafted this weapon as a tribute to Behedite. It was never actually his.</desc>
+            <name>Крис Бехедіта</name>
+            <desc>Стародавні виготовили цю зброю як данину Бехедіту. Насправді вона ніколи не належала йому.</desc>
         </DaggerLegendaryRuinG2>
         <DaggerCrook>
-            <name>Kruppe's Saex</name>
-            <desc>Light and sharp, Kristoff Kruppe's weapon is unmatched when it comes to cutting throats.</desc>
+            <name>Сакс Круппе</name>
+            <desc>Легка та гостра зброя Крістоффа Круппе не має собі рівних у перерізанні горлянок.</desc>
         </DaggerCrook>
         <DaggerLegendaryArenaIR1>
-            <name>Fighter's Cinquedea</name>
-            <desc>Although the Brotherhood usually disdains daggers, its members like to wield the cinquedea in the arena.</desc>
+            <name>Цинкуедеа бійця</name>
+            <desc>Хоча Братство зазвичай зневажає кинджали, його члени люблять використовувати цинкуедеа на арені.</desc>
         </DaggerLegendaryArenaIR1>
         <MaceStart>
-            <name>Old Club</name>
-            <desc>An old club with a split handle.</desc>
+            <name>Старий кийок</name>
+            <desc>Старий кийок з розколотою ручкою.</desc>
         </MaceStart>
         <MaceCommonCivilian>
-            <name>Club </name>
-            <desc>From table legs to broken branches, resourceful people can use anything as a club.</desc>
+            <name>Кийок</name>
+            <desc>Від ніжок столу до зламаних гілок - винахідливі люди можуть використовувати все як кийок.</desc>
         </MaceCommonCivilian>
         <MaceCommonGuard>
             <name>Bec de Corbin of the Guard</name>
@@ -51172,82 +51172,82 @@
             <desc>Produces fish.</desc>
         </FishingDeck>
         <SmallShipwreck>
-            <desc>Produces a random resource during Rests.</desc>
+            <desc>Виробляє випадковий ресурс під час відпочинку.</desc>
         </SmallShipwreck>
         <BarrelNumber>
-            <desc>Increases simultaneous production of alcohol by [VALUE].</desc>
+            <desc>Збільшує одночасне виробництво алкоголю на [VALUE].</desc>
         </BarrelNumber>
         <STroopAdventurers>
-            <desc>Apprentice friends looking for an adventure</desc>
+            <desc>Учні-приятелі, що шукають пригод</desc>
         </STroopAdventurers>
         <STroopMerchants>
-            <desc>Men escorting merchants who lost their employer</desc>
+            <desc>Чоловіки супроводжують торговців, які втратили свого роботодавця</desc>
         </STroopMerchants>
         <STroopDeserters>
-            <desc>Deserters fleeing an abusive captain</desc>
+            <desc>Дезертири, які тікають від жорстокого капітана</desc>
         </STroopDeserters>
         <STroopFarmers>
-            <desc>Young farmers looking for a better life</desc>
+            <desc>Молоді фермери, які шукають кращого життя</desc>
         </STroopFarmers>
         <STroopBandits>
-            <desc>Bandits looking to escape the Guard</desc>
+            <desc>Бандити, які намагаються втекти від варти</desc>
         </STroopBandits>
         <STroopTavern>
-            <desc>Associates looking for a village where they can set up their Tavern<br/></desc>
+            <desc>Партнери, які шукають село, де вони можуть відкрити свою таверну<br/></desc>
         </STroopTavern>
         <SBonus1>
-            <desc>... are used to long walks</desc>
+            <desc>... звикли до довгих прогулянок</desc>
         </SBonus1>
         <SBonus2>
-            <desc>... are cunning fighters</desc>
+            <desc>... хитрі бійці</desc>
         </SBonus2>
         <SBonus3>
-            <desc>... show incredible resilience</desc>
+            <desc>... демонструють неймовірну стійкість</desc>
         </SBonus3>
         <SBonus4>
-            <desc>... are excellent at slap games</desc>
+            <desc>... відмінно грають у ляпасні ігри</desc>
         </SBonus4>
         <SBonus5>
-            <desc>... are quick learners</desc>
+            <desc>... швидко вчаться</desc>
         </SBonus5>
         <SBonus6>
-            <desc>... have a gift for petty theft</desc>
+            <desc>... мають талант до дрібного крадіжництва</desc>
         </SBonus6>
         <SBonus7>
-            <desc>... know how to talk to new recruits</desc>
+            <desc>... вміють розмовляти з новобранцями</desc>
         </SBonus7>
         <SBonus8>
-            <desc>... enjoy being one with nature</desc>
+            <desc>... люблять єднання з природою</desc>
         </SBonus8>
         <SBonus9>
-            <desc>... could sell anything to anyone</desc>
+            <desc>... можуть продати що завгодно кому завгодно</desc>
         </SBonus9>
         <SMalus1>
-            <desc>... a somewhat meek appearance</desc>
+            <desc>... дещо лагідний вигляд</desc>
         </SMalus1>
         <SMalus2>
-            <desc>... eternal dissatisfaction</desc>
+            <desc>... вічне невдоволення</desc>
         </SMalus2>
         <SMalus3>
-            <desc>... an uncommon bout of bad luck</desc>
+            <desc>... незвично погана удача</desc>
         </SMalus3>
         <SMalus4>
-            <desc>... a very hard time getting up</desc>
+            <desc>... дуже важко вставати</desc>
         </SMalus4>
         <SMalus5>
-            <desc>... a serious lack of self-confidence</desc>
+            <desc>... серйозний брак впевненості в собі</desc>
         </SMalus5>
         <SMalus6>
-            <desc>... a greediness far more developed than others</desc>
+            <desc>... набагато розвиненішу жадібність, ніж у інших</desc>
         </SMalus6>
         <SMalus7>
-            <desc>... a very relative sense of loyalty</desc>
+            <desc>... дуже відносне почуття лояльності</desc>
         </SMalus7>
         <SMalus8>
-            <desc>... an incredibly limited knowledge</desc>
+            <desc>... неймовірно обмежені знання</desc>
         </SMalus8>
         <SMalus9>
-            <desc>... an attitude that does not inspire trust</desc>
+            <desc>... поведінку, яка не викликає довіри</desc>
         </SMalus9>
         <ArenaUnitToEngage>
             <desc>&lt;b&gt;[TARGET]&lt;/b&gt; must be engaged in combat at the end of the round.</desc>
