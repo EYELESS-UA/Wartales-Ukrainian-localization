@@ -39838,144 +39838,144 @@
             <desc>Від ніжок столу до зламаних гілок - винахідливі люди можуть використовувати все як кийок.</desc>
         </MaceCommonCivilian>
         <MaceCommonGuard>
-            <name>Bec de Corbin of the Guard</name>
-            <desc>Very easy to handle, this weapon is very commonly used by members of the Guard.</desc>
+            <name>Гвардійський клювач</name>
+            <desc>Дуже проста у використанні, ця зброя широко використовується членами гвардії.</desc>
         </MaceCommonGuard>
         <MaceCommonInquisition>
-            <name>Inquisition Flanged Mace</name>
-            <desc>This mace strikes fear in fighters’ hearts from Belerion to Alazar.</desc>
+            <name>Флангова булава Інквізиції</name>
+            <desc>Ця булава вселяє страх у серця бійців від Белеріона до Алазара.</desc>
         </MaceCommonInquisition>
         <MaceArena>
-            <name>Arena Spiked Mace</name>
-            <desc>This weapon may lack elegance, but none can withstand it.</desc>
+            <name>Озброєна шипована булава</name>
+            <desc>Цій зброї може бракувати елегантності, але ніхто не може їй протистояти.</desc>
         </MaceArena>
         <MaceUncoAlazar>
-            <name>Alazarian Flanged Mace</name>
-            <desc>The flanges on this mace call to mind Alazar's jagged mountains.</desc>
+            <name>Флангова булава Алазара</name>
+            <desc>Фланці на цій булаві нагадують зубчасті гори Алазара.</desc>
         </MaceUncoAlazar>
         <MaceUncoCraftT1>
-            <name>Iron Studded Mace</name>
-            <desc>While not the most sophisticated of weapons, this studded mace is more than suitable to kill someone.</desc>
+            <name>Залізна булава з шипами</name>
+            <desc>Хоча це і не найвитонченіша зброя, ця булава з шипами цілком підходить для вбивства.</desc>
         </MaceUncoCraftT1>
         <MaceUncoCraftT2>
-            <name>Ghost Mace</name>
-            <desc>The strength of this small and unassuming mace lies in its excellent balance.</desc>
+            <name>Примарна булава</name>
+            <desc>Сила цієї маленької та непримітної булави полягає у її чудовому балансі.</desc>
         </MaceUncoCraftT2>
         <MaceUncoCraftT3>
-            <name>Rimesteel Flanged Mace</name>
-            <desc>Wielding this dangerously efficient weapon can be quite messy.</desc>
+            <name>Флангова булава з ріместалі</name>
+            <desc>Використання цієї небезпечно ефективної зброї може бути досить брудною справою.</desc>
         </MaceUncoCraftT3>
         <MaceUncoCraftT4>
-            <name>Akhedian Steel Morning Star</name>
-            <desc>Nothing can withstand a blow from this morning star. Armour, shields, skulls... It crushes everything with ease.</desc>
+            <name>Ранкова зірка зі сталі Акхедіану</name>
+            <desc>Жодна броня, щити або черепи не можуть витримати удар цієї ранкової зірки. Вона легко дробить усе на своєму шляху.</desc>
         </MaceUncoCraftT4>
         <MaceUncoBandits>
-            <name>Crook's Studded Mace</name>
-            <desc>The rust on this weapon's spikes makes it even more terrifying.</desc>
+            <name>Шипована булава пройдисвіта</name>
+            <desc>Іржа на шипах цієї зброї робить її ще страшнішою.</desc>
         </MaceUncoBandits>
         <MaceRareDeserters>
-            <name>Fugitive's Hammer</name>
-            <desc>A sturdy hammer featuring a handle adorned with runes.</desc>
+            <name>Молот утікача</name>
+            <desc>Міцний молот з руків'ям, прикрашеним рунами.</desc>
         </MaceRareDeserters>
         <MaceRareFugitive03>
-            <name>Misery</name>
-            <desc>Meliance the Traitor has meticulously polished the metal to remove Lord Laheart's crest.</desc>
+            <name>Страждання</name>
+            <desc>Зрадник Меліанс ретельно відполірував метал, щоб видалити герб Лорда Лагарта.</desc>
         </MaceRareFugitive03>
         <MaceRareFugitive10>
-            <name>Purgatory</name>
-            <desc>This mace crushed many a skull for the heretic thoughts they contained.</desc>
+            <name>Чистилище</name>
+            <desc>Ця булава розчавила безліч черепів за єретичні думки, які вони містили.</desc>
         </MaceRareFugitive10>
         <MaceRareFugitive17>
-            <name>Basher</name>
-            <desc>Despite its simplistic name, this mace is of superb quality and was forged with care.</desc>
+            <name>Дубина</name>
+            <desc>Незважаючи на свою просту назву, ця булава відрізняється чудовою якістю і була виготовлена з великою ретельністю.</desc>
         </MaceRareFugitive17>
         <MaceRareLegion>
-            <name>Hothead's Mace</name>
-            <desc>The Legion started using maces during the Alazarian invasion.</desc>
+            <name>Булава гарячої голови</name>
+            <desc>Легіон почав використовувати булави під час Алазаранського вторгнення.</desc>
         </MaceRareLegion>
         <MaceLegendaryRuin>
-            <name>Erkeshet's Mace</name>
-            <desc>No present-day blacksmith could ever hope to reproduce this weapon; the technique used to balance it is only known to the Ancients.</desc>
+            <name>Булава Еркешета</name>
+            <desc>Сучасним ковалям ніколи не вдасться відтворити цю зброю; техніка балансування відома лише Стародавнім.</desc>
         </MaceLegendaryRuin>
         <MaceLegendaryArena1A1>
-            <name>Iceward</name>
-            <desc>Made to crush and tear off armour plates, this bec de corbin is a dangerous weapon.</desc>
+            <name>Льодовий захист</name>
+            <desc>Створений для розривання та зняття броньових пластин, цей клювач є небезпечною зброєю.</desc>
         </MaceLegendaryArena1A1>
         <MaceLegendaryArena1E1>
-            <name>Stubby</name>
-            <desc>This bec de corbin was made for easier shield handling.</desc>
+            <name>Коротун</name>
+            <desc>Цей клювач створений для зручнішого поводження зі щитом.</desc>
         </MaceLegendaryArena1E1>
         <Mace2HStart>
-            <name>Rusty Two-handed Hammer</name>
-            <desc>A massive hammer covered in rust.</desc>
+            <name>Іржавий дворучний молот</name>
+            <desc>Величезний молот, вкритий іржею.</desc>
         </Mace2HStart>
         <Mace2HCommonDeserters>
-            <name>Deserters' Two-handed Hammer</name>
-            <desc>Albeit not very subtle, this two-handed hammer is plenty effective.</desc>
+            <name>Дворучний молот дезертирів</name>
+            <desc>Хоча цей дворучний молот не дуже витончений, він надзвичайно ефективний.</desc>
         </Mace2HCommonDeserters>
         <Mace2HUncoPirates>
-            <name>Pirate's Two-handed Mace</name>
-            <desc>You can look at the head of this mace from any angle, and it still looks like an Ichtyan face.</desc>
+            <name>Піратська дворучна булава</name>
+            <desc>З якого б боку ви не дивилися на головку цієї булави, вона все одно нагадує обличчя іхтійця.</desc>
         </Mace2HUncoPirates>
         <Mace2HUncoGuard>
-            <name>Two-handed Hammer of the Guard</name>
-            <desc>While Guard leadership had little taste for this weapon at first, its sheer might gradually won them over.</desc>
+            <name>Дворучний молот гвардії</name>
+            <desc>Спочатку керівництво гвардії не мало великого смаку до цієї зброї, але її надзвичайна міць поступово підкорила їх.</desc>
         </Mace2HUncoGuard>
         <Mace2HUncoInquisition>
-            <name>Inquisition Hammer</name>
-            <desc>This terrifying weapon has gradually fallen into disuse within the Inquisition, and is now only wielded by certain highly placed individuals.</desc>
+            <name>Молот інквізиції</name>
+            <desc>Ця страшна зброя поступово вийшла з ужитку в Інквізиції і тепер використовується лише деякими високопоставленими особами.</desc>
         </Mace2HUncoInquisition>
         <Mace2HUncoCraftT1>
-            <name>Iron Two-handed Hammer</name>
-            <desc>Carrying this hammer is no easy feat, but it is well worth the effort once on the battlefield.</desc>
+            <name>Залізний дворучний молот</name>
+            <desc>Носити цей молот непросто, але на полі бою він вартує зусиль.</desc>
         </Mace2HUncoCraftT1>
         <Mace2HUncoCraftT2>
-            <name>Ghost Two-Handed Mace</name>
-            <desc>The spectral leather ensures a perfect grip... almost too perfect.</desc>
+            <name>Примарна дворучна булава</name>
+            <desc>Примарна шкіра забезпечує ідеальне зчеплення... майже занадто ідеальне.</desc>
         </Mace2HUncoCraftT2>
         <Mace2HUncoCraftT3>
-            <name>Rimesteel Flanged Great Mace</name>
-            <desc>This mace can smash a helmet as if it were made of butter.</desc>
+            <name>Велика флангова булава з ріместалі</name>
+            <desc>Ця булава може розбити шолом, наче він зроблений з масла.</desc>
         </Mace2HUncoCraftT3>
         <Mace2HUncoCraftT4>
-            <name>Akhedian Steel Two-handed Morning Star</name>
-            <desc>Heavy but extremely sturdy, this morning star is known to wreak havoc on the battlefield.</desc>
+            <name>Дворучна ранкова зірка зі сталі Акхедіану</name>
+            <desc>Важка, але надзвичайно міцна, ця ранкова зірка відома тим, що сіє хаос на полі бою.</desc>
         </Mace2HUncoCraftT4>
         <Mace2HRareCompanions>
-            <name>Goon's Two-Handed Mace</name>
-            <desc>The mere sight of this mace is enough to make smugglers break out in a cold sweat. So say the Mercenaries of the Brotherhood, at least.</desc>
+            <name>Дворучна булава головоріза</name>
+            <desc>Один лише вигляд цієї булави змушує контрабандистів покриватися холодним потом. Принаймні, так кажуть найманці з Братства.</desc>
         </Mace2HRareCompanions>
         <Mace2HRareAlazar>
-            <name>Colossal Flanged Mace</name>
-            <desc>The Colossi of the Alazarian army are so named because they wield this impressive flanged mace.</desc>
+            <name>Колосальна флангова булава</name>
+            <desc>Колоси Алазаранської армії отримали свою назву через те, що вони володіють цією вражаючою фланговою булавою.</desc>
         </Mace2HRareAlazar>
         <Mace2HRareFugitive01>
-            <name>Rogue</name>
-            <desc>Rojen used this mace to murder in their sleep the merchants he was meant to protect.</desc>
+            <name>Шахрай</name>
+            <desc>Роджен використовував цю булаву, щоб вбивати у сні купців, яких він повинен був охороняти.</desc>
         </Mace2HRareFugitive01>
         <Mace2HRareFugitive15>
-            <name>Hope-Slayer</name>
-            <desc>The shadow cast by this mace still haunts the residents of Harag.</desc>
+            <name>Вбивця надії</name>
+            <desc>Тінь, яку відкидає ця булава, досі переслідує мешканців Харагу.</desc>
         </Mace2HRareFugitive15>
         <Lucilla>
-            <name>Lucilla</name>
-            <desc>A two-handed morning star with a handle wrapped in human skin. Who did it belong to?</desc>
+            <name>Луцила</name>
+            <desc>Дворучна ранкова зірка з руків'ям, обмотаним людською шкірою. Кому вона належала?</desc>
         </Lucilla>
         <Mace2HInsect>
-            <name>Bog Thunder</name>
-            <desc>Sensible travellers will overlook how ridiculous the Bog Thunder is and hold on to it for being remarkably effective against cardinal mosquitoes.</desc>
+            <name>Болотний грім</name>
+            <desc>Розумні мандрівники не звертають уваги на те, як смішно виглядає Болотний грім, і тримають його за те, що він надзвичайно ефективний проти кардинальних комарів.</desc>
         </Mace2HInsect>
         <Mace2HLegendaryRuinS1>
-            <name>Dagan's Hammer</name>
-            <desc>This hammer's embellishments leave characteristic impressions on its victims' flesh. A peculiar way of decorating the battlefield...</desc>
+            <name>Молот Дагана</name>
+            <desc>Прикраси на цьому молоті залишають характерні відбитки на плоті його жертв. Своєрідний спосіб прикрашати поле бою...</desc>
         </Mace2HLegendaryRuinS1>
         <Mace2HLegendaryArenaIR1>
-            <name>Fighter's Two-Handed Mace</name>
-            <desc>Sergeant Ada is famous for wielding this awe-inspiring mace.</desc>
+            <name>Дворучна булава бійця</name>
+            <desc>Сержант Ада відома тим, що володіє цією вражаючою булавою.</desc>
         </Mace2HLegendaryArenaIR1>
         <AxeStart>
-            <name>Rusty Felling Axe</name>
-            <desc>This axe has been eaten away by rust.</desc>
+            <name>Іржавий сокира для рубання дерев</name>
+            <desc>Цю сокиру з'їла іржа.</desc>
         </AxeStart>
         <AxeCommonDeserters>
             <name>Chipped Axe</name>
