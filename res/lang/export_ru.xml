@@ -38637,60 +38637,60 @@
     </sheet>
     <sheet name="region">
         <Worldwide>
-            <name>World</name>
-            <kingdom>World</kingdom>
+            <name>Світ</name>
+            <kingdom>Світ</kingdom>
         </Worldwide>
         <Alazar_Aneding>
-            <name>Tiltren County</name>
-            <kingdom>Independent State</kingdom>
-            <setting.title>The Fate of Tiltren</setting.title>
-            <setting.desc>After the war broke out, Refugees fled the neighbouring kingdom of Edoran. Their arrival in Tiltren has stirred up tensions.</setting.desc>
+            <name>Графство Тілтрен</name>
+            <kingdom>Незалежна держава</kingdom>
+            <setting.title>Доля Тілтрена</setting.title>
+            <setting.desc>Після початку війни біженці втекли з сусіднього королівства Едоран. Їхнє прибуття в Тілтрен викликало напруженість.</setting.desc>
         </Alazar_Aneding>
         <Edoran_1>
-            <name>County of Arthes</name>
-            <kingdom>Kingdom of Edoran</kingdom>
-            <setting.title>The Fate of Arthes</setting.title>
-            <setting.desc>The war opposing Count Laheart and his former subject Vernalis is laying waste to the entire region.</setting.desc>
+            <name>Графство Артес</name>
+            <kingdom>Королівство Едоран</kingdom>
+            <setting.title>Доля Артеса</setting.title>
+            <setting.desc>Війна між графом Лагартом та його колишнім підданим Верналісом спустошує весь регіон.</setting.desc>
         </Edoran_1>
         <Gosenberg_1>
-            <name>Vertruse Province</name>
-            <kingdom>Kingdom of Gosenberg</kingdom>
-            <setting.title>The Fate of Vertruse</setting.title>
-            <setting.desc>A strange illness is destroying the Vertrusian vineyards.</setting.desc>
+            <name>Провінція Вертрузе</name>
+            <kingdom>Королівство Гозенберг</kingdom>
+            <setting.title>Доля Вертрузе</setting.title>
+            <setting.desc>Дивна хвороба знищує виноградники Вертрузе.</setting.desc>
         </Gosenberg_1>
         <Harag_1>
-            <name>Ludern Region</name>
-            <kingdom>Harag Kingdom</kingdom>
-            <setting.title>The Fate of Ludern</setting.title>
-            <setting.desc>Despite the prohibitions affecting them, the Alazarian scholars seem to have found a way into Ludern. Who knows what they're planning...</setting.desc>
+            <name>Регіон Людерн</name>
+            <kingdom>Королівство Хараг</kingdom>
+            <setting.title>Доля Людерна</setting.title>
+            <setting.desc>Незважаючи на заборони, які їх стосуються, алазарські вчені, здається, знайшли шлях до Людерна. Хто знає, що вони планують...</setting.desc>
         </Harag_1>
         <InterRegion_1>
-            <name>Mount Altis</name>
-            <kingdom>Independent State</kingdom>
-            <setting.title>None</setting.title>
-            <setting.desc>Nothing is happening here.</setting.desc>
+            <name>Гора Альтіс</name>
+            <kingdom>Незалежна держава</kingdom>
+            <setting.title>Немає</setting.title>
+            <setting.desc>Тут нічого не відбувається.</setting.desc>
         </InterRegion_1>
         <Gosenberg_2>
-            <name>Grinmeer Province</name>
-            <kingdom>Kingdom of Gosenberg</kingdom>
-            <setting.title>The Fate of Grinmeer</setting.title>
-            <setting.desc>In the wake of &lt;narrator&gt;Broker Hoevendorp&lt;/narrator&gt;'s death, the merchant city descends into panic as her murderer remains at large.</setting.desc>
+            <name>Провінція Грінмеер</name>
+            <kingdom>Королівство Гозенберг</kingdom>
+            <setting.title>Доля Грінмеера</setting.title>
+            <setting.desc>Після смерті &lt;narrator&gt;брокера Говендорпа&lt;/narrator&gt;, торгове місто занурилося в паніку, оскільки його вбивця все ще на волі.</setting.desc>
         </Gosenberg_2>
         <Alazar_1>
-            <name>Drombach County</name>
-            <kingdom>Kingdom of Alazar</kingdom>
-            <setting.title>The Fate of Drombach</setting.title>
-            <setting.desc>As the Eye's Reckoning tears through the lands of Drombach, the Inquisition investigates to discover which heresy gave rise to the divine wrath.</setting.desc>
+            <name>Графство Дромбах</name>
+            <kingdom>Королівство Алазар</kingdom>
+            <setting.title>Доля Дромбаха</setting.title>
+            <setting.desc>Поки Божа кара ока спустошує землі Дромбаха, інквізиція розслідує, яка єресь викликала божественний гнів.</setting.desc>
         </Alazar_1>
         <Belerion_1>
-            <name>Belerion Archipelago</name>
-            <kingdom>Kingdom of Belerion</kingdom>
-            <setting.title>The Fate of the Archipelago</setting.title>
-            <setting.desc>Many ships have disappeared in the Belerion Archipelago. All signs point to pirates.</setting.desc>
+            <name>Архіпелаг Белеріон</name>
+            <kingdom>Королівство Белеріон</kingdom>
+            <setting.title>Доля архіпелагу</setting.title>
+            <setting.desc>У архіпелазі Белеріон зникло багато кораблів. Усі ознаки вказують на піратів.</setting.desc>
         </Belerion_1>
         <Ihraa_1>
-            <name>Belerion Archipelago</name>
-            <kingdom>People of Ihraa</kingdom>
+            <name>Архіпелаг Белеріон</name>
+            <kingdom>Народ Іхраа</kingdom>
         </Ihraa_1>
     </sheet>
     <sheet name="trait">
@@ -50693,85 +50693,85 @@
     </sheet>
     <sheet name="attribute">
         <Strength>
-            <name>Strength</name>
-            <desc>Increases the skill damage based on [Strength] and [CritHitDamageBonusPercent].</desc>
+            <name>Сила</name>
+            <desc>Збільшує шкоду навичок залежно від [Strength] та [CritHitDamageBonusPercent].</desc>
         </Strength>
         <Dexterity>
-            <name>Dexterity</name>
-            <desc>Increases the skill damage based on [Dexterity] and [CritHitPercent].</desc>
+            <name>Спритність</name>
+            <desc>Збільшує шкоду навичок залежно від [Dexterity] та [CritHitPercent].</desc>
         </Dexterity>
         <Constitution>
-            <name>Constitution</name>
-            <desc>Determines how much [Health] the unit has and increases their [Transport].</desc>
-            <descAnimal>Determines how much [Health] the unit has.</descAnimal>
+            <name>Конституція</name>
+            <desc>Визначає кількість [Health] у юніта та збільшує його [Transport].</desc>
+            <descAnimal>Визначає кількість [Health] у юніта.</descAnimal>
         </Constitution>
         <Willpower>
-            <name>Willpower</name>
-            <desc>Used to boost the troop's Morale in combat. Also increases the [CritHitPercent].</desc>
+            <name>Воля</name>
+            <desc>Використовується для підвищення бойового духу війська в бою. Також збільшує [CritHitPercent].</desc>
         </Willpower>
         <CritHitPercent>
-            <name>Critical Hit</name>
-            <desc>Determines the % of chance an attack will land a critical hit and deal additional damage.</desc>
+            <name>Критичне влучення</name>
+            <desc>Визначає відсоток ймовірності, що атака буде критичною та завдасть додаткової шкоди.</desc>
         </CritHitPercent>
         <Movement>
-            <name>Movement</name>
-            <desc>Allows the unit to move around in combat.</desc>
+            <name>Переміщення</name>
+            <desc>Дозволяє юніту переміщатися в бою.</desc>
         </Movement>
         <Transport>
-            <name>Carrying Capacity</name>
-            <desc>Increases the weight that can be carried in the Inventory.</desc>
+            <name>Вантажопідйомність</name>
+            <desc>Збільшує вагу, яку можна нести в інвентарі.</desc>
         </Transport>
         <Health>
-            <name>Health</name>
-            <desc>[Health] represents health points and regenerates after each fight. Taking too much damage will cause injuries.</desc>
+            <name>Здоров'я</name>
+            <desc>[Health] представляє кількість очок здоров'я та відновлюється після кожного бою. Надмірне отримання шкоди призведе до травм.</desc>
         </Health>
         <MaxHealth>
-            <name>Health</name>
-            <desc>[Health] represents hit points, and regenerates after each battle. Suffering too much damage will lead to injuries.</desc>
+            <name>Здоров'я</name>
+            <desc>[Health] представляє кількість очок здоров'я та відновлюється після кожного бою. Надмірне отримання шкоди призведе до травм.</desc>
         </MaxHealth>
         <Armor>
-            <name>Armor</name>
-            <desc>[Armor] protects [Health], maintains [Guard] and must be repaired after each fight.</desc>
+            <name>Броня</name>
+            <desc>[Armor] захищає [Health], підтримує [Guard] та потребує ремонту після кожного бою.</desc>
         </Armor>
         <Guard>
-            <name>Guard</name>
-            <desc>[Guard] reduces the damage of incoming attacks as long as the unit has [Armor]. Attacks from behind ignore 50% of this reduction.</desc>
+            <name>Захист</name>
+            <desc>[Guard] зменшує шкоду від вхідних атак, поки у юніта є [Armor]. Атаки ззаду ігнорують 50% цього зменшення.</desc>
         </Guard>
         <DamageBonusPercent>
-            <name>Damage</name>
+            <name>Шкода</name>
         </DamageBonusPercent>
         <CritHitDamageBonusPercent>
-            <name>Critical Damage</name>
+            <name>Критична шкода</name>
         </CritHitDamageBonusPercent>
         <DistanceBonus>
-            <name>Range</name>
+            <name>Дальність</name>
         </DistanceBonus>
         <PrecisionBonus>
-            <name>Precision</name>
+            <name>Точність</name>
         </PrecisionBonus>
         <DamageReducePercent>
-            <name>Damage taken</name>
+            <name>Отримана шкода</name>
         </DamageReducePercent>
         <DamageTakenPercent>
-            <name>Damage taken</name>
+            <name>Отримана шкода</name>
         </DamageTakenPercent>
         <DamageTypeBonus>
-            <name>Elemental damage taken</name>
+            <name>Отримана елементальна шкода</name>
         </DamageTypeBonus>
         <DamageBonusOppAttack>
-            <name>Damage from attacks of opportunity</name>
+            <name>Шкода від атак можливості</name>
         </DamageBonusOppAttack>
         <IgnoreGuard>
-            <name>Ignore Guard</name>
+            <name>Ігнорування захисту</name>
         </IgnoreGuard>
         <VisionRange>
-            <name>Vision</name>
+            <name>Зір</name>
         </VisionRange>
         <TerrorResistance>
-            <name>Resistance to Terror</name>
+            <name>Стійкість до страху</name>
         </TerrorResistance>
         <Morale>
-            <name>Morale</name>
+            <name>Бойовий дух</name>
         </Morale>
     </sheet>
     <sheet name="bonus">
