@@ -49828,632 +49828,632 @@
             <name>MUST BE CHANGED</name>
         </No_Status>
         <Targeting>
-            <name>Targeting</name>
-            <desc>This unit is readying a skill. They cannot start any other action or become engaged in combat.</desc>
+            <name>Цілення</name>
+            <desc>Ця одиниця готується використати вміння. Вона не може розпочати інші дії або вступити в бій.</desc>
         </Targeting>
         <Engaged>
-            <name>Engaged</name>
-            <desc>This unit can only target the engaged opponent and has a [VALUE]% chance of taking a critical hit from other units (+20% from behind).</desc>
+            <name>Втягнуто в бій</name>
+            <desc>Ця одиниця може атакувати лише супротивника, з яким вона втягнута в бій, і має [VALUE]% шанс отримати критичний удар від інших одиниць (+20% з тилу).</desc>
         </Engaged>
         <CriticalHit>
-            <name>Critical Hit</name>
-            <desc>[DamageBonusPercent] of the attack increased by [VALUE]%.</desc>
+            <name>Критичний удар</name>
+            <desc>[DamageBonusPercent] від атаки збільшується на [VALUE]%</desc>
         </CriticalHit>
         <OpportunityAttack>
-            <name>Attack of Opportunity</name>
-            <desc>An attack that deals [VALUE]% of the main aptitude, [Strength] or [Dexterity].</desc>
+            <name>Атака можливості</name>
+            <desc>Атака, яка завдає [VALUE]% від основної характеристики, [Strength] або [Dexterity].</desc>
         </OpportunityAttack>
         <Pushback>
-            <name>Knock Back</name>
-            <desc>The target is forcibly moved backward.</desc>
+            <name>Відштовхування</name>
+            <desc>Ціль примусово відсувається назад.</desc>
         </Pushback>
         <ActionBase>
-            <name>Base Action</name>
-            <desc>You can only use one base action or attack per turn.</desc>
+            <name>Базова дія</name>
+            <desc>Ви можете використовувати лише одну базову дію або атаку за хід.</desc>
         </ActionBase>
         <Ultimate>
-            <name>Bravery</name>
-            <desc>A Bravery is a skill that unlocks new strategies in battle.<br/><br/>Your troop can perform only one Bravery per round. Each Companion can use their Bravery only once per battle.</desc>
+            <name>Хоробрість</name>
+            <desc>Хоробрість — це вміння, яке відкриває нові стратегії в бою.<br/><br/>Ваш загін може виконувати лише одну Хоробрість за раунд. Кожен товариш може використовувати свою Хоробрість лише один раз за бій.</desc>
         </Ultimate>
         <Leader>
-            <name>Leader</name>
-            <desc>[Strength], [Dexterity] and [Constitution] increased by [ATTR_0]%. Cannot be captured.</desc>
+            <name>Лідер</name>
+            <desc>[Strength], [Dexterity] і [Constitution] збільшені на [ATTR_0]%. Не може бути захоплений.</desc>
         </Leader>
         <Gladiator>
-            <name>Gladiator</name>
-            <desc>[Strength], [Dexterity] and [Constitution] increased by [ATTR_0]%.</desc>
+            <name>Гладіатор</name>
+            <desc>[Strength], [Dexterity] і [Constitution] збільшені на [ATTR_0]%</desc>
         </Gladiator>
         <Champion>
-            <name>Elite</name>
-            <desc>Can use multiple abilities in the same round.<br/>DoT are greatly reduced and only triggered at the end of the round.<br/>Cannot be captured.</desc>
+            <name>Еліта</name>
+            <desc>Може використовувати кілька здібностей в одному раунді.<br/>Шкода від часу значно зменшена і виникає лише в кінці раунду.<br/>Не може бути захоплена.</desc>
         </Champion>
         <Skilled>
-            <name>Seasoned</name>
-            <desc>[Strength], [Dexterity] and [Constitution] increased by [ATTR_0]%.<br/>Cannot be captured.</desc>
+            <name>Досвідчений</name>
+            <desc>[Strength], [Dexterity] і [Constitution] збільшені на [ATTR_0]%.<br/>Не може бути захоплений.</desc>
         </Skilled>
         <ImportantUnit>
-            <name>Important character</name>
-            <desc>This unit is an important character. If they die, you will have to restart the battle.</desc>
+            <name>Важливий персонаж</name>
+            <desc>Ця одиниця є важливим персонажем. Якщо вона загине, вам доведеться почати битву заново.</desc>
         </ImportantUnit>
         <ScaredUnit>
-            <name>Scared</name>
-            <desc>This unit is scared and can only defend or flee.</desc>
+            <name>Наляканий</name>
+            <desc>Ця одиниця налякана і може тільки захищатися або тікати.</desc>
         </ScaredUnit>
         <Tired>
-            <name>Fatigued</name>
-            <desc>[Strength] and [Dexterity] reduced by [ATTR_0]%.</desc>
+            <name>Стомлений</name>
+            <desc>[Strength] і [Dexterity] зменшені на [ATTR_0]%</desc>
         </Tired>
         <HairGrowing>
-            <name>Hair regrowth</name>
-            <desc>According to the label on the bottle, you need to sleep for it to take effect.</desc>
+            <name>Відновлення волосся</name>
+            <desc>Згідно з етикеткою на пляшці, потрібно поспати, щоб воно подіяло.</desc>
         </HairGrowing>
         <Galvanization>
-            <name>Galvanisation</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Гальванізація</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%</desc>
         </Galvanization>
         <Motivation>
-            <name>Motivated</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Мотивований</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%</desc>
         </Motivation>
         <Fury>
-            <name>Fury</name>
-            <desc>[DamageBonusPercent] of the next attack increased by [ATTR_0]%.</desc>
+            <name>Лють</name>
+            <desc>[DamageBonusPercent] наступної атаки збільшено на [ATTR_0]%</desc>
         </Fury>
         <Brutality>
-            <name>Brutality</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Брутальність</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%</desc>
         </Brutality>
         <Protection>
-            <name>Protection</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.</desc>
+            <name>Захист</name>
+            <desc>[DamageBonusPercent] зменшено на [ATTR_0]%</desc>
         </Protection>
         <Inspiration>
-            <name>Inspiration</name>
-            <desc>[Movement] doubled.</desc>
+            <name>Натхнення</name>
+            <desc>[Movement] подвоєно.</desc>
         </Inspiration>
         <Deftness>
-            <name>Deftness</name>
-            <desc>Range of the next attack is doubled, and precision is enhanced.</desc>
+            <name>Спритність</name>
+            <desc>Дальність наступної атаки подвоєна, а точність підвищена.</desc>
         </Deftness>
         <Deflection>
-            <name>Deflection</name>
-            <desc>[DamageReducePercent] of the next attack reduced by [ATTR_0]%.</desc>
+            <name>Відбиття</name>
+            <desc>[DamageReducePercent] наступної атаки зменшено на [ATTR_0] %.</desc>
         </Deflection>
         <Riposte>
-            <name>Riposte</name>
-            <desc>The next time this unit is attacked by their engaged opponent, they attack in return with an attack of opportunity.<br/>Cancelled if the unit moves.</desc>
+            <name>Відповідь</name>
+            <desc>Наступного разу, коли цей юніт буде атакований супротивником, з яким він задіяний, він відповідає атакою з нагоди.<br/>Скасовано, якщо юніт переміщується.</desc>
         </Riposte>
         <Dodge>
-            <name>Dodge</name>
-            <desc><br/>			Fully dodges the next attack.<br/>			Cancelled if the unit moves.<br/>            </desc>
+            <name>Ухиляння</name>
+            <desc><br/>Повністю ухиляється від наступної атаки.<br/>Скасовано, якщо юніт переміщується.<br/></desc>
         </Dodge>
         <OilStrengthProc1>
-            <desc>[Strength] increased by [ATTR_0]%.</desc>
+            <desc>[Strength] збільшена на [ATTR_0]%.</desc>
         </OilStrengthProc1>
         <OilDexterityProc1>
-            <desc>[Dexterity] increased by [ATTR_0]%.</desc>
+            <desc>[Dexterity] збільшена на [ATTR_0]%.</desc>
         </OilDexterityProc1>
         <OilDamageTakenProc1>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.</desc>
+            <desc>[DamageReducePercent] зменшено на [ATTR_0]%.</desc>
         </OilDamageTakenProc1>
         <BeltAccGuardEngaged>
-            <desc>[Guard] increased by [ATTR_0]%.</desc>
+            <desc>[Guard] збільшено на [ATTR_0]%.</desc>
         </BeltAccGuardEngaged>
         <Fog>
-            <name>Fog</name>
-            <desc>This unit cannot be seen by other units.</desc>
+            <name>Туман</name>
+            <desc>Ця одиниця не може бути помічена іншими одиницями.</desc>
         </Fog>
         <Unity>
-            <name>Unity</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]% as next to an ally.</desc>
+            <name>Єдність</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%, коли поряд із союзником.</desc>
         </Unity>
         <Loneliness>
-            <name>Solitude</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]% as not next to an ally.</desc>
+            <name>Самотність</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%, коли немає союзників поруч.</desc>
         </Loneliness>
         <Wrath>
-            <name>Wrath</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Гнів</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%</desc>
         </Wrath>
         <Supported>
-            <name>Supported</name>
-            <desc>This unit is engaged in combat and next to [VALUE] free allies.<br/><br/>[DamageReducePercent] reduced by [ATTR_0]%.</desc>
+            <name>Підтриманий</name>
+            <desc>Цей підрозділ залучений у бій та знаходиться поруч із [VALUE] вільними союзниками.<br/><br/>[DamageReducePercent] зменшено на [ATTR_0]%</desc>
         </Supported>
         <CriticalLeader>
-            <name>Leader's Aggression</name>
-            <desc>[CritHitPercent] increased by [ATTR_0]%.</desc>
+            <name>Агресія Лідера</name>
+            <desc>[CritHitPercent] збільшено на [ATTR_0]%</desc>
         </CriticalLeader>
         <ProtectionLeader>
-            <name>Leader's Protection</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.</desc>
+            <name>Захист Лідера</name>
+            <desc>[DamageReducePercent] зменшено на [ATTR_0]%</desc>
         </ProtectionLeader>
         <TrueDamageLeader>
-            <name>Leader's Opportunism</name>
-            <desc>This unit's attacks also deal [VALUE]% damage to the [Health] of the targets hit.</desc>
+            <name>Опортунізм Лідера</name>
+            <desc>Атаки цього юніту також завдають [VALUE]% шкоди [Health] цілей.</desc>
         </TrueDamageLeader>
         <InspirationLeader>
-            <name>Leader's Inspiration</name>
-            <desc>[Movement] increased by [ATTR_0]%.</desc>
+            <name>Натхнення Лідера</name>
+            <desc>[Movement] збільшено на [ATTR_0]%.</desc>
         </InspirationLeader>
         <BrutalityLeader>
-            <name>Leader's Brutality</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Брутальність Лідера</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.</desc>
         </BrutalityLeader>
         <DmgPerBonusLeader>
-            <name>Leader's Willpower</name>
-            <desc>[DamageBonusPercent] increased by [VALUE]% for each Bonus applied to the target of their attacks.</desc>
+            <name>Сила Волі Лідера</name>
+            <desc>[DamageBonusPercent] збільшено на [VALUE]% за кожен Бонус, застосований до цілі їхніх атак.</desc>
         </DmgPerBonusLeader>
         <SupportLeader>
-            <name>Leader's Support</name>
-            <desc>This unit's [Guard] is equal to the highest [Guard] among their own and their nearby allies' (within [VALUE] metres).</desc>
+            <name>Підтримка Лідера</name>
+            <desc>[Guard] цього юніта дорівнює найвищому [Guard] серед нього та його союзників поблизу (на відстані до [VALUE] метрів).</desc>
         </SupportLeader>
         <AnimalProtection>
-            <name>Animal Protection</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Захист Тварин</name>
+            <desc>[DamageReducePercent] зменшено на [ATTR_0]%.<br/>Накопичуване (наразі: [VALUE_STACK]%).</desc>
         </AnimalProtection>
         <Berserk>
-            <name>Berserk</name>
-            <desc>[DamageBonusPercent] and [DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Берсерк</name>
+            <desc>[DamageBonusPercent] та [DamageTakenPercent] збільшено на [ATTR_0]%</desc>
         </Berserk>
         <BerserkStack>
-            <name>Rising Anger</name>
-            <desc>After [VALUE] rats have been killed, this unit goes berserk.</desc>
+            <name>Зростаючий Гнів</name>
+            <desc>Після вбивства [VALUE] щурів, цей юніт стає берсерком.</desc>
         </BerserkStack>
         <BloodReserve>
-            <name>Blood Reserve</name>
-            <desc>After [VALUE] applications, this unit completely regenerates their [Health].</desc>
+            <name>Запас Крові</name>
+            <desc>Після [VALUE] застосувань, цей юніт повністю відновлює своє [Health].</desc>
         </BloodReserve>
         <Relentlessness>
-            <name>Relentless</name>
-            <desc>After attacking, this unit executes an attack of opportunity.<br/>Removed if no longer engaged in combat.</desc>
+            <name>Невтомний</name>
+            <desc>Після атаки цей юніт виконує атаку з можливістю.<br/>Видаляється, якщо більше не бере участі в бою.</desc>
         </Relentlessness>
         <AnimalMarkedBonus>
-            <name>Rage</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Лють</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.<br/>Накопичуваний ефект (поточне значення: [VALUE_STACK]%).</desc>
         </AnimalMarkedBonus>
         <Savagery>
-            <name>Savagery</name>
-            <desc>Gains [Riposte] if finishing their turn engaged in combat.</desc>
+            <name>Жорстокість</name>
+            <desc>Отримує [Riposte], якщо завершує свій хід, перебуваючи у бою.</desc>
         </Savagery>
         <Rivalry>
-            <name>Rivalry</name>
-            <desc>[DamageReducePercent] dealt by the engaged opponent reduced by [VALUE]%.</desc>
+            <name>Суперництво</name>
+            <desc>[DamageReducePercent], завданий супротивником, з яким ведеться бій, зменшено на [VALUE] %.</desc>
         </Rivalry>
         <BionnPanic>
-            <name>Bionn's Panic</name>
-            <desc>Corresponds to the number of Plague-ridden allies called by Bionn's Crazed Scream.</desc>
+            <name>Паніка Біонн</name>
+            <desc>Відповідає кількості заражених чумою союзників, викликаних шаленим криком Біонн.</desc>
         </BionnPanic>
         <FenrisCourage>
-            <name>Fortitude</name>
-            <desc>Fenris' Fortitude Level</desc>
+            <name>Стійкість</name>
+            <desc>Рівень стійкості Фенріса</desc>
         </FenrisCourage>
         <Whipped>
-            <name>Whipped</name>
+            <name>Під батогом</name>
         </Whipped>
         <BestFriendAdjacent>
-            <name>Best Friends</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Найкращі друзі</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%</desc>
         </BestFriendAdjacent>
         <Angry>
-            <name>Irate</name>
-            <desc>[Strength] and [Dexterity] increased by [ATTR_0]%.</desc>
+            <name>Розлючений</name>
+            <desc>[Strength] та [Dexterity] збільшено на [ATTR_0]%</desc>
         </Angry>
         <Watchful>
-            <name>Vigilant</name>
-            <desc>Enemy aggression range reduced in the world.</desc>
+            <name>Пильний</name>
+            <desc>Радіус агресії ворогів у світі зменшено.</desc>
         </Watchful>
         <Satiated>
-            <name>Satiated</name>
-            <desc>This unit will consume 0 Food during the next Rest.</desc>
+            <name>Ситий</name>
+            <desc>Цей юніт не споживатиме їжі під час наступного відпочинку.</desc>
         </Satiated>
         <Endurance>
-            <name>Tough</name>
-            <desc>Movement speed in the world increased by [VALUE]%.</desc>
+            <name>Витривалий</name>
+            <desc>Швидкість руху у світі збільшена на [VALUE]%</desc>
         </Endurance>
         <Ratkiller>
-            <name>Verminator</name>
-            <desc>[DamageBonusPercent] against Plague-infested outgrowths increased by [VALUE]%.<br/><br/>Status effect removed after battling rat infestations.</desc>
+            <name>Винищувач</name>
+            <desc>[DamageBonusPercent] проти заражених чумою наростів збільшено на [VALUE]%.<br/><br/>Ефект стану знімається після битв з інфекціями щурів.</desc>
         </Ratkiller>
         <Inspired>
-            <name>Inspired</name>
-            <desc>[Willpower] increased by [ATTR].</desc>
+            <name>Натхненний</name>
+            <desc>[Willpower] збільшена на [ATTR].</desc>
         </Inspired>
         <GoldDigger>
-            <name>Gold Digger</name>
-            <desc>The next Krown earnings are increased by [VALUE]%.</desc>
+            <name>Шукач золота</name>
+            <desc>Наступний прибуток у кронах збільшено на [VALUE] %.</desc>
         </GoldDigger>
         <Unleashed>
-            <name>Unleashed</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]% and cannot be engaged in combat.</desc>
+            <name>Звільнений</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]% і не може бути залучений у бій.</desc>
         </Unleashed>
         <Unwavering>
-            <name>Immovable</name>
-            <desc>Cannot be knocked back.</desc>
+            <name>Нерухомий</name>
+            <desc>Не може бути відкинутий назад.</desc>
         </Unwavering>
         <LinkedByWill>
-            <name>Bonded by Willpower</name>
-            <desc>At the end of the round, if at least one ally has [Health] remaining, this unit recovers half of their [Health].</desc>
+            <name>Поєднані Силою Волі</name>
+            <desc>Наприкінці раунду, якщо хоча б один союзник має залишок [Health], цей підрозділ відновлює половину свого [Health].</desc>
         </LinkedByWill>
         <BrothersFury>
-            <name>Brotherly Fury</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Братерський Гнів</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0] %.</desc>
         </BrothersFury>
         <PrideInfused>
-            <name>Surge of Pride</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Хвиля Гордості</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0] %.</desc>
         </PrideInfused>
         <ResistFire>
-            <name>Fire Resistance</name>
-            <desc>Fire damage is reduced to 0.</desc>
+            <name>Вогнестійкість</name>
+            <desc>Шкода від вогню зведена до 0.</desc>
         </ResistFire>
         <LoneWolf>
-            <name>Lone Wolf</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.<br/>[DamageReducePercent] reduced by [ATTR_1]%.</desc>
+            <name>Одинокий вовк</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.<br/>[DamageReducePercent] зменшено на [ATTR_1]%.</desc>
         </LoneWolf>
         <MischiefMakerCritical>
-            <name>Looting Experience</name>
-            <desc>The troop's [CritHitDamageBonusPercent] is increased by [ATTR_0]%</desc>
+            <name>Досвід мародерства</name>
+            <desc>[DamageBonusPercent] загону збільшено на [ATTR_0]%</desc>
         </MischiefMakerCritical>
         <Doped>
-            <name>Drugged Up</name>
-            <desc>The unit ignores their next injury.</desc>
+            <name>Під дією наркотиків</name>
+            <desc>Юніт ігнорує своє наступне поранення.</desc>
         </Doped>
         <Zeal>
-            <name>Zeal</name>
-            <desc>[CritHitPercent] and [CritHitDamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Завзяття</name>
+            <desc>[CritHitPercent] та [CritHitDamageBonusPercent] збільшені на [ATTR_0] %.</desc>
         </Zeal>
         <Frenzy>
-            <name>Frenzy</name>
-            <desc>This unit's damage increases as their health decreases, and their attacks always land critical hits.</desc>
+            <name>Шаленість</name>
+            <desc>Шкода цього підрозділу збільшується зі зменшенням їхнього здоров'я, а їхні атаки завжди завдають критичних ударів.</desc>
         </Frenzy>
         <DefensiveStance>
-            <name>Defensive Stance</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).<br/>After stacking [VALUE] times, switches to Berserker Stance.</desc>
+            <name>Оборонна Стойка</name>
+            <desc>[DamageReducePercent] знижено на [ATTR_0]%.<br/>Складається (зараз: [VALUE_STACK]%).<br/>Після складання [VALUE] разів перемикається на Стойку Берсерка.</desc>
         </DefensiveStance>
         <BerserkerStance>
-            <name>Berserker Stance</name>
-            <desc>[DamageTakenPercent] and [DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).<br/>After stacking [VALUE] times, switches to Defensive Stance.</desc>
+            <name>Стойка Берсерка</name>
+            <desc>[DamageTakenPercent] і [DamageBonusPercent] збільшено на [ATTR_0]%.<br/>Складається (зараз: [VALUE_STACK]%).<br/>Після складання [VALUE] разів перемикається на Оборонну Стойку.</desc>
         </BerserkerStance>
         <Euphoria>
-            <name>Euphoria</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Ейфорія</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.<br/>Складається (зараз: [VALUE_STACK]%).</desc>
         </Euphoria>
         <A1ArenaRedGazZone>
-            <name>Stimulating Vapours</name>
-            <desc>At the start of their turn, this unit gains [A1ArenaRedGaz].</desc>
+            <name>Стимулюючі Пара</name>
+            <desc>На початку свого ходу цей юніт отримує [A1ArenaRedGaz].</desc>
         </A1ArenaRedGazZone>
         <A1ArenaRedGaz>
-            <name>Stimulated</name>
-            <desc>Increases damage to engaged units by [VALUE]%.</desc>
+            <name>Стимульований</name>
+            <desc>Збільшує шкоду залученим юнітам на [VALUE]%</desc>
         </A1ArenaRedGaz>
         <A1ArenaBlueGazZone>
-            <name>Invigorating Vapours</name>
-            <desc>At the start of their turn, this unit gains [A1ArenaBlueGaz].</desc>
+            <name>Зміцнюючі випари</name>
+            <desc>На початку свого ходу цей юніт отримує [A1ArenaBlueGaz].</desc>
         </A1ArenaBlueGazZone>
         <A1ArenaBlueGaz>
-            <name>Invigorated</name>
-            <desc>Increases damage to non-engaged units by [VALUE]%.</desc>
+            <name>Зміцнений</name>
+            <desc>Збільшує шкоду для юнітів, що не залучені в бій, на [VALUE]%</desc>
         </A1ArenaBlueGaz>
         <Replay>
-            <name>Second Chance</name>
-            <desc>This unit will act again during this round.</desc>
+            <name>Другий Шанс</name>
+            <desc>Цей юніт діятиме ще раз протягом цього раунду.</desc>
         </Replay>
         <Ordered>
-            <name>Orderly</name>
-            <desc>This unit generates twice as much Valour.</desc>
+            <name>Порядний</name>
+            <desc>Цей юніт генерує вдвічі більше відваги.</desc>
         </Ordered>
         <ToPosition>
-            <name>In Position</name>
-            <desc>This unit's Guard is doubled.</desc>
+            <name>На позиції</name>
+            <desc>Захист цього юніта подвоєно.</desc>
         </ToPosition>
         <Entrenched>
-            <name>Entrenched</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.<br/>Stackable (maximum: [VALUE_STACK_MAX]%, currently: [VALUE_STACK]%).</desc>
+            <name>Окопаний</name>
+            <desc>[DamageReducePercent] зменшений на [ATTR_0]%.<br/>Складається (максимум: [VALUE_STACK_MAX]%, на даний момент: [VALUE_STACK]%).</desc>
         </Entrenched>
         <BackEyed>
-            <name>Eyes in the back of their head</name>
-            <desc>This unit has no back weakness.</desc>
+            <name>Очі на потилиці</name>
+            <desc>Ця одиниця не має слабкості ззаду.</desc>
         </BackEyed>
         <Electrified>
-            <name>Static Shock</name>
-            <desc>Lightning damage is reduced to 0.<br/>When another unit uses a skill or ends their turn next to them, they are struck by lightning and lose [VALUE]% of their maximum [Health]<br/>(effect lessened on Elites).</desc>
+            <name>Статичний Шок</name>
+            <desc>Удар блискавки зменшено до 0.<br/>Коли інша одиниця використовує вміння або завершує свій хід поруч із нею, їх вражає блискавка, і вони втрачають [VALUE]% свого максимального [Health]<br/>(ефект зменшено на елітних одиницях).</desc>
         </Electrified>
         <Enervate>
-            <name>Angry</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Розлючений</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.<br/>Складаний ефект (зараз: [VALUE_STACK]%).</desc>
         </Enervate>
         <Executer>
-            <name>Enforcer</name>
-            <desc>[Movement] increased by [ATTR_0] and [CritHitPercent] increased by [ATTR_1]%.</desc>
+            <name>Виконавець</name>
+            <desc>[Movement] збільшено на [ATTR_0] і [CritHitPercent] збільшено на [ATTR_1]%</desc>
         </Executer>
         <Poisoner>
-            <name>Poisoned Weapon</name>
-            <desc>All attacks apply [VALUE] [Poison]s.</desc>
+            <name>Отруєна зброя</name>
+            <desc>Усі атаки застосовують [VALUE] [Poison].</desc>
         </Poisoner>
         <Bloodthirsty>
-            <name>Anticoagulant Weapon</name>
-            <desc>All attacks apply [Bleeding].</desc>
+            <name>Антикоагулянтна зброя</name>
+            <desc>Усі атаки застосовують [Bleeding].</desc>
         </Bloodthirsty>
         <Lucky>
-            <name>Enhanced Precision</name>
-            <desc>[CritHitPercent] increased by [ATTR_0]%.</desc>
+            <name>Покращена точність</name>
+            <desc>[CritHitPercent] збільшений на [ATTR_0]%</desc>
         </Lucky>
         <Ambushed>
-            <name>Ambusher</name>
-            <desc>[CritHitPercent] and [CritHitDamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Засадник</name>
+            <desc>[CritHitPercent] і [CritHitDamageBonusPercent] збільшені на [ATTR_0]%</desc>
         </Ambushed>
         <DustFog>
-            <name>Dust Cloud</name>
-            <desc>Units within the cloud are not visible.</desc>
+            <name>Пилова Хмара</name>
+            <desc>Юніти в межах хмари невидимі.</desc>
         </DustFog>
         <Invisible>
-            <name>Invisible</name>
-            <desc>As long as this unit steers clear of enemies, they are invisible to them. Losing this status triggers a guaranteed critical hit.</desc>
+            <name>Невидимий</name>
+            <desc>Цей юніт залишається невидимим для ворогів, поки тримається від них подалі. Втрата цього статусу гарантує критичний удар.</desc>
         </Invisible>
         <AttackExaltation>
-            <name>Offensive Elation</name>
-            <desc>[DamageBonusPercent] of the next attack increased by [ATTR_0]%.</desc>
+            <name>Наступальний Екстаз</name>
+            <desc>[DamageBonusPercent] наступної атаки збільшується на [ATTR_0]%</desc>
         </AttackExaltation>
         <DefenseExaltation>
-            <name>Defensive Elation</name>
-            <desc>[DamageReducePercent] of the next attack reduced by [ATTR_0]%.</desc>
+            <name>Оборонний Екстаз</name>
+            <desc>[DamageBonusPercent] наступної атаки знижується на [ATTR_0]%</desc>
         </DefenseExaltation>
         <CommanderResilience>
-            <name>Commander's Resilience</name>
-            <desc>Absorbs a certain amount of sustained damage. Enrages at the end of the round if the absorption is still active.</desc>
+            <name>Витривалість Командира</name>
+            <desc>Поглинає певну кількість отриманого збитку. Наприкінці раунду впадає в лють, якщо поглинання все ще активне.</desc>
         </CommanderResilience>
         <CommanderRage>
-            <name>Commander's Rage</name>
-            <desc>Fly, you fools...</desc>
+            <name>Лють Командира</name>
+            <desc>Летіть, ви дурні...</desc>
         </CommanderRage>
         <Recovery>
-            <name>Recover</name>
-            <desc>This unit is trying to recover... They do not count as an active enemy and cannot be used to satisfy requirements.</desc>
+            <name>Відновлення</name>
+            <desc>Цей юніт намагається відновитися... Він не вважається активним ворогом і не може бути використаний для виконання вимог.</desc>
         </Recovery>
         <Proud>
-            <name>Proud</name>
-            <desc>Each time this unit deals a critical hit, they gain &lt;apt&gt;[VALUE]&lt;/apt&gt;.</desc>
+            <name>Гордість</name>
+            <desc>Кожного разу, коли цей юніт завдає критичного удару, він отримує <apt>[VALUE]</apt>.</desc>
         </Proud>
         <PathMightLvl8>
-            <name>Brave</name>
-            <desc>Each time one of your units kills an enemy, they deal extra damage for the duration of the fight.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Хоробрий</name>
+            <desc>Кожного разу, коли один з ваших юнітів вбиває ворога, він завдає додаткової шкоди на весь час бою.<br/>Можна накопичувати (зараз: [VALUE_STACK]%).</desc>
         </PathMightLvl8>
         <Hysteria>
-            <name>Delirium</name>
-            <desc>Every time it is applied, you can perform an additional &lt;skill&gt;[HystericalPunches]&lt;/skill&gt; attack.</desc>
+            <name>Марення</name>
+            <desc>Кожного разу, коли воно застосовується, ви можете виконати додаткову атаку &lt;skill&gt;[HystericalPunches]&lt;/skill&gt;.</desc>
         </Hysteria>
         <WarmBlood>
-            <name>Hot-Blooded</name>
-            <desc>Every time it is applied, you can perform an attack of opportunity after using a skill.</desc>
+            <name>Запальна</name>
+            <desc>Кожного разу, коли вона застосовується, ви можете виконати атаку можливості після використання вміння.</desc>
         </WarmBlood>
         <Fervor>
-            <name>Fervour</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Запал</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0]%.<br/>Накопичуваний (наразі: [VALUE_STACK]%).</desc>
         </Fervor>
         <HumanTorch>
-            <name>Human Torch</name>
-            <desc>Loses [VALUE]% of their maximum [Health], creates a [Fire] and applies [Burning] to adjacent units at the end of their turn.</desc>
+            <name>Людина-смолоскип</name>
+            <desc>Втрачає [VALUE]% свого максимального [Health], створює [Fire] і застосовує [Burning] до прилеглих юнітів наприкінці свого ходу.</desc>
         </HumanTorch>
         <DoubleShot>
-            <name>Double Blow</name>
-            <desc>This unit can use their base skill twice.</desc>
+            <name>Подвійний удар</name>
+            <desc>Цей юніт може використовувати свою базову навичку двічі.</desc>
         </DoubleShot>
         <Vivacity>
-            <name>Alertness</name>
-            <desc>[Movement] increased by [ATTR_0]%.</desc>
+            <name>Пильність</name>
+            <desc>Збільшує [Movement] на [ATTR_0]%.</desc>
         </Vivacity>
         <CaptainDuel_Advantage>
-            <name>Upper Hand</name>
-            <desc>This unit has the upper hand in a duel.</desc>
+            <name>Перевага</name>
+            <desc>Цей юніт має перевагу в дуелі.</desc>
         </CaptainDuel_Advantage>
         <Victorious>
-            <name>Victorious</name>
-            <desc>All of this unit's attacks are critical hits.</desc>
+            <name>Переможець</name>
+            <desc>Усі атаки цього юніта є критичними ударами.</desc>
         </Victorious>
         <Preparation>
-            <name>Preparedness</name>
-            <desc>[DamageBonusPercent] of attacks of opportunity increased by [ATTR_0]%.</desc>
+            <name>Підготовленість</name>
+            <desc>[DamageBonusPercent] для атак можливості збільшено на [ATTR_0]%.</desc>
         </Preparation>
         <CritDamageBonus>
-            <name>Fit of Rage</name>
-            <desc>[CritHitDamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Спалах Люті</name>
+            <desc>[CritHitDamageBonusPercent] збільшено на [ATTR_0]%.</desc>
         </CritDamageBonus>
         <Weakening>
-            <name>Weakening</name>
-            <desc>[DamageBonusPercent] reduced by [ATTR_0]%.</desc>
+            <name>Ослаблення</name>
+            <desc>[DamageBonusPercent] зменшено на [ATTR_0]%.</desc>
         </Weakening>
         <Fragility>
-            <name>Fragility</name>
-            <desc>[DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Крихкість</name>
+            <desc>[DamageTakenPercent] збільшено на [ATTR_0]%.</desc>
         </Fragility>
         <Destabilization>
-            <name>Destabilisation</name>
-            <desc>[Guard] reduced to 0.</desc>
+            <name>Дестабілізація</name>
+            <desc>[Guard] зменшено до 0.</desc>
         </Destabilization>
         <Slowdown>
-            <name>Slowdown</name>
-            <desc>[Movement] reduced by half.</desc>
+            <name>Сповільнення</name>
+            <desc>[Movement] зменшено наполовину.</desc>
         </Slowdown>
         <Bleeding>
-            <name>Bleeding</name>
-            <desc>Target loses [VALUE]% of their max [Health] at the end of their turn.<br/>&lt;extra&gt;Damage: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;</desc>
+            <name>Кровотеча</name>
+            <desc>Ціль втрачає [VALUE]% від свого максимального [Health] в кінці свого ходу.<br/>&lt;extra&gt;Шкода: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;</desc>
         </Bleeding>
         <Poison>
-            <name>Poison</name>
-            <namePlural>Poisons</namePlural>
-            <desc>Loses [VALUE]% of their maximum [Health] at the end of their turn.<br/>Stackable (current: [VALUE_STACK]%).<br/>&lt;extra&gt;Damage: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;</desc>
+            <name>Отрута</name>
+            <namePlural>Отрути</namePlural>
+            <desc>Втрачає [VALUE]% від свого максимального [Health] в кінці свого ходу.<br/>Накопичувано (поточне: [VALUE_STACK]%).<br/>&lt;extra&gt;Шкода: &lt;bad&gt;[VALUE%]&lt;/bad&gt;&lt;/extra&gt;</desc>
         </Poison>
         <PoisonCloud>
-            <name>Cloud of Poison</name>
-            <desc>Applies [VALUE] [Poison]s to any unit that walks through the cloud or ends their turn within it.</desc>
+            <name>Хмара Отрути</name>
+            <desc>Накладає [VALUE] [Poison] на будь-який юніт, що проходить крізь хмару або завершує свій хід всередині неї.</desc>
         </PoisonCloud>
         <Burning>
-            <name>Burning</name>
-            <desc>Loses [VALUE]% of their maximum [Health]. The fire spreads to adjacent units at the end of their turn.<br/>Removed if a skill is used and moves the unit.</desc>
+            <name>Горіння</name>
+            <desc>Втрачає [VALUE]% від свого максимального [Health]. Вогонь поширюється на сусідні юніти наприкінці їхнього ходу.<br/>Видаляється, якщо використовується навичка, що переміщує юніта.</desc>
         </Burning>
         <Vulnerability>
-            <name>Vulnerability</name>
-            <desc>The next attack suffered will be a critical hit.</desc>
+            <name>Вразливість</name>
+            <desc>Наступна отримана атака буде критичним ударом.</desc>
         </Vulnerability>
         <Stun>
-            <name>Stun</name>
-            <desc>Unable to perform any actions.</desc>
+            <name>Оглушення</name>
+            <desc>Не може виконувати жодних дій.</desc>
         </Stun>
         <Dying>
-            <name>Dying</name>
-            <desc>This unit can no longer use skills and moves by half of their capacity.<br/>The unit dies if they take any damage.</desc>
+            <name>Вмирання</name>
+            <desc>Цей юніт більше не може використовувати вміння і рухається з половинною швидкістю.<br/>Юніт помре, якщо отримає будь-яку шкоду.</desc>
         </Dying>
         <Surrounded>
-            <name>Surrounded</name>
-            <desc>This unit is engaged in combat and next to [VALUE] free enemies.<br/><br/>[DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Оточений</name>
+            <desc>Цей юніт бере участь у бою і знаходиться поруч із [VALUE] вільними ворогами.<br/><br/>[DamageTakenPercent] збільшено на [ATTR_0]%</desc>
         </Surrounded>
         <Sentence>
-            <name>Judgement</name>
-            <desc>This unit is targeted...</desc>
+            <name>Суд</name>
+            <desc>Цей юніт знаходиться під прицілом...</desc>
         </Sentence>
         <Fever>
-            <name>Fever</name>
-            <namePlural>Fevers</namePlural>
-            <desc>[DamageTakenPercent] increased by [ATTR_0]%.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Лихоманка</name>
+            <namePlural>Лихоманки</namePlural>
+            <desc>[DamageTakenPercent] збільшується на [ATTR_0]%.<br/>Накладається (поточне: [VALUE_STACK]%).</desc>
         </Fever>
         <Plagued>
-            <name>Infection</name>
-            <desc>This unit is sick with the Plague.<br/>They can only eat meat, and may go mad if they become famished.</desc>
+            <name>Інфекція</name>
+            <desc>Цей юніт хворий на Чуму.<br/>Вони можуть їсти лише м'ясо і можуть зійти з розуму, якщо стануть голодними.</desc>
         </Plagued>
         <Plagued_Starved>
-            <name>Infection - Starving</name>
-            <desc>This unit is now Plague-ridden and starving, as they did not eat meat during their last Rest.<br/>They have chance of going mad at the beginning of each round.</desc>
+            <name>Інфекція - Голодування</name>
+            <desc>Цей юніт тепер заражений Чумою та голодує, оскільки не їв м'яса під час останнього Відпочинку.<br/>На початку кожного раунду вони мають шанс зійти з розуму.</desc>
         </Plagued_Starved>
         <Plagued_Madness>
-            <name>Infection - Mad</name>
-            <desc>This unit is sick with the Plague and has gone mad. They are out of control and can attack allied units.</desc>
+            <name>Інфекція - Божевілля</name>
+            <desc>Цей юніт заражений Чумою та зійшов з розуму. Вони вийшли з-під контролю і можуть атакувати союзні юніти.</desc>
         </Plagued_Madness>
         <Plagued_Injured>
-            <name>Plague-infected Wound</name>
-            <desc>This unit must be healed before the next Rest. Otherwise, they will be infected.</desc>
+            <name>Пошкодження, інфіковане чумою</name>
+            <desc>Цей юніт має бути вилікуваний до наступного Відпочинку. Інакше вони будуть заражені.</desc>
         </Plagued_Injured>
         <PreventEngage>
-            <desc>This unit cannot be engaged.</desc>
+            <desc>Цей юніт не може бути задіяний.</desc>
         </PreventEngage>
         <Unpushable>
-            <desc>This unit cannot be pushed.</desc>
+            <desc>Цей юніт не можна штовхнути.</desc>
         </Unpushable>
         <Fire>
-            <name>Fire</name>
-            <desc>Applies [Burning] to all the units who go through it.</desc>
+            <name>Вогонь</name>
+            <desc>Накладає [Burning] на всіх юнітів, які проходять через нього.</desc>
         </Fire>
         <OilDotEffect1>
-            <desc>Loses [VALUE] of their [Health] at the end of their turn.<br/>Stackable (current: [VALUE_STACK]).</desc>
+            <desc>Втрачає [VALUE] свого [Health] наприкінці свого ходу.<br/>Накопичується (зараз: [VALUE_STACK]).</desc>
         </OilDotEffect1>
         <Terror>
-            <name>Terror</name>
-            <namePlural>Terrors</namePlural>
-            <desc>After [VALUE] applications, the terrified unit flees the battle.</desc>
+            <name>Жах</name>
+            <namePlural>Жахи</namePlural>
+            <desc>Після [VALUE] застосувань переляканий юніт тікає з бою.</desc>
         </Terror>
         <TerrorFog>
-            <name>Eerie Fog</name>
-            <desc>Applies [VALUE] [Terror] to any unit that crosses the fog or ends their turn within it.</desc>
+            <name>Моторошний Туман</name>
+            <desc>Накладає [VALUE] [Terror] на будь-який юніт, який перетинає туман або завершує свій хід у ньому.</desc>
         </TerrorFog>
         <TerrorLink>
-            <name>Binding of Terror</name>
-            <desc>This unit takes [VALUE] [Terror] at the end of their turn.<br/>Removed when next to an ally affected by this effect.</desc>
+            <name>Зв'язування Жаху</name>
+            <desc>Цей юніт отримує [VALUE] [Terror] в кінці свого ходу.<br/>Знімається, коли знаходиться поруч із союзником, що під впливом цього ефекту.</desc>
         </TerrorLink>
         <Blind>
-            <name>Blackout</name>
-            <desc>Has a [VALUE]% chance to miss their next attack.</desc>
+            <name>Затемнення</name>
+            <desc>Має [VALUE]% шанс промахнутися при наступній атаці.</desc>
         </Blind>
         <Surprised>
-            <name>Surprise</name>
-            <desc>[DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Сюрприз</name>
+            <desc>[DamageTakenPercent] збільшено на [ATTR_0] %.</desc>
         </Surprised>
         <Bloodshed>
-            <name>Bloodshed</name>
-            <namePlural>Bloodshed</namePlural>
-            <desc>Loses [VALUE] [Health] per application at the end of their turn and is then removed.<br/>Stackable (currently [VALUE_STACK]).</desc>
+            <name>Кривавопролиття</name>
+            <namePlural>Кривавопролиття</namePlural>
+            <desc>Втрачає [VALUE] [Health] за кожне застосування в кінці свого ходу, після чого ефект зникає.<br/>Може накопичуватися (зараз [VALUE_STACK]).</desc>
         </Bloodshed>
         <AnimalMarked>
-            <name>Marked for Death</name>
-            <desc>Every time this unit is attacked by an animal, the damage increases.</desc>
+            <name>Позначений для смерті</name>
+            <desc>Кожного разу, коли ця одиниця атакована твариною, шкода збільшується.</desc>
         </AnimalMarked>
         <FearPlague>
-            <name>Fear of the Plague</name>
-            <desc>[DamageBonusPercent] reduced by [ATTR_0]% for each Plague-ridden unit in the fight.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Страх перед чумою</name>
+            <desc>[DamageBonusPercent] зменшується на [ATTR_0]% за кожну одиницю, уражену чумою, в бою.<br/>Накопичуване (наразі: [VALUE_STACK]%).</desc>
         </FearPlague>
         <Disarm>
-            <name>Disarm</name>
-            <desc>Can no longer use skills requiring their weapon.<br/>Does not work against champions.</desc>
+            <name>Роззброєння</name>
+            <desc>Більше не може використовувати навички, що вимагають зброї.<br/>Не діє проти чемпіонів.</desc>
         </Disarm>
         <Mud>
-            <name>Mud</name>
-            <desc>Required [Movement] doubled</desc>
+            <name>Бруд</name>
+            <desc>Необхідність [Movement] подвоєна</desc>
         </Mud>
         <NarsesMark>
-            <name>Mark of Narses</name>
-            <desc>When this status is consumed, the attacker executes an attack of opportunity.</desc>
+            <name>Мітка Нарсеса</name>
+            <desc>Коли цей статус витрачається, нападник виконує атаку можливості.</desc>
         </NarsesMark>
         <HorounMark>
-            <name>Mark of Horoun</name>
-            <desc>When this status is consumed, the attacker generates &lt;apt&gt;[VALUE]&lt;/apt&gt; Valour Points.</desc>
+            <name>Мітка Горуна</name>
+            <desc>Коли цей статус витрачається, нападник генерує <apt>[VALUE]</apt> Очок доблесті.</desc>
         </HorounMark>
         <Noisy>
-            <name>Noisy</name>
-            <desc>Enemy aggression range increased in the world.</desc>
+            <name>Галасливий</name>
+            <desc>Радіус агресії ворогів у світі збільшено.</desc>
         </Noisy>
         <Mistrustful>
-            <name>Wary</name>
-            <desc>Reduces by [VALUE] this unit's relationship with any Companion who injures one of their peers.</desc>
+            <name>Обережний</name>
+            <desc>Зменшує на [VALUE] відносини цього юніта з будь-яким товаришем, який поранив одного з їхніх однолітків.</desc>
         </Mistrustful>
         <Exhausted>
-            <name>Exhausted</name>
-            <desc>After a Rest, the troop regenerates [VALUE]% less Fatigue.</desc>
+            <name>Виснажений</name>
+            <desc>Після відпочинку загін відновлює на [VALUE]% менше втоми.</desc>
         </Exhausted>
         <Sulky>
-            <name>Sulky</name>
-            <desc>After a Rest, the Valour Points earned by the troop are reduced by [VALUE].</desc>
+            <name>Похмурий</name>
+            <desc>Після відпочинку кількість балів доблесті, зароблених загоном, зменшується на [VALUE].</desc>
         </Sulky>
         <Fearless>
-            <name>Reckless</name>
-            <desc>The Suspicion generated increases greatly.</desc>
+            <name>Безрозсудний</name>
+            <desc>Підозрілість зростає значно.</desc>
         </Fearless>
         <Nightmare>
-            <name>Nightmare</name>
-            <desc>After a Rest, the Happiness earned by the troop is reduced by [VALUE].</desc>
+            <name>Кошмар</name>
+            <desc>Після відпочинку кількість щастя, отриманого загоном, зменшується на [VALUE].</desc>
         </Nightmare>
         <Ratmare>
-            <name>Rodent Phobia</name>
-            <desc>This unit will leave the troop if they fight in a rat nest.</desc>
+            <name>Боязнь гризунів</name>
+            <desc>Цей юніт залишить загін, якщо битиметься в гнізді щурів.</desc>
         </Ratmare>
         <LatentTerror>
-            <name>Underlying Fear</name>
-            <desc>This unit might flee a battle for no reason.<br/><br/>Status effect removed if they flee.</desc>
+            <name>Прихований страх</name>
+            <desc>Цей юніт може втекти з бою без причини.<br/><br/>Ефект статусу зникає, якщо вони втечуть.</desc>
         </LatentTerror>
         <SlowReflexes>
-            <name>Slow Reflexes</name>
-            <desc>Damage from this unit's &lt;b&gt;attacks of opportunity&lt;/b&gt; is reduced by half.</desc>
+            <name>Повільні рефлекси</name>
+            <desc>Урон від &lt;b&gt;атак можливостей&lt;/b&gt; цього юніта зменшено наполовину.</desc>
         </SlowReflexes>
         <NoReflexes>
-            <name>Dazed</name>
-            <desc>This unit’s next attack of opportunity deals no damage.</desc>
+            <name>Приголомшений</name>
+            <desc>Наступна атака можливостей цього юніта не завдасть шкоди.</desc>
         </NoReflexes>
         <KogoTarget>
-            <name>Kogo's Target</name>
-            <desc>Kogo deals [VALUE]% more damage to the target.<br/>Toro takes [VALUE]% more damage from the target.<br/>Stackable.</desc>
+            <name>Ціль Кого</name>
+            <desc>Кого завдає на [VALUE]% більше шкоди цілі.<br/>Торо отримує на [VALUE]% більше шкоди від цілі.<br/>Можна накладати повторно.</desc>
         </KogoTarget>
         <ToroTarget>
-            <name>Toro's Target</name>
-            <desc>Toro deals [VALUE]% more damage to the target.<br/>Kogo takes [VALUE]% more damage from the target.<br/>Stackable.</desc>
+            <name>Ціль Торо</name>
+            <desc>Торо завдає на [VALUE]% більше шкоди цілі.<br/>Кого отримує на [VALUE]% більше шкоди від цілі.<br/>Можна накладати повторно.</desc>
         </ToroTarget>
         <BodyParalysis>
-            <name>Physical Paralysis</name>
-            <desc>Any Debuff received by this unit is doubled.</desc>
+            <name>Фізичний параліч</name>
+            <desc>Будь-який дебафф, отриманий цим юнітом, подвоюється.</desc>
         </BodyParalysis>
         <Confus>
-            <name>Confused</name>
-            <desc>This unit cannot receive bonuses.<br/>Does not apply to champions.</desc>
+            <name>Збентежений</name>
+            <desc>Цей юніт не може отримувати бонуси.<br/>Не стосується чемпіонів.</desc>
         </Confus>
         <Corrosion>
-            <name>Corrosion</name>
-            <desc>Loses [VALUE]% of their maximum [Armor] at the end of their turn.<br/>Stackable (currently: [VALUE_STACK]%).</desc>
+            <name>Корозія</name>
+            <desc>Втрачає [VALUE]% своєї максимальної [Armor] наприкінці свого ходу.<br/>Накладається (наразі: [VALUE_STACK]%).</desc>
         </Corrosion>
         <Condemn>
             <name>Condemn</name>
