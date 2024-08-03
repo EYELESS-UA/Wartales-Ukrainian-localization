@@ -39978,152 +39978,152 @@
             <desc>Цю сокиру з'їла іржа.</desc>
         </AxeStart>
         <AxeCommonDeserters>
-            <name>Chipped Axe</name>
-            <desc>This axe was designed to chop wood, but it is used for something a little different now.</desc>
+            <name>Щербата Сокира</name>
+            <desc>Ця сокира була створена для рубки деревини, але тепер вона використовується для дещо іншого.</desc>
         </AxeCommonDeserters>
         <AxeCommonTrackers>
-            <name>Trackers' Axe</name>
-            <desc>The intricate patterns on the blade are meant to repel the Ghost Pack.</desc>
+            <name>Сокира Слідопитів</name>
+            <desc>Вигадливі візерунки на лезі призначені для відлякування Примарної Зграї.</desc>
         </AxeCommonTrackers>
         <AxeUncoPirates>
-            <name>Pirate's Axe</name>
-            <desc>This axe has a razor-sharp blade.</desc>
+            <name>Сокира Пірата</name>
+            <desc>Ця сокира має лезо гостре, як бритва.</desc>
         </AxeUncoPirates>
         <AxeRareBelerion>
-            <name>Ihrian Bardiche</name>
-            <desc>Forged from Akhedian steel, this small axe is decorated with Hessura's symbol.</desc>
+            <name>Ігріанська Бердича</name>
+            <desc>Викована з ахедійської сталі, ця невелика сокира прикрашена символом Гессури.</desc>
         </AxeRareBelerion>
         <AxeUncoTrackers>
-            <name>Hunter's Axe</name>
-            <desc>This axe is adorned with every last feather of a marshland tit.</desc>
+            <name>Мисливська сокира</name>
+            <desc>Ця сокира прикрашена кожним останнім пір'ям болотяного титла.</desc>
         </AxeUncoTrackers>
         <AxeUncoInquisition>
-            <name>Inquisition Axe</name>
-            <desc>Considered barbaric and too similar to the Trackers’ weapons, this axe is rarely used within the Inquisition.</desc>
+            <name>Інквізиторська сокира</name>
+            <desc>Вважаючись варварською та надто схожою на зброю Трекерів, ця сокира рідко використовується в Інквізиції.</desc>
         </AxeUncoInquisition>
         <AxeArena>
-            <name>Arena Axe</name>
-            <desc>Small scratches indicate that this axe has been sharpened more than necessary.</desc>
+            <name>Арена Сокира</name>
+            <desc>Невеликі подряпини свідчать про те, що ця сокира була заточена більше, ніж потрібно.</desc>
         </AxeArena>
         <AxeUncoCraftT1>
-            <name>Iron Axe</name>
-            <desc>The haft of this axe is covered in thick leather, allowing for a better grip on the weapon.</desc>
+            <name>Залізна Сокира</name>
+            <desc>Рукоятка цієї сокири покрита товстою шкірою, що забезпечує кращий захват зброї.</desc>
         </AxeUncoCraftT1>
         <AxeUncoCraftT2>
-            <name>Ghost Axe</name>
-            <desc>Trackers say that these axes recognise the blacksmith who forged them as their only master.</desc>
+            <name>Примарна Сокира</name>
+            <desc>Слідопити кажуть, що ці сокири визнають лише коваля, який їх викував, своїм єдиним господарем.</desc>
         </AxeUncoCraftT2>
         <AxeUncoCraftT3>
-            <name>Rimesteel Axe</name>
-            <desc>The rimesteel contained in this axe's blade shines brightest in the moonlight.</desc>
+            <name>Сокира з краєсталі</name>
+            <desc>Краєсталь у лезі цієї сокири яскравіше за все сяє при місячному світлі.</desc>
         </AxeUncoCraftT3>
         <AxeUncoCraftT4>
-            <name>Akhedian Steel Axe</name>
-            <desc>It takes such skill to craft this axe that successfully forging one is enough to make a blacksmith rich.</desc>
+            <name>Ахедійська сталева сокира</name>
+            <desc>Виготовлення цієї сокири вимагає такого вміння, що успішне її кування може зробити коваля багатим.</desc>
         </AxeUncoCraftT4>
         <AxeRareFugitive07>
             <name>Joras</name>
             <desc>Judging by the name carved on this axe's handle, &lt;i&gt;Joras&lt;/i&gt; was probably the weapon's owner before it came into Bartes' possession.</desc>
         </AxeRareFugitive07>
         <AxeRareFugitive18>
-            <name>Traitor's Axe</name>
-            <desc>Using the Krowns stolen from the Ludern Guard, Maudeg has improved this axe whilst on the run.</desc>
+            <name>Сокира Зрадника</name>
+            <desc>Використовуючи крони, вкрадені у лудернської гвардії, Маудег покращив цю сокиру, перебуваючи в бігах.</desc>
         </AxeRareFugitive18>
         <AxeRareCompanion>
-            <name>Peacebearer's Axe</name>
-            <desc>It is said that peacebearers were given their name because of their distinctive axes, the mere sight of which is enough to appease tensions.</desc>
+            <name>Сокира Миротворця</name>
+            <desc>Кажуть, що миротворці отримали свою назву завдяки своїм особливим сокирам, одного погляду на які достатньо, щоб зняти напругу.</desc>
         </AxeRareCompanion>
         <AxeLegendaryHarag>
-            <name>Devotion</name>
-            <desc>For nearly 20 years, Bionn has firmly gripped the handle of this axe.</desc>
+            <name>Відданість</name>
+            <desc>Протягом майже 20 років Біонн міцно тримав рукоятку цієї сокири.</desc>
         </AxeLegendaryHarag>
         <AxeLegendaryArena2G2>
-            <name>Victorious</name>
-            <desc>Trivetta Raniel has diligently marked every Arena Clash she's won using Victorious on the weapon's handle.</desc>
+            <name>Переможець</name>
+            <desc>Триветта Раніель старанно позначала кожне арена-клеш, яке вона виграла за допомогою Переможця, на рукоятці цієї зброї.</desc>
         </AxeLegendaryArena2G2>
         <AxeLegendaryRuins>
-            <name>Nepti’s Axe</name>
-            <desc>The engravings on this axe are so fine and delicate that it looks more like a ceremonial weapon than a deadly tool.</desc>
+            <name>Сокира Непті</name>
+            <desc>Гравірування на цій сокирі настільки тонке та витончене, що вона більше схожа на церемоніальну зброю, ніж на смертоносний інструмент.</desc>
         </AxeLegendaryRuins>
         <Axe2HStart>
-            <name>Old Two-handed Axe</name>
-            <desc>An old axe with a partly mouldy handle that seems to be crumbling away.</desc>
+            <name>Стара дворука сокира</name>
+            <desc>Стара сокира з частково запліснявілою рукояткою, яка, здається, розсипається.</desc>
         </Axe2HStart>
         <Axe2HCommonCompanions>
-            <name>Brotherhood Two-handed Axe</name>
-            <desc>This axe was recently adopted by the Brotherhood under the influence of Belerion.</desc>
+            <name>Дворука сокира Братства</name>
+            <desc>Ця сокира нещодавно була прийнята Братством під впливом Белеріона.</desc>
         </Axe2HCommonCompanions>
         <Axe2HCommonTrackers>
-            <name>Trackers' Great Axe</name>
-            <desc>This axe is imbued with three animal spirits: marshland tit feathers, a crocswine fang, and the fur of a Ghost Pack monster.</desc>
+            <name>Велика сокира слідопитів</name>
+            <desc>Ця сокира насичена духами трьох тварин: пір’ям болотного титана, іклом свино-крокодила та хутром монстра з привидячої зграї.</desc>
         </Axe2HCommonTrackers>
         <Axe2HUncoCraftT1>
-            <name>Iron Two-Handed Axe</name>
-            <desc>The blacksmith's signature can be seen on the haft.</desc>
+            <name>Залізна дворука сокира</name>
+            <desc>Підпис коваля можна побачити на рукоятці.</desc>
         </Axe2HUncoCraftT1>
         <Axe2HUncoCraftT2>
-            <name>Ghost Great Axe</name>
-            <desc>Thanks to its long reach, the wielder of this great axe can fight several opponents head-on.</desc>
+            <name>Велика сокира привида</name>
+            <desc>Завдяки довгій рукоятці власник цієї великої сокири може битися з кількома противниками одночасно.</desc>
         </Axe2HUncoCraftT2>
         <Axe2HUncoCraftT3>
-            <name>Rimesteel Great Axe</name>
-            <desc>Forging this axe requires strict observance of iron and rimesteel proportions.</desc>
+            <name>Велика сокира з краєсталі</name>
+            <desc>Кування цієї сокири вимагає суворого дотримання пропорцій заліза та краєсталі.</desc>
         </Axe2HUncoCraftT3>
         <Axe2HUncoCraftT4>
-            <name>Akhedian Steel Battle Axe</name>
-            <desc>According to Akhed tradition, the engravings adorning this axe's blade should be highly respected.</desc>
+            <name>Бойова сокира з ахедійської сталі</name>
+            <desc>Згідно з ахедійською традицією, гравірування, що прикрашають лезо цієї сокири, повинні бути високо шановані.</desc>
         </Axe2HUncoCraftT4>
         <Axe2HUncoOutlaws>
-            <name>Great Pig Iron</name>
-            <desc>Favourite of bandits and marauders alike, the Great Pig Iron is synonymous with prestige among outlaws.</desc>
+            <name>Велика свиняча залізна сокира</name>
+            <desc>Улюблена зброя бандитів і мародерів, Велика свиняча залізна сокира є синонімом престижу серед злочинців.</desc>
         </Axe2HUncoOutlaws>
         <Axe2HUncoInquisition>
-            <name>Two-handed Axe of the Eye</name>
-            <desc>Equally fearsome when beheading miscreants or building a pyre, this axe is very popular in the Inquisition.</desc>
+            <name>Дворучна сокира Ока</name>
+            <desc>Однаково грізна як при обезголовлюванні злочинців, так і при будівництві вогнища, ця сокира дуже популярна в Інквізиції.</desc>
         </Axe2HUncoInquisition>
         <Axe2HRareFugitive08>
-            <name>Mutiny</name>
-            <desc>Mutiny is an axe that seems much more balanced than its previous owner.</desc>
+            <name>Заколот</name>
+            <desc>Заколот — це сокира, яка здається значно більш збалансованою, ніж її попередній власник.</desc>
         </Axe2HRareFugitive08>
         <Axe2HRareFugitive11>
-            <name>Judgement</name>
-            <desc>Without a doubt, the ideal tool for rapid and effective justice.</desc>
+            <name>Правосуддя</name>
+            <desc>Без сумніву, ідеальний інструмент для швидкого та ефективного правосуддя.</desc>
         </Axe2HRareFugitive11>
         <Splitter>
-            <name>Splitter</name>
-            <desc>Alexa was deeply affected by the war. So, when she forged Splitter, she swore to only ever use it for chopping wood. A few days later, she beheaded a lord of Alazar.</desc>
+            <name>Розколювач</name>
+            <desc>Алекса була глибоко вражена війною. Тож коли вона викувала Розколювача, то поклялася використовувати його лише для рубання дров. Через кілька днів вона обезголовила лорда Алазара.</desc>
         </Splitter>
         <Axe2HLegendaryRuin8>
-            <name>Enlil's Great Axe</name>
-            <desc>The most versatile weapon a sailor could ask for. Its relentlessly sharp blade can cut through enemies, rigging, and hulls with equal ease.</desc>
+            <name>Велика сокира Енліла</name>
+            <desc>Найбільш універсальна зброя, про яку може мріяти моряк. Її безжально гостре лезо однаково легко прорізає ворогів, такелаж і корпуси кораблів.</desc>
         </Axe2HLegendaryRuin8>
         <SwordStart>
-            <name>Rusty Gladius</name>
-            <desc>An old gladius that once belonged to a soldier.</desc>
+            <name>Іржавий гладіус</name>
+            <desc>Старий гладіус, що колись належав солдату.</desc>
         </SwordStart>
         <SwordCommonAlazar>
-            <name>Alazarian Straight Sword</name>
-            <desc>This weapon is the epitome of Alazarian sobriety. </desc>
+            <name>Алазарський прямий меч</name>
+            <desc>Ця зброя є втіленням алазарської стриманості.</desc>
         </SwordCommonAlazar>
         <SwordCommonLegion>
-            <name>Legionary's Gladius</name>
-            <desc>This gladius isn't much to look at, but its owner received it as a gift from the Kingdom of Edoran.</desc>
+            <name>Гладіус легіонера</name>
+            <desc>Цей гладіус не виглядає примітно, але його власник отримав його як подарунок від королівства Едорана.</desc>
         </SwordCommonLegion>
         <SwordRarePirates>
-            <name>Privateer's Boarding Cutlass</name>
-            <desc>Pirate weaponry at its most iconic.</desc>
+            <name>Абордажний палаш капера</name>
+            <desc>Зброя піратів у своєму найвідомішому вигляді.</desc>
         </SwordRarePirates>
         <SwordCommonLuth>
-            <name>Lute</name>
-            <desc>A beautiful instrument that can also serve as a makeshift weapon in a brawl.</desc>
+            <name>Лютня</name>
+            <desc>Прекрасний інструмент, який також може служити імпровізованою зброєю в бійці.</desc>
         </SwordCommonLuth>
         <SwordUncoCompanion>
-            <name>Brotherhood Knight's Sword</name>
-            <desc>One needs just glance at the many decorations on the hilt and blade to know this sword belongs to the Brotherhood.</desc>
+            <name>Меч лицаря братства</name>
+            <desc>Достатньо лише поглянути на численні прикраси на рукоятці та лезі, щоб зрозуміти, що цей меч належить братству.</desc>
         </SwordUncoCompanion>
         <SwordUncoCraftT1>
-            <name>Iron Falchion</name>
-            <desc>This falchion is light and very sharp, but not terribly sturdy.</desc>
+            <name>Залізний фальшіон</name>
+            <desc>Цей фальшіон легкий і дуже гострий, але не надто міцний.</desc>
         </SwordUncoCraftT1>
         <SwordUncoCraftT2>
             <name>Ghost Gladius</name>
@@ -50456,239 +50456,239 @@
             <desc>Втрачає [VALUE]% своєї максимальної [Armor] наприкінці свого ходу.<br/>Накладається (наразі: [VALUE_STACK]%).</desc>
         </Corrosion>
         <Condemn>
-            <name>Condemn</name>
-            <desc>When this unit is killed, they grant &lt;apt&gt;[VALUE]&lt;/apt&gt; Valour Points.</desc>
+            <name>Засудження</name>
+            <desc>Коли цей юніт убитий, він дає &lt;apt&gt;[VALUE]&lt;/apt&gt; очок доблесті.</desc>
         </Condemn>
         <Immobile>
-            <name>Immobile</name>
-            <desc>This unit cannot move.</desc>
+            <name>Нерухомий</name>
+            <desc>Цей юніт не може рухатися.</desc>
         </Immobile>
         <Chased>
-            <name>Chased</name>
-            <desc>This unit becomes a priority target for animals, and the [DamageTakenPercent] from their attacks increases by [VALUE]%.</desc>
+            <name>Переслідуваний</name>
+            <desc>Цей юніт стає пріоритетною ціллю для тварин, і [DamageTakenPercent] від їхніх атак збільшується на [VALUE] %.</desc>
         </Chased>
         <CelestiumLightning>
-            <name>Punished</name>
+            <name>Покараний</name>
         </CelestiumLightning>
         <Frightened>
-            <name>Scared</name>
-            <desc>This unit causes an extra [VALUE]% morale loss when they die.</desc>
+            <name>Наляканий</name>
+            <desc>Цей юніт викликає додаткове зниження моралі на [VALUE]%, коли вмирає.</desc>
         </Frightened>
         <BeeArea>
-            <name>Bee Swarm</name>
-            <desc>An area filled with bees that deals damage to all units who go through it.</desc>
+            <name>Рій Бджіл</name>
+            <desc>Область, заповнена бджолами, яка завдає шкоди всім юнітам, що проходять через неї.</desc>
         </BeeArea>
         <FranticMark>
-            <name>Frantic Mark</name>
-            <desc>[DamageTakenPercent] increased by [ATTR_0]%.<br/>(Currently:. [VALUE_STACK]%).</desc>
+            <name>Несамовитий Знак</name>
+            <desc>[DamageTakenPercent] збільшений на [ATTR_0]%.<br/>(Зараз: [VALUE_STACK]%).</desc>
         </FranticMark>
         <Intimidated>
-            <name>Intimidated</name>
-            <desc>[DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Заляканий</name>
+            <desc>[DamageTakenPercent] збільшений на [ATTR_0]%.</desc>
         </Intimidated>
         <Troubled>
-            <name>Troubled</name>
-            <desc>Every time this unit attacks, they sustain [VALUE]% of the damage dealt.</desc>
+            <name>Стурбований</name>
+            <desc>Кожного разу, коли цей юніт атакує, він отримує [VALUE]% завданого ушкодження.</desc>
         </Troubled>
         <Imbalance>
-            <name>Imbalance</name>
-            <desc>All movements applied to this unit are doubled.</desc>
+            <name>Дисбаланс</name>
+            <desc>Всі рухи, застосовані до цього юніта, подвоюються.</desc>
         </Imbalance>
         <FragileRests>
-            <name>Weak Bearings</name>
-            <desc>The next time this unit is pushed back, they lose [VALUE]% of their maximum [Health].</desc>
+            <name>Слабка опора</name>
+            <desc>Наступного разу, коли цей юніт буде відкинутий назад, він втратить [VALUE]% свого максимального [Health].</desc>
         </FragileRests>
         <Irritation>
-            <name>Irritation</name>
-            <desc>Every time this unit uses a skill, they lose [VALUE]% of their maximum [Health].</desc>
+            <name>Роздратування</name>
+            <desc>Кожного разу, коли цей юніт використовує навичку, він втрачає [VALUE]% свого максимального [Health].</desc>
         </Irritation>
         <CaptainOffended>
-            <name>Frustrated</name>
-            <desc>Denied control of the ship, your captain feels insulted and loses some of their authority. [Willpower] reduced by [ATTR].</desc>
+            <name>Розчарований</name>
+            <desc>Позбавлений контролю над кораблем, ваш капітан відчуває себе зневаженим і втрачає частину своєї авторитетності. [Willpower] зменшена на [ATTR].</desc>
         </CaptainOffended>
         <BoatDamaged>
-            <desc>Damages the targeted ship. The ship is slowed down and part of its crew are injured.</desc>
+            <desc>Завдає шкоди цільовому кораблю. Швидкість корабля зменшується, і частина його екіпажу отримує поранення.</desc>
         </BoatDamaged>
         <BoatBurning>
-            <desc>Sets fire to the targeted ship. Part of its crew are caught in the flames.</desc>
+            <desc>Підпалює цільовий корабель. Частина екіпажу потрапляє в полум'я.</desc>
         </BoatBurning>
         <CaptainDuel_Upset>
-            <name>Vexed</name>
-            <desc>The unit will not announce their next action.</desc>
+            <name>Взбентежений</name>
+            <desc>Юніт не оголошуватиме свою наступну дію.</desc>
         </CaptainDuel_Upset>
         <AIBehaviourDefault>
-            <name>Behaviour: Attack</name>
-            <desc>During their turn, this unit moves and attacks nearby targets.</desc>
+            <name>Поведінка: Атака</name>
+            <desc>Під час свого ходу цей юніт рухається та атакує найближчі цілі.</desc>
         </AIBehaviourDefault>
         <AIBehaviourStop>
-            <name>Behaviour: Defend</name>
-            <desc>During their turn, this unit remains where they are and attacks nearby targets.</desc>
+            <name>Поведінка: Захист</name>
+            <desc>Під час свого ходу цей юніт залишається на місці та атакує найближчі цілі.</desc>
         </AIBehaviourStop>
         <AIBehaviourRunaway>
-            <name>Behaviour: Flee</name>
-            <desc>During their turn, this unit tries to move away from the enemies and get closer to allied units.</desc>
+            <name>Поведінка: Втеча</name>
+            <desc>Під час свого ходу цей юніт намагається відійти від ворогів та наблизитися до союзних юнітів.</desc>
         </AIBehaviourRunaway>
         <Whiplash>
-            <name>Whiplash</name>
-            <desc>If this unit is whipped again, they will die.</desc>
+            <name>Бичування</name>
+            <desc>Якщо цей юніт буде знову підданий бичуванню, він загине.</desc>
         </Whiplash>
         <LigamentRupture>
-            <name>Rupturing Ligaments</name>
-            <desc>This unit is slowed to half of their capacity.</desc>
+            <name>Розрив зв'язок</name>
+            <desc>Цей юніт уповільнений до половини своєї здатності.</desc>
         </LigamentRupture>
         <HeadTrauma>
-            <name>Head Injury</name>
-            <desc>[Willpower] reduced by half.</desc>
+            <name>Травма голови</name>
+            <desc>Сила волі знижена наполовину.</desc>
         </HeadTrauma>
         <Tear>
-            <name>Laceration</name>
-            <desc>This unit can no longer deal a critical hit.</desc>
+            <name>Різана рана</name>
+            <desc>Цей юніт більше не може завдавати критичних ударів.</desc>
         </Tear>
         <Contusion>
-            <name>Contusion</name>
-            <desc>[Constitution] reduced by half.</desc>
+            <name>Синець</name>
+            <desc>[Constitution] зменшена наполовину.</desc>
         </Contusion>
         <Fracture>
-            <name>Fracture</name>
-            <desc>[DamageBonusPercent] halved.</desc>
+            <name>Перелом</name>
+            <desc>[DamageBonusPercent] зменшено вдвічі.</desc>
         </Fracture>
         <Bruise>
-            <name>Bruise</name>
-            <desc>[DamageTakenPercent] doubled.</desc>
+            <name>Синець</name>
+            <desc>[DamageTakenPercent] подвоєні.</desc>
         </Bruise>
         <Sprain>
-            <name>Sprain</name>
-            <desc>Can no longer be chosen to complete tasks.</desc>
+            <name>Розтягнення зв’язок</name>
+            <desc>Не може бути обраний для виконання завдань.</desc>
         </Sprain>
         <Colic>
-            <name>Colic</name>
-            <desc>[Movement] reduced by [ATTR].</desc>
+            <name>Коліки</name>
+            <desc>[Movement] зменшено на [ATTR].</desc>
         </Colic>
         <Sting>
-            <name>Sting</name>
-            <desc>[Strength] and [Dexterity] reduced by [ATTR]%.</desc>
+            <name>Жало</name>
+            <desc>[Strength] та [Dexterity] зменшено на [ATTR] %.</desc>
         </Sting>
         <StruckByTheEye>
-            <name>Struck by the Eye</name>
-            <desc>This unit was stuck by the All-Seeing Eye. [MaxHealth] reduced by [ATTR]%.</desc>
+            <name>Вражений Оком</name>
+            <desc>Цей юніт був вражений Всевидячим Оком. [MaxHealth] зменшено на [ATTR] %.</desc>
         </StruckByTheEye>
         <Hypoxia>
-            <name>Hypoxia</name>
-            <desc>All of this unit's actions cost &lt;apt&gt;[VALUE]&lt;/apt&gt; extra Valour Points.</desc>
+            <name>Гіпоксія</name>
+            <desc>Всі дії цього юніта коштують на &lt;apt&gt;[VALUE]&lt;/apt&gt; більше Очок Доблесті.</desc>
         </Hypoxia>
         <Arena_Dying>
-            <name>Out of Combat</name>
-            <desc>This unit is out of combat.<br/>They can no longer fight in this battle.</desc>
+            <name>Поза боєм</name>
+            <desc>Цей юніт вийшов з бою.<br/>Він більше не може битися в цьому бою.</desc>
         </Arena_Dying>
         <Arena_Willforce>
-            <name>Tenacity</name>
-            <desc>[DamageReducePercent] reduced by [ATTR_0]%.<br/>The unit cannot be [Arena_Dying].</desc>
+            <name>Завзятість</name>
+            <desc>[DamageReducePercent] зменшено на [ATTR_0]%.<br/>Юніт не може бути [Arena_Dying].</desc>
         </Arena_Willforce>
         <Arena_DemandTarget>
-            <name>Requirement</name>
-            <desc>This unit is part of the crowd’s requirements.</desc>
+            <name>Вимога</name>
+            <desc>Цей юніт є частиною вимог натовпу.</desc>
         </Arena_DemandTarget>
         <Arena_DemandAlreadyContribute>
-            <name>Requirement</name>
-            <desc>This unit has already contributed to the crowd’s requirements.</desc>
+            <name>Вимога</name>
+            <desc>Цей юніт вже виконав вимоги натовпу.</desc>
         </Arena_DemandAlreadyContribute>
         <Pyrophobia>
-            <name>Pyrophobia</name>
-            <desc>Fire [DamageTakenPercent] increased by [ATTR_0]%.</desc>
+            <name>Пірофобія</name>
+            <desc>Вогонь [DamageTakenPercent] збільшений на [ATTR_0] %.</desc>
         </Pyrophobia>
         <PlaguedRatEnraged>
-            <name>Rage</name>
-            <desc>[DamageBonusPercent] increased by [ATTR_0]%.</desc>
+            <name>Лють</name>
+            <desc>[DamageBonusPercent] збільшено на [ATTR_0] %.</desc>
         </PlaguedRatEnraged>
         <FleeWithBackpack>
-            <name>Fugitive</name>
-            <desc>This unit is carrying items and tries to flee the battle.</desc>
+            <name>Втікач</name>
+            <desc>Цей юніт несе предмети та намагається втекти з бою.</desc>
         </FleeWithBackpack>
         <FleeWithoutBackpack>
-            <name>Fugitive</name>
-            <desc>This unit is not a fighter, but still wants to survive this battle. In this situation, running away is the best strategy.</desc>
+            <name>Втікач</name>
+            <desc>Цей юніт не є бійцем, але все ще хоче вижити в цьому бою. У такій ситуації втеча є найкращою стратегією.</desc>
         </FleeWithoutBackpack>
         <BallCarrier>
-            <name>Ball Carrier</name>
+            <name>Носій М'яча</name>
         </BallCarrier>
         <SportDown>
-            <name>Tackled</name>
+            <name>Захоплений</name>
         </SportDown>
         <SportStrengthUnit>
-            <name>Strength</name>
-            <desc>This unit favours Strength.</desc>
+            <name>Сила</name>
+            <desc>Цей юніт надає перевагу Силі.</desc>
         </SportStrengthUnit>
         <SportDexterityUnit>
-            <name>Dexterity</name>
-            <desc>This unit favours Dexterity.</desc>
+            <name>Спритність</name>
+            <desc>Цей юніт надає перевагу Спритності.</desc>
         </SportDexterityUnit>
         <SportLocalTeam>
-            <name>Play at Home</name>
-            <desc>+[VALUE]% for all Skill Rolls</desc>
+            <name>Грати вдома</name>
+            <desc>+[VALUE]% для всіх кидків навичок</desc>
         </SportLocalTeam>
         <SportGuard>
-            <name>Hold the Line</name>
-            <desc>This unit has +[VALUE]% chance to tackle or withstand a punch.</desc>
+            <name>Тримати оборону</name>
+            <desc>Цей юніт має +[VALUE]% шанс збити або витримати удар.</desc>
         </SportGuard>
         <SportRole_Captain>
-            <name>Team Captain</name>
-            <desc>The Captain starts the match.<br/>[Movement] increased by [ATTR].<br/>+[VALUE]% chance to punch successfully.</desc>
+            <name>Капітан команди</name>
+            <desc>Капітан починає матч.<br/>[Movement]  збільшено на [ATTR].<br/>+[VALUE]% шанс успішного удару.</desc>
         </SportRole_Captain>
         <SportRole_Offensive>
-            <name>Striker</name>
-            <desc>[Movement] increased by [ATTR].</desc>
+            <name>Нападник</name>
+            <desc>[Movement] збільшено на [ATTR].</desc>
         </SportRole_Offensive>
         <SportRole_Defensive>
-            <name>Defender</name>
-            <desc>+[VALUE]% chance to punch successfully.</desc>
+            <name>Захисник</name>
+            <desc>+[VALUE]% шанс успішно вдарити.</desc>
         </SportRole_Defensive>
         <Tenacity>
-            <name>Stubbornness</name>
-            <desc>This unit tries to initiate a duel. The unit cannot die from damage. [Movement] increased by [ATTR_0]%.</desc>
+            <name>Упертість</name>
+            <desc>Цей юніт намагається розпочати дуель. Юніт не може загинути від ушкоджень. [Movement] збільшено на [ATTR_0] %.</desc>
         </Tenacity>
         <CaptainDuel_Feint>
-            <desc>::name:: can use the &lt;b&gt;Feint&lt;/b&gt; action to gain the Upper Hand if the player Parries, Attacks or Taunts.</desc>
+            <desc>::name:: може використовувати дію &lt;b&gt;Обман&lt;/b&gt;, щоб отримати перевагу, якщо гравець Парирує, Атакує або Дражнить.</desc>
         </CaptainDuel_Feint>
         <CaptainDuel_HealingInsult>
-            <desc>::name:: is healed on a successful Taunt.</desc>
+            <desc>::name:: зцілюється під час успішного Дражніння.</desc>
         </CaptainDuel_HealingInsult>
         <CaptainDuel_BlockAdvantage>
-            <desc>::name:: gains the Upper Hand in case of a double Parry.</desc>
+            <desc>::name:: отримує перевагу у випадку подвійного парирування.</desc>
         </CaptainDuel_BlockAdvantage>
         <CaptainDuel_UpsetDoubleAction>
-            <desc>::name:: is Vexed in case of a double action.</desc>
+            <desc>::name:: стає роздратованим у випадку подвійної дії.</desc>
         </CaptainDuel_UpsetDoubleAction>
         <CaptainDuel_TwoDuels>
-            <desc>Both captains must be defeated in a duel during the fight.</desc>
+            <desc>Обидва капітани повинні бути переможені в дуелі під час бою.</desc>
         </CaptainDuel_TwoDuels>
         <CaptainDuel_MultipleDialogs>
-            <desc>::name:: has two phrases for each action.</desc>
+            <desc>::name:: має дві фрази для кожної дії.</desc>
         </CaptainDuel_MultipleDialogs>
         <CaptainDuel_Timed>
-            <desc>::name:: leaves very little time to react.</desc>
+            <desc>::name:: залишає дуже мало часу на реакцію.</desc>
         </CaptainDuel_Timed>
         <CaptainDuel_Faster>
-            <desc>::name:: is faster.</desc>
+            <desc>::name:: швидший.</desc>
         </CaptainDuel_Faster>
         <AttackStance>
-            <name>Attack Stance</name>
-            <desc>Unlocks the offensive effects of attacks.</desc>
+            <name>Атакуюча Стойка</name>
+            <desc>Відкриває наступальні ефекти атак.</desc>
         </AttackStance>
         <DefenseStance>
-            <name>Defence Stance</name>
-            <desc>Unlocks the defensive effects of attacks.</desc>
+            <name>Оборонна Стойка</name>
+            <desc>Відкриває захисні ефекти атак.</desc>
         </DefenseStance>
         <AttackStanceChallenge>
-            <name>Challenge: Attack Stance</name>
-            <desc>This unit's challenge is to trigger the effects of their Attack Stance during the round.</desc>
+            <name>Виклик: Атакуюча Стойка</name>
+            <desc>Виклик для цього юніта полягає в активації ефектів їхньої Атакуючої Стойки під час раунду.</desc>
         </AttackStanceChallenge>
         <DefenseStanceChallenge>
-            <name>Challenge: Defence Stance</name>
-            <desc>This unit's challenge is to trigger the effects of their Defence Stance during the round.</desc>
+            <name>Виклик: Оборонна Стойка</name>
+            <desc>Виклик для цього юніта полягає в активації ефектів їхньої Оборонної Стойки під час раунду.</desc>
         </DefenseStanceChallenge>
         <Repositioning>
-            <name>Repositioning</name>
-            <desc>This unit is repositioning. They cannot use skills or base actions until the end of their turn.</desc>
+            <name>Перепозиціонування</name>
+            <desc>Цей юніт перепозиціонується. Вони не можуть використовувати навички або основні дії до кінця свого ходу.</desc>
         </Repositioning>
     </sheet>
     <sheet name="attribute">
