@@ -1113,14 +1113,14 @@ Upgrade your carriage or unload heavy items.</t>
                 </g>
                 <t id="suicide"><bad>Prisoner <b>::name::</b> chose death over the troop's abuse.</bad></t>
             </g>
-            <t id="happiness_malus">Rest Penalty:</t>
-            <t id="happiness_malus_desc">If you rest now, your troop will be <bad>unhappy</bad>:</t>
-            <t id="happiness_starvation">Insufficient Food</t>
-            <t id="happiness_salary">Companions' Unpaid Wages</t>
-            <t id="knowledge_increase">Your Knowledge of the world has increased.</t>
-            <t id="money_laundering">A stolen item in the chest has been laundered.</t>
-            <t id="deadly_poisoned"><b>::name::</b> died after being given a <bad>fatal poison.</bad></t>
-            <t id="item_status_adj_rest">The proximity of the <b>::item::</b> has made some Companions <status>::status::</status>.</t>
+            <t id="happiness_malus">Покарання за відпочинок:</t>
+            <t id="happiness_malus_desc">Якщо ви зараз відпочинете, ваші війська будуть <bad>незадоволені</bad>:</t>
+            <t id="happiness_starvation">Недостатньо їжі</t>
+            <t id="happiness_salary">Невиплачена зарплата товаришам</t>
+            <t id="knowledge_increase">Ваші знання про світ зросли.</t>
+            <t id="money_laundering">Вкрадений предмет у скрині був відмитий.</t>
+            <t id="deadly_poisoned"><b>::name::</b> помер після того, як йому дали <bad>смертельну отруту.</bad></t>
+            <t id="item_status_adj_rest">Близькість <b>::item::</b> зробила деяких товаришів <status>::status::</status>.</t>
         </g>
         <g id="sleep_danger">
             <t id="title">Danger level:</t>
