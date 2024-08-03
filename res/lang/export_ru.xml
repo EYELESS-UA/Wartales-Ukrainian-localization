@@ -40126,644 +40126,644 @@
             <desc>Цей фальшіон легкий і дуже гострий, але не надто міцний.</desc>
         </SwordUncoCraftT1>
         <SwordUncoCraftT2>
-            <name>Ghost Gladius</name>
-            <desc>The pallidity of the spectral leather seems to have bled onto the blade.</desc>
+            <name>Примарний гладіус</name>
+            <desc>Блідість примарної шкіри, здається, перейшла на лезо.</desc>
         </SwordUncoCraftT2>
         <SwordUncoCraftT3>
-            <name>Rimesteel Straight Sword</name>
-            <desc>Rimesteel is so strong that swords like this can be passed down from generation to generation.</desc>
+            <name>Прямий меч з краєсталі</name>
+            <desc>Краєсталь настільки міцна, що такі мечі можна передавати з покоління в покоління.</desc>
         </SwordUncoCraftT3>
         <SwordUncoCraftT4>
-            <name>Akhedian Steel Katzbalger</name>
-            <desc>This weapon is so imposing and beautiful that it could belong to the General himself.</desc>
+            <name>Ахедійський стальний катцбальгер</name>
+            <desc>Ця зброя настільки вражаюча і красива, що могла б належати самому генералу.</desc>
         </SwordUncoCraftT4>
         <SwordRareInquisition>
-            <name>Gladius of the Eye</name>
-            <desc>The Eye on the pommel of this gladius induces an irresistible urge to burn heretics.</desc>
+            <name>Гладіус Ока</name>
+            <desc>Око на наверші цього гладіуса викликає непереборне бажання спалювати єретиків.</desc>
         </SwordRareInquisition>
         <SwordRareFugitive02>
-            <name>Fervour</name>
-            <desc>Sylla wielded this Ulfberht to slay innocents and heretics alike in the name of the All-seeing Eye.</desc>
+            <name>Рвіння</name>
+            <desc>Сілла володіла цим Ульфбертом, щоб убивати невинних та єретиків в ім'я Всевидячого Ока.</desc>
         </SwordRareFugitive02>
         <SwordRareFugitive19>
-            <name>Strongblade</name>
-            <desc>Passed from one owner to the next following some barbaric rule, this gladius is shrouded in mystery.</desc>
+            <name>Міцнолез</name>
+            <desc>Передавався від одного власника до іншого за якимось варварським правилом, цей гладіус оповитий таємницею.</desc>
         </SwordRareFugitive19>
         <SwordRareGuard>
-            <name>Defender's Falchion</name>
-            <desc>An easy-to-use weapon that any blacksmiths in the Five Kingdoms could forge with their eyes closed.</desc>
+            <name>Фальшіон захисника</name>
+            <desc>Проста у використанні зброя, яку будь-який коваль у П'яти Королівствах міг би викувати із заплющеними очима.</desc>
         </SwordRareGuard>
         <SwordLegendaryRuin>
-            <name>Mehyt's Kopis</name>
-            <desc>Forged from an immutable metal by the Ancients, this sword has vanquished time itself.</desc>
+            <name>Копис Мехіт</name>
+            <desc>Викутий із незмінного металу Стародавніми, цей меч переміг сам час.</desc>
         </SwordLegendaryRuin>
         <SwordLegendaryArena1G2>
-            <name>Glory</name>
-            <desc>Intended to guarantee its wielder's victory, this weapon still failed Toro, champion of Bernna's arena.</desc>
+            <name>Слава</name>
+            <desc>Призначена гарантувати перемогу її власнику, ця зброя все ж не врятувала Торо, чемпіона арени Бернни.</desc>
         </SwordLegendaryArena1G2>
         <SwordLegendaryEvoland>
-            <name>Clink's Sword</name>
-            <desc>It appears this sword was forged very far from the Five Kingdoms.</desc>
+            <name>Меч Клінка</name>
+            <desc>Схоже, що цей меч був викуваний дуже далеко від П'яти Королівств.</desc>
         </SwordLegendaryEvoland>
         <SwordLegendaryChampion11>
-            <name>Maelstrom</name>
-            <desc>This sword was forged for someone of noble lineage. If it found its way into Eokeld's hands, its original owner has likely returned to the Light.</desc>
+            <name>Вир</name>
+            <desc>Цей меч був викуваний для когось зі шляхетного роду. Якщо він потрапив до рук Еокельда, його початковий власник, ймовірно, вже повернувся до Світла.</desc>
         </SwordLegendaryChampion11>
         <SwordLegendarySealord>
-            <name>Groac'h</name>
-            <desc>According to Ganne, this boarding cutlass was crafted by Tules.</desc>
+            <name>Гроак'х</name>
+            <desc>За словами Ганне, цей абордажний палаш був виготовлений Тулесом.</desc>
         </SwordLegendarySealord>
         <Sword2HStart>
-            <name>Old Longsword</name>
-            <desc>A sword with a long but damaged blade.</desc>
+            <name>Старий довгий меч</name>
+            <desc>Меч із довгим, але пошкодженим лезом.</desc>
         </Sword2HStart>
         <Sword2HCommonCompanions>
-            <name>Brotherhood Knight's Greatsword</name>
-            <desc>The welts on the blade indicate that this weapon has seen many battles.</desc>
+            <name>Великий меч лицаря братства</name>
+            <desc>Рубці на лезі свідчать про те, що ця зброя пройшла через багато битв.</desc>
         </Sword2HCommonCompanions>
         <Sword2HCommonInquisition>
-            <name>Inquisition Spatha</name>
-            <desc>This spatha is one of the Inquisition's most iconic weapons.</desc>
+            <name>Інквізиторська спата</name>
+            <desc>Ця спата є однією з найвідоміших зброї Інквізиції.</desc>
         </Sword2HCommonInquisition>
         <Sword2HUncoBelerion>
-            <name>Ihrian Great Shamshir</name>
-            <desc>Difficult to wield because of its curved blade, the great shamshir was long reserved to Ihraa's finest swordsmen.</desc>
+            <name>Великий шамшир Іхріана</name>
+            <desc>Важко володіти через його вигнуте лезо, великий шамшир довгий час був зарезервований для найкращих фехтувальників Іхраа.</desc>
         </Sword2HUncoBelerion>
         <Sword2HArena>
-            <name>Arena Great Falchion</name>
-            <desc>Its owner was a famous gladiator who likely fell as the crowd cheered on.</desc>
+            <name>Великий фальшіон арени</name>
+            <desc>Його власник був відомим гладіатором, який, ймовірно, загинув під захоплені вигуки натовпу.</desc>
         </Sword2HArena>
         <Sword2HUncoCraftT1>
-            <name>Iron Great Falchion</name>
-            <desc>This great falchion may not be sharp enough to behead an opponent, but it will definitely break their neck.</desc>
+            <name>Залізний великий фальшіон</name>
+            <desc>Цей великий фальшіон може бути недостатньо гострим, щоб обезголовити противника, але він точно зламає йому шию.</desc>
         </Sword2HUncoCraftT1>
         <Sword2HUncoCraftT2>
-            <name>Ghost Great Gladius</name>
-            <desc>This great gladius gives off a unique and somewhat frightening aura that often makes its owner put it away before sleeping.</desc>
+            <name>Великий примарний гладіус</name>
+            <desc>Цей великий гладіус випромінює унікальну та дещо лякаючу ауру, через яку власник часто прибирає його перед сном.</desc>
         </Sword2HUncoCraftT2>
         <Sword2HUncoCraftT3>
-            <name>Rimesteel Flamberge</name>
-            <desc>With its bluish hues, this flamberge garners both admiration and jealousy.</desc>
+            <name>Фламберг із краєсталі</name>
+            <desc>Завдяки своїм блакитним відтінкам цей фламберг викликає як захоплення, так і заздрість.</desc>
         </Sword2HUncoCraftT3>
         <Sword2HUncoLegion>
-            <name>Legionary's Spatha</name>
-            <desc>The hilt of this weapon was repaired several times. Its blade, however, does not have the slightest dent.</desc>
+            <name>Спата легіонера</name>
+            <desc>Рукоятка цієї зброї ремонтувалася кілька разів. Однак на лезі немає жодної вм’ятини.</desc>
         </Sword2HUncoLegion>
         <Sword2HRareAlazar>
-            <name>Brigadier's Flamberge</name>
-            <desc>The flamberge used by the royal army owes its appearance to the great master painter Sigurd Adr Alazar.</desc>
+            <name>Фламберг бригадира</name>
+            <desc>Фламберг, що використовує королівська армія, зобов’язаний своєю зовнішністю великому майстру-художнику Сігурду Адру Алазару.</desc>
         </Sword2HRareAlazar>
         <Sword2HUncoCraftT4>
-            <name>Akhedian Steel Zweihänder</name>
-            <desc>Wielding this weapon takes as much skill as forging it.</desc>
+            <name>Ахедійський стальний цвайхендер</name>
+            <desc>Володіння цією зброєю вимагає не меншої майстерності, ніж її кування.</desc>
         </Sword2HUncoCraftT4>
         <Sword2HRareFugitive05>
-            <name>Fredegund</name>
-            <desc>No one knows how this sword got its name... Perhaps it is a tribute to someone the Old Crone deeply cherished?</desc>
+            <name>Фредегунда</name>
+            <desc>Ніхто не знає, як цей меч отримав своє ім’я... Можливо, це данина комусь, кого стара відьма дуже цінувала?</desc>
         </Sword2HRareFugitive05>
         <Sword2HRareFugitive13>
-            <name>Claret</name>
-            <desc>The weapon's handle still gives off the aroma of cheap wine.</desc>
+            <name>Кларет</name>
+            <desc>Від рукоятки цієї зброї досі виходить аромат дешевого вина.</desc>
         </Sword2HRareFugitive13>
         <Sword2HRareOutlaws>
-            <name>Criminal's Claymore</name>
-            <desc>Bandits use this sword as a mace when it gets dull.</desc>
+            <name>Клеймор злочинця</name>
+            <desc>Бандити використовують цей меч як булаву, коли він затуплюється.</desc>
         </Sword2HRareOutlaws>
         <Sword2HLegendaryArena1G2>
-            <name>Prosperity</name>
-            <desc>Though his favourite weapon never produced what its name implied, Kogo refused to part with it.</desc>
+            <name>Процвітання</name>
+            <desc>Хоча його улюблена зброя ніколи не виправдовувала своєї назви, Кого відмовився з нею розлучатися.</desc>
         </Sword2HLegendaryArena1G2>
         <Sword2HLegendaryArenaIR1>
-            <name>Fighter's Greatsword</name>
-            <desc>Duller than other blades the Brotherhood wields, Lieutenant Loderans' weapon is no less deadly.</desc>
+            <name>Великий меч воїна</name>
+            <desc>Тупіший за інші леза, які використовує братство, зброя лейтенанта Лодерана не менш смертоносна.</desc>
         </Sword2HLegendaryArenaIR1>
         <PolearmStart>
-            <name>Farmer's Pitchfork</name>
-            <desc>A pitchfork used to turn soil and stir up rebellion.</desc>
+            <name>Вила фермера</name>
+            <desc>Вила, які використовували для обробки ґрунту та підняття повстання.</desc>
         </PolearmStart>
         <PolearmCommonCivilian>
-            <name>Rancher's Pitchfork</name>
-            <desc>A pitchfork that seems to have been used to chase away a few yokels.</desc>
+            <name>Вила фермера</name>
+            <desc>Вила, які, здається, використовували для прогнання декількох селян.</desc>
         </PolearmCommonCivilian>
         <PolearmCommonGuard>
-            <name>Watcher's Spear</name>
-            <desc>An unremarkable spear that was improved using whatever its owner had at hand.</desc>
+            <name>Спис вартового</name>
+            <desc>Непримітний спис, який покращили за допомогою того, що було під рукою у власника.</desc>
         </PolearmCommonGuard>
         <PolearmCommonBelerion>
-            <name>Ihrian Spear</name>
-            <desc>The shaft of this spear features the intermingled colours of Mihr and Hessura.</desc>
+            <name>Іхріанський спис</name>
+            <desc>Древко цього списа поєднує кольори Міхра і Хесури.</desc>
         </PolearmCommonBelerion>
         <PolearmArena>
-            <name>Arena Spear</name>
-            <desc>The wood has absorbed too much sweat and blood to retain its original colour.</desc>
+            <name>Спис арени</name>
+            <desc>Дерево ввібрало занадто багато поту і крові, щоб зберегти свій оригінальний колір.</desc>
         </PolearmArena>
         <PolearmUncoAlazar>
-            <name>Alazarian Halberd</name>
-            <desc>A scholar and a blacksmith worked closely together to create this weapon.</desc>
+            <name>Алазарська алебарда</name>
+            <desc>Вчений і коваль тісно співпрацювали, щоб створити цю зброю.</desc>
         </PolearmUncoAlazar>
         <PolearmUncoCraftT1>
-            <name>Iron Spear</name>
-            <desc>The blacksmith who created such a weapon must have been very cross with someone.</desc>
+            <name>Залізний спис</name>
+            <desc>Коваль, який створив таку зброю, мабуть, був дуже злий на когось.</desc>
         </PolearmUncoCraftT1>
         <PolearmUncoCraftT2>
-            <name>Ghost Pike</name>
-            <desc>Made with spectral leather, this pike boasts both reach and sturdiness.</desc>
+            <name>Примарна піка</name>
+            <desc>Зроблена з примарної шкіри, ця піка вирізняється як дальністю, так і міцністю.</desc>
         </PolearmUncoCraftT2>
         <PolearmUncoCraftT3>
-            <name>Rimesteel Halberd</name>
-            <desc>Famous for wreaking havoc on Edoranian legionaries during the conquest of Alazar, this halberd is wielded by elite spearmen.</desc>
+            <name>Алебарда з краєсталі</name>
+            <desc>Відома тим, що завдавала великої шкоди едоранійським легіонерам під час завоювання Алазара, ця алебарда перебуває в руках елітних списоносців.</desc>
         </PolearmUncoCraftT3>
         <PolearmUncoCraftT4>
-            <name>Akhedian Steel Corseque</name>
-            <desc>The appearance of this corseque hasn't changed much since it was brought to the Five Kingdoms from Akhed.</desc>
+            <name>Ахедійська сталева корсека</name>
+            <desc>Зовнішній вигляд цієї корсеки мало змінився з того часу, як її привезли до П’яти Королівств з Ахеду.</desc>
         </PolearmUncoCraftT4>
         <PolearmUncoDeserters>
-            <name>Deserters' Lance</name>
-            <desc>This lance was once part of a foot soldier's kit, but years of outdoor use have greatly changed it.</desc>
+            <name>Спис дезертира</name>
+            <desc>Цей спис колись був частиною спорядження піхотинця, але роки використання на відкритому повітрі значно змінили його.</desc>
         </PolearmUncoDeserters>
         <PolearmUncoLegion>
-            <name>Legion Pilum</name>
-            <desc>Simply touching this pilum's shaft makes you want to invade Harag.</desc>
+            <name>Пілум легіону</name>
+            <desc>Просто торкнувшись древка цього пілума, у вас виникає бажання вторгнутися в Хараг.</desc>
         </PolearmUncoLegion>
         <PolearmUncoInquisition>
-            <name>Inquisition Pilum</name>
-            <desc>The pilum had its glory days under the Empire of Jeru, but was later replaced with other weapons considered to be more modern.</desc>
+            <name>Пілум Інквізиції</name>
+            <desc>Пілум мав свої славні дні під час Імперії Джеру, але згодом був замінений іншою зброєю, яку вважали більш сучасною.</desc>
         </PolearmUncoInquisition>
         <PolearmRareLegion>
-            <name>Officer's Pilum</name>
-            <desc>Legion officers' pilums can be recognised by their sturdiness and intricate details, but also because their owner's name is engraved on the shaft.</desc>
+            <name>Пілум офіцера</name>
+            <desc>Пілуми легіонерських офіцерів можна впізнати за їхньою міцністю та витонченими деталями, а також за іменем власника, вирізаним на древку.</desc>
         </PolearmRareLegion>
         <PolearmRareFugitive04>
-            <name>Corseque of Remembrance</name>
-            <desc>Obsessed with Edoran's glorious past, Captain Gacius had a corseque forged from an ancient model.</desc>
+            <name>Корсека пам'яті</name>
+            <desc>Одержимий славним минулим Едорана, капітан Гацій замовив виготовлення корсеки за старовинною моделлю.</desc>
         </PolearmRareFugitive04>
         <PolearmRareFugitive14>
-            <name>Crocsting</name>
-            <desc>Engraved on the tip of this halberd, the silhouette of a massive crocswine is revealed in all its fearsome beauty when dipped in blood.</desc>
+            <name>Крокожало</name>
+            <desc>На кінці цієї алебарди вирізьблено силует величезного свино-крокодила, який розкривається у всій своїй грізній красі, коли занурений у кров.</desc>
         </PolearmRareFugitive14>
         <PolearmRareTrackers>
-            <name>Pursuer's Pike</name>
-            <desc>Light armour doesn't stand a chance against this pike, that was made to pierce Ghost Pack hides.</desc>
+            <name>Піка переслідувача</name>
+            <desc>Легка броня не має жодного шансу проти цієї піки, створеної для пробивання шкур Примарної Зграї.</desc>
         </PolearmRareTrackers>
         <PolearmLegendaryRuinH1>
-            <name>Horoun's Partisan</name>
-            <desc>It is impossible to identify what this partisan is made of. After a few battles, you realise it is indestructible.</desc>
+            <name>Партизан Хороуна</name>
+            <desc>Неможливо визначити, з чого зроблений цей партизан. Після кількох битв ви розумієте, що він є незнищенним.</desc>
         </PolearmLegendaryRuinH1>
         <PolearmLegendaryGrinmeer>
-            <name>Liberator</name>
-            <desc>This halberd was meant for a Grinmeer Guard, but for some reason, Fenris has removed all the leather from it.</desc>
+            <name>Визволитель</name>
+            <desc>Ця алебарда була призначена для охоронця Грінміра, але з якоїсь причини Фенріс зняв з неї всю шкіру.</desc>
         </PolearmLegendaryGrinmeer>
         <PolearmLegendaryPathKnowledge>
-            <name>Jeru's Spear</name>
-            <desc>Saint Jeru himself wielded this spear in the early days of the Five Kingdoms' history. </desc>
+            <name>Спис Джеру</name>
+            <desc>Святий Джеру сам володів цим списом на початку історії П’яти Королівств.</desc>
         </PolearmLegendaryPathKnowledge>
         <PolearmLegendaryBelerion>
-            <name>Belerion's Spear</name>
-            <desc>Rumour has it this spear belonged to Belerion Halios, but it looks to be much older than the legend.</desc>
+            <name>Спис Белеріона</name>
+            <desc>Ходять чутки, що цей спис належав Белеріону Галіосу, але він виглядає набагато старішим за легенду.</desc>
         </PolearmLegendaryBelerion>
         <BowStart>
-            <name>Improvised Bow</name>
-            <desc>The strange curvature of this bow betrays the fact that it was not designed by a master fletcher.</desc>
+            <name>Імпровізований лук</name>
+            <desc>Дивна кривизна цього лука свідчить про те, що його не створював майстерний лучник.</desc>
         </BowStart>
         <BowCommonAlazar>
-            <name>Alazarian Bow</name>
-            <desc>The wood is barely visible under the rimesteel reinforcements.</desc>
+            <name>Алазарський лук</name>
+            <desc>Деревину ледь видно під укріпленнями з краєсталі.</desc>
         </BowCommonAlazar>
         <BowCommonOutlaws>
-            <name>Raider's Bow</name>
-            <desc>This bow is small enough for its wielder to run away unencumbered.</desc>
+            <name>Лук рейдера</name>
+            <desc>Цей лук достатньо малий, щоб його власник міг втекти, не будучи обтяженим.</desc>
         </BowCommonOutlaws>
         <BowCommonLegion>
-            <name>Legion Bow</name>
-            <desc>Easy to make and repair, this short bow is ideal for equipping the Legion's many archers.</desc>
+            <name>Легійний лук</name>
+            <desc>Простий у виготовленні та ремонті, цей короткий лук ідеально підходить для оснащення численних лучників легіону.</desc>
         </BowCommonLegion>
         <BowRarePirates>
-            <name>Pirate's Bow</name>
-            <desc>This short bow has limited range, but it is more than sufficient when boarding an enemy ship.</desc>
+            <name>Лук пірата</name>
+            <desc>Цей короткий лук має обмежену дальність, але його більш ніж достатньо під час абордажу ворожого корабля.</desc>
         </BowRarePirates>
         <BowRareBelerion>
-            <name>Ihrian Bow</name>
-            <desc>Using a bow at sea is far from easy, but the Ihrians haven't given up on this weapon.</desc>
+            <name>Іхріанський лук</name>
+            <desc>Використовувати лук у морі непросто, але іхріанці не відмовилися від цієї зброї.</desc>
         </BowRareBelerion>
         <BowArena>
-            <name>Arena Bow</name>
-            <desc>This bow lacks range, as if it were made to be used indoors.</desc>
+            <name>Лук арени</name>
+            <desc>Цей лук має невелику дальність, ніби його зробили для використання в приміщенні.</desc>
         </BowArena>
         <BowUncoDeserters>
-            <name>Fugitive's Bow</name>
-            <desc>Made to bring honour to a lord and glory to a soldier, this bow ended up in very unworthy hands.</desc>
+            <name>Лук втікача</name>
+            <desc>Створений, щоб приносити честь лорду та славу солдату, цей лук опинився в дуже негідних руках.</desc>
         </BowUncoDeserters>
         <BowUncoCompanions>
-            <name>Brotherhood Bow</name>
-            <desc>Each Brotherhood bow is different: the owner of this one carved their children's first names on it.</desc>
+            <name>Лук братства</name>
+            <desc>Кожен лук братства унікальний: власник цього вирізав на ньому імена своїх дітей.</desc>
         </BowUncoCompanions>
         <BowUncoCraftT1>
-            <name>Longbow</name>
-            <desc>Made from yew, this devastatingly powerful bow must be wielded with care.</desc>
+            <name>Довгий лук</name>
+            <desc>Зроблений з тиса, цей надзвичайно потужний лук потрібно використовувати обережно.</desc>
         </BowUncoCraftT1>
         <BowUncoCraftT2>
-            <name>Ghostly Bow</name>
-            <desc>Something in the monster's hide makes this bow easier to handle.</desc>
+            <name>Примарний лук</name>
+            <desc>Щось у шкурі цього монстра робить цей лук легшим у використанні.</desc>
         </BowUncoCraftT2>
         <BowUncoCraftT3>
-            <name>Rimesteel Bow</name>
-            <desc>The curvature of this bow was precisely calculated so that it wouldn't break in half when drawn.</desc>
+            <name>Лук з краєсталі</name>
+            <desc>Кривизна цього лука була точно розрахована, щоб він не зламався навпіл при натягуванні.</desc>
         </BowUncoCraftT3>
         <BowUncoCraftT4>
-            <name>Akhedian Steel Bow</name>
-            <desc>Who could have guessed that reinforcing a bow in this particular spot could make it so powerful?</desc>
+            <name>Ахедійський сталевий лук</name>
+            <desc>Хто б міг подумати, що укріплення лука в цьому місці може зробити його таким потужним?</desc>
         </BowUncoCraftT4>
         <BowRareGuard>
-            <name>War Bow</name>
-            <desc>By no means rare, this war bow is light and precise.</desc>
+            <name>Військовий лук</name>
+            <desc>Цей військовий лук зовсім не рідкісний, він легкий і точний.</desc>
         </BowRareGuard>
         <BowRareTrackers>
-            <name>Hunter's Bow</name>
-            <desc>The Trackers are hunters above all else: this bow is their favourite weapon.</desc>
+            <name>Мисливський лук</name>
+            <desc>Слідопити перш за все мисливці: цей лук — їхня улюблена зброя.</desc>
         </BowRareTrackers>
         <BowRareFugitive06>
-            <name>Liberator</name>
-            <desc>Unlike traditional Harag bows, no animal parts were used to craft the liberator.</desc>
+            <name>Визволитель</name>
+            <desc>На відміну від традиційних харагських луків, для виготовлення Визволителя не використовувалися частини тварин.</desc>
         </BowRareFugitive06>
         <BowRareFugitive12>
-            <name>Avenger</name>
-            <desc>Seething with hatred, Captain Eleora engraved the name of her enemy on her weapon.</desc>
+            <name>Месник</name>
+            <desc>Капітан Елеора, киплячи від ненависті, вирізьбила ім'я свого ворога на своїй зброї.</desc>
         </BowRareFugitive12>
         <BowRareInquisition>
             <name>Herald of the Eye</name>
             <desc>Wielded by Inquisition messengers, these bows are laid out in bright sunlight for several days to receive the Eye's blessing.</desc>
         </BowRareInquisition>
         <BowLegendaryEliteWorld>
-            <name>The Indomitable One</name>
-            <desc>Kaghal engraved detailed figures into the wood of this bow. They recount the warrior's youth.</desc>
+            <name>Непереможний</name>
+            <desc>Кагал вирізьбив детальні фігури на дереві цього лука. Вони розповідають про молодість воїна.</desc>
         </BowLegendaryEliteWorld>
         <BowLegendaryRuinH1>
-            <name>Narses' Bow</name>
-            <desc>It takes a lot of effort to draw this bow, but its stopping power is second to none. This is probably due to its string, carefully woven from fibres strangely reminiscent of the Beast's fur.</desc>
+            <name>Лук Нарсеса</name>
+            <desc>Натягнути цей лук дуже складно, але його зупиняюча сила не має собі рівних. Ймовірно, це завдяки тятиві, ретельно сплетеній з волокон, які дивним чином нагадують хутро Звіра.</desc>
         </BowLegendaryRuinH1>
         <BowLegendaryArenaH1>
-            <name>Sleuth</name>
-            <desc>Under its ornaments and brass reinforcements, Sleuth used to be an authentic Tracker bow.</desc>
+            <name>Сищик</name>
+            <desc>Під своїми прикрасами та латунними підсиленнями Сищик колись був справжнім луком слідопита.</desc>
         </BowLegendaryArenaH1>
         <BowLegendaryArenaIR1>
-            <name>Fighter's Bow</name>
-            <desc>Lieutenant Merin is a fearsome archer who made her arena weapon herself.</desc>
+            <name>Лук воїна</name>
+            <desc>Лейтенант Мерін — грізна лучниця, яка сама виготовила свою зброю для арени.</desc>
         </BowLegendaryArenaIR1>
         <FistStart>
-            <name>Thug's Katar</name>
-            <desc>This katar was made from a belt and the tip of a sword.</desc>
+            <name>Катар бандита</name>
+            <desc>Цей катар був зроблений з ременя і наконечника меча.</desc>
         </FistStart>
         <FistUncoCraftT1>
-            <name>Iron Katar</name>
-            <desc>Broken fingers are a common occurrence for those first learning to handle a katar.</desc>
+            <name>Залізний катар</name>
+            <desc>Зламані пальці — звичайна справа для тих, хто тільки вчиться користуватися катаром.</desc>
         </FistUncoCraftT1>
         <FistUncoCraftT2>
-            <name>Ghost Claw</name>
-            <desc>Fighters wielding this claw always look fearsome.</desc>
+            <name>Примарний кіготь</name>
+            <desc>Бійці, що володіють цим кігтем, завжди виглядають грізно.</desc>
         </FistUncoCraftT2>
         <FistUncoCraftT3>
-            <name>Rimesteel Cestus</name>
-            <desc>The rimesteel's strength allows this cestus to punch through all sorts of materials.</desc>
+            <name>Кестус з краєсталі</name>
+            <desc>Міцність краєсталі дозволяє цьому кестусу пробивати всілякі матеріали.</desc>
         </FistUncoCraftT3>
         <FistUncoCraftT4>
-            <name>Akhedian Steel Katar</name>
-            <desc>Every fighter dreams of owning a weapon like this.</desc>
+            <name>Ахедійський стальний катар</name>
+            <desc>Кожен боєць мріє володіти такою зброєю.</desc>
         </FistUncoCraftT4>
         <FistArena>
-            <name>Arena Katar</name>
-            <desc>These weapons are very popular in Belerion, and fans are willing to pay high prices to see them in action.</desc>
+            <name>Арена катар</name>
+            <desc>Ця зброя дуже популярна в Белеріоні, і шанувальники готові платити високу ціну, щоб побачити її в дії.</desc>
         </FistArena>
         <FistCommonPirates>
-            <name>Pirate's Cestus</name>
-            <desc>The guard on this cestus is badly damaged. Its owner must have used it to fend off his opponents' blows.</desc>
+            <name>Кестус пірата</name>
+            <desc>Захист цього кестуса сильно пошкоджений. Його власник, мабуть, використовував його для відбиття ударів супротивників.</desc>
         </FistCommonPirates>
         <FistUncoBelerion>
-            <name>Ihrian Katar</name>
-            <desc>The blade of this katar was designed to rip through the enemy's guts.</desc>
+            <name>Іхріанський катар</name>
+            <desc>Лезо цього катара було спроєктоване для розривання нутрощів ворога.</desc>
         </FistUncoBelerion>
         <FistUncoTrackers>
-            <name>Tracker's Claw</name>
-            <desc>The Trackers use this claw to cover their tracks and shift the blame for their actions to poor, innocent bears.</desc>
+            <name>Кіготь слідопита</name>
+            <desc>Слідопити використовують цей кіготь, щоб приховувати свої сліди та перекладати вину за свої дії на бідних, невинних ведмедів.</desc>
         </FistUncoTrackers>
         <FistUncoDeserters>
-            <name>Deserter's Katar</name>
-            <desc>It's no great surprise to find such a disreputable weapon in the hands of a deserter.</desc>
+            <name>Катар дезертира</name>
+            <desc>Не дивно знайти таку сумнівну зброю в руках дезертира.</desc>
         </FistUncoDeserters>
         <FistUncoOutlaws>
-            <name>Bandit's Katar</name>
-            <desc>This weapon is part of what makes dark alleyways such a nightmare for villagers.</desc>
+            <name>Катар бандита</name>
+            <desc>Ця зброя є частиною того, що робить темні провулки справжнім кошмаром для селян.</desc>
         </FistUncoOutlaws>
         <FistUncoCompanions>
-            <name>Brotherhood Cestus</name>
-            <desc>The Brotherhood restricts use of the cestus to Mercenaries entrusted with discreet missions.</desc>
+            <name>Кестус братства</name>
+            <desc>Братство обмежує використання кестуса найманцями, яким доручені таємні місії.</desc>
         </FistUncoCompanions>
         <FistLegendaryArenaB1>
-            <name>Ripper </name>
-            <desc>Crafted from Akhedian steel, this weapon was made for arena fights but is perfectly suitable for the battlefield as well.</desc>
+            <name>Різак</name>
+            <desc>Виготовлена з ахедійської сталі, ця зброя була створена для боїв на арені, але також чудово підходить для поля бою.</desc>
         </FistLegendaryArenaB1>
         <FistLegendaryRuinB1>
-            <name>Sippur Katar</name>
-            <desc>This katar is different to other ancient weapons. It seems simpler and less ornate.</desc>
+            <name>Катар Сіппура</name>
+            <desc>Цей катар відрізняється від інших стародавніх видів зброї. Він здається простішим і менш прикрашеним.</desc>
         </FistLegendaryRuinB1>
         <ShieldStart>
-            <name>Barrel Lid</name>
-            <desc>A shield that gives off a faint odour of cheap wine.</desc>
+            <name>Кришка бочки</name>
+            <desc>Щит, від якого виходить слабкий запах дешевого вина.</desc>
         </ShieldStart>
         <ShieldCommonGeneric>
-            <name>Training Buckler</name>
-            <desc>This cute little shield reminds you of your childhood.</desc>
+            <name>Тренувальний баклер</name>
+            <desc>Цей милий маленький щит нагадує вам дитинство.</desc>
         </ShieldCommonGeneric>
         <ShieldCommonGuard>
-            <name>Buckler of the Guard</name>
-            <desc>A buckler that all bandits know very well.</desc>
+            <name>Баклер вартового</name>
+            <desc>Баклер, який дуже добре знають усі бандити.</desc>
         </ShieldCommonGuard>
         <ShieldCommonLegionary>
-            <name>Legion Buckler</name>
-            <desc>Many legionaries sleep with their buckler strapped to their back to ward off backstabbers.</desc>
+            <name>Легіонерський баклер</name>
+            <desc>Багато легіонерів сплять зі своїм баклером, прив'язаним до спини, щоб захиститися від ударів у спину.</desc>
         </ShieldCommonLegionary>
         <ShieldCommonAlazar>
-            <name>Alazarian Buckler</name>
-            <desc>It is said that during the Edoranian War, Alazar cut down an entire forest to equip its army with bucklers like this one.</desc>
+            <name>Алазарський баклер</name>
+            <desc>Кажуть, що під час Едоранійської війни Алазар вирубав цілий ліс, щоб озброїти свою армію такими баклерами.</desc>
         </ShieldCommonAlazar>
         <ShieldCommonCraftT1>
-            <name>Targe</name>
-            <desc>A small wooden shield, sturdy and practical.</desc>
+            <name>Тардж</name>
+            <desc>Маленький дерев'яний щит, міцний і практичний.</desc>
         </ShieldCommonCraftT1>
         <ShieldUncoAlazar>
-            <name>Alazarian Heater Shield</name>
-            <desc>Stamped with Alazar's emblem and bearing the king's colours, this shield is recognisable in all of the Five Kingdoms.</desc>
+            <name>Алазарський нагрудний щит</name>
+            <desc>З тавром герба Алазара і в кольорах короля, цей щит впізнаваний у всіх П’яти Королівствах.</desc>
         </ShieldUncoAlazar>
         <ShieldArena>
-            <name>Arena Heater Shield</name>
-            <desc>With iron reinforcements, this wooden shield is sturdier and can deflect powerful blows.</desc>
+            <name>Нагрудний щит арени</name>
+            <desc>Залізні укріплення роблять цей дерев'яний щит міцнішим, і він може відбивати потужні удари.</desc>
         </ShieldArena>
         <ShieldUncoGeneric>
-            <name>Reinforced Training Buckler</name>
-            <desc>It seems the owner, unable to afford a real shield, simply reinforced their training buckler.</desc>
+            <name>Посилений тренувальний баклер</name>
+            <desc>Здається, власник, не маючи можливості придбати справжній щит, просто посилив свій тренувальний баклер.</desc>
         </ShieldUncoGeneric>
         <ShieldUncoSmugglers>
-            <name>Smuggler's Buckler</name>
-            <desc>This shield was clearly repainted: its previous owner's colours are still visible under the new coat of paint.</desc>
+            <name>Баклер контрабандиста</name>
+            <desc>Цей щит явно був перефарбований: кольори його попереднього власника все ще видно під новим шаром фарби.</desc>
         </ShieldUncoSmugglers>
         <ShieldUncoCompanions>
-            <name>Brotherhood Buckler</name>
-            <desc>This buckler is standard issue in the Brotherhood, so much so that they made it their emblem.</desc>
+            <name>Баклер братства</name>
+            <desc>Цей баклер є стандартним спорядженням у Братстві, настільки, що вони зробили його своїм символом.</desc>
         </ShieldUncoCompanions>
         <ShieldUncoCraftT1>
-            <name>Reinforced Buckler</name>
-            <desc>A reinforced buckler is a timeless classic among mercenaries.</desc>
+            <name>Посилений баклер</name>
+            <desc>Посилений баклер є вічною класикою серед найманців.</desc>
         </ShieldUncoCraftT1>
         <ShieldUncoCraftT2>
-            <name>Ghost Buckler</name>
-            <desc>Anyone would look intimidating with such a shield.</desc>
+            <name>Примарний баклер</name>
+            <desc>З таким щитом будь-хто виглядатиме лякаюче.</desc>
         </ShieldUncoCraftT2>
         <ShieldUncoCraftT3>
-            <name>Rimesteel Heater Shield</name>
-            <desc>People usually paint this shield with their own colours.</desc>
+            <name>Нагрудний щит з краєсталі</name>
+            <desc>Зазвичай цей щит розмальовують у власні кольори.</desc>
         </ShieldUncoCraftT3>
         <ShieldUncoCraftT4>
-            <name>Akhedian Steel Heavy Heater Shield</name>
-            <desc>The character painted on this shield looks like Saint Eleor, but some in the Legion claim that it actually represents General Edor.</desc>
+            <name>Тяжкий нагрудний щит з ахедійської сталі</name>
+            <desc>Персонаж, намальований на цьому щиті, схожий на Святого Елеора, але деякі у Легіоні стверджують, що він насправді зображає генерала Едора.</desc>
         </ShieldUncoCraftT4>
         <ShieldBanner>
-            <name>Emblazoned Buckler</name>
-            <desc>A buckler on your troop's symbol can be painted and which you can show off all over the world.</desc>
+            <name>Прикрашений баклер</name>
+            <desc>Баклер із символом вашого війська можна розфарбувати і демонструвати по всьому світу.</desc>
         </ShieldBanner>
         <ShieldUncoBandits>
-            <name>Bandit Heater Shield</name>
-            <desc>This shield has been amply used as a blunt weapon.</desc>
+            <name>Нагрудний щит бандита</name>
+            <desc>Цей щит часто використовували як тупу зброю.</desc>
         </ShieldUncoBandits>
         <ShieldUncoTrackers>
-            <name>Trackers' Buckler</name>
-            <desc>This buckler is designed to withstand the claws of the Ghost Pack monsters. You would be hard pushed to find a sturdier one.</desc>
+            <name>Баклер слідопитів</name>
+            <desc>Цей баклер призначений для протистояння кігтям монстрів Примарної Зграї. Ви навряд чи знайдете міцніший щит.</desc>
         </ShieldUncoTrackers>
         <ShieldRareGeneric>
-            <name>Veteran Roundel</name>
-            <desc>This roundel was made to age with its owner.</desc>
+            <name>Рондел ветерана</name>
+            <desc>Цей рондел був створений, щоб старіти разом зі своїм власником.</desc>
         </ShieldRareGeneric>
         <ShieldRareDeserter>
-            <name>Corporal's Roundel</name>
-            <desc>Instead of doing his army proud, the corporal this roundel belonged to deserted and took the shield with him.</desc>
+            <name>Рондел капрала</name>
+            <desc>Замість того щоб принести славу своїй армії, капрал, якому належав цей рондел, дезертирував і забрав щит із собою.</desc>
         </ShieldRareDeserter>
         <ShieldRareInquisition>
-            <name>Paladin’s Scutum</name>
-            <desc>A staple of any self-respecting paladin's equipment, this scutum was blessed in the cathedral of Edoran.</desc>
+            <name>Скутум паладіна</name>
+            <desc>Невід'ємна частина спорядження будь-якого самоповажаючого паладіна, цей скутум був освячений у соборі Едорана.</desc>
         </ShieldRareInquisition>
         <ShieldRareLegion>
-            <name>Hothead's Scutum</name>
-            <desc>This distinctive shield played a crucial part in Edor's war.</desc>
+            <name>Скутум гарячої голови</name>
+            <desc>Цей виразний щит зіграв важливу роль у війні Едора.</desc>
         </ShieldRareLegion>
         <ShieldRareGuard>
-            <name>Defender's Roundel</name>
-            <desc>Nothing gets through defenders of the Guard equipped with heavy armour and this roundel.</desc>
+            <name>Рондел захисника</name>
+            <desc>Ніщо не проб'ється крізь захисників гвардії, оснащених важкою бронею і цим ронделом.</desc>
         </ShieldRareGuard>
         <ShieldRarePirates>
-            <name>Privateer's Roundel</name>
-            <desc>The patterns on this roundel are not engraved, but inlaid in the Ihrian style.</desc>
+            <name>Рондел капера</name>
+            <desc>Візерунки на цьому ронделі не вигравірувані, а інкрустовані в іхріанському стилі.</desc>
         </ShieldRarePirates>
         <ShieldRareBelerion>
-            <name>Solar Aspis</name>
-            <desc>Shields were never especially popular in Ihraa. Even so, this one was forged with a great deal of care.</desc>
+            <name>Сонячний аспіс</name>
+            <desc>Щити ніколи не користувалися особливою популярністю в Іхраа. І все ж цей був викуваний з великою ретельністю.</desc>
         </ShieldRareBelerion>
         <ShieldRareCompanion>
-            <name>Peacebearer's Roundel</name>
-            <desc>Rumour has it that Brothers were seen breaking down doors using only their shield as a ram.</desc>
+            <name>Рондел миротворця</name>
+            <desc>Чутки стверджують, що браття були помічені, коли ламали двері, використовуючи тільки свої щити як таран.</desc>
         </ShieldRareCompanion>
         <ShieldThorn>
-            <name>Bloodthirsty Heater Shield</name>
-            <desc>This shield becomes even more terrifying when parts of the wielder's opponents get stuck to it.</desc>
+            <name>Кривавий нагрудний щит</name>
+            <desc>Цей щит стає ще більш страшним, коли до нього прилипають частини супротивників його власника.</desc>
         </ShieldThorn>
         <ShieldGuardian>
-            <name>Guardian's Heater Shield</name>
-            <desc>This shield was a symbol of the Laheart family for centuries. Nowadays, no lord uses it in combat for fear of damaging it.</desc>
+            <name>Нагрудний щит захисника</name>
+            <desc>Цей щит був символом родини Лахарт протягом століть. У наші дні жоден лорд не використовує його в бою через страх пошкодити його.</desc>
         </ShieldGuardian>
         <ShieldLegendaryArenaE1>
-            <name>Rampart</name>
-            <desc>It is said that nothing can break through this shield, and if it wasn't enough, its edge was maliciously sharpened to cleave skulls.</desc>
+            <name>Бастіон</name>
+            <desc>Кажуть, що ніщо не може пробити цей щит, а якщо цього недостатньо, то його край зловмисно заточили, щоб розколювати черепи.</desc>
         </ShieldLegendaryArenaE1>
         <ShieldLegendaryArenaIR1>
-            <name>Saga</name>
-            <desc>This shield belonged to a knight clad in gold from head to toe.</desc>
+            <name>Сага</name>
+            <desc>Цей щит належав лицарю, одягненому в золото з голови до ніг.</desc>
         </ShieldLegendaryArenaIR1>
         <BlindingPowder>
-            <name>Blinding Powder</name>
-            <desc>A little pouch of fine powder.</desc>
+            <name>Сліпучий порошок</name>
+            <desc>Невеликий мішечок з дрібним порошком.</desc>
         </BlindingPowder>
         <RagePowder>
-            <name>Powdered Rage</name>
-            <desc>This controversial powder contains spices that burn the eyes and nostrils of animals to make them more aggressive.</desc>
+            <name>Порошок люті</name>
+            <desc>Цей суперечливий порошок містить спеції, які обпалюють очі та ніздрі тварин, роблячи їх більш агресивними.</desc>
         </RagePowder>
         <OdorousPowder>
-            <name>Pungent Powder</name>
-            <desc>The mix of plants and putrid flesh makes this powder very tempting to animals.</desc>
+            <name>Різкий порошок</name>
+            <desc>Суміш рослин і гнилої плоті робить цей порошок дуже привабливим для тварин.</desc>
         </OdorousPowder>
         <ConfusingPowder>
-            <name>Confusion Powder</name>
-            <desc>This powder burns and itches when it comes into contact with the skin.</desc>
+            <name>Порошок розгубленості</name>
+            <desc>Цей порошок пече та свербить при контакті зі шкірою.</desc>
         </ConfusingPowder>
         <IncendiaryFlask>
-            <name>Incendiary Flask</name>
-            <desc>An alcohol-soaked rag inserted partway into a flask.</desc>
+            <name>Запалювальна колба</name>
+            <desc>Ганчірка, змочена спиртом, вставлена частково у колбу.</desc>
         </IncendiaryFlask>
         <HandHeldFrag>
-            <name>Hand Bomblet</name>
-            <desc>A small iron capsule filled with highly explosive powder.</desc>
+            <name>Ручна бомба</name>
+            <desc>Мала залізна капсула, заповнена високоефективним вибуховим порошком.</desc>
         </HandHeldFrag>
         <HandRecoil>
-            <name>Recoil Bomblet</name>
-            <desc>This bomblet contains spices that make your eyes and nose burn.</desc>
+            <name>Ручна бомба відскоку</name>
+            <desc>Ця бомба містить спеції, які викликають печіння очей і носа.</desc>
         </HandRecoil>
         <BeeBomb>
-            <name>Bee Bomblet</name>
-            <desc>There are probably better things to do with this bee-filled box, but someone decided it would be a good idea to toss it at enemies.</desc>
+            <name>Ручна бомба з бджолами</name>
+            <desc>Ймовірно, є кращі способи використання цієї коробки з бджолами, але хтось вирішив, що буде гарною ідеєю кидати її у ворогів.</desc>
         </BeeBomb>
         <CorrosiveBomb>
-            <name>Corrosive Bomblet</name>
-            <desc>When this bomblet explodes, it projects a liquid that can eat away at enemies' armour.</desc>
+            <name>Корозійна ручна бомба</name>
+            <desc>Коли ця бомба вибухає, вона розбризкує рідину, яка може роз'їдати броню ворогів.</desc>
         </CorrosiveBomb>
         <PoisonedFlask>
-            <name>Poison Flask</name>
-            <desc>Many people poisoned themselves when trying to use this type of poison.</desc>
+            <name>Отруйна колба</name>
+            <desc>Багато людей отруїлися, намагаючись використовувати цей тип отрути.</desc>
         </PoisonedFlask>
         <Torch>
-            <name>Torch</name>
-            <desc>A torch that can illuminate the darkest places as well as set infected flesh on fire.</desc>
+            <name>Смолоскип</name>
+            <desc>Смолоскип, який може освітлювати найтемніші місця та підпалювати заражену плоть.</desc>
         </Torch>
         <TorchRuins>
-            <name>Looter's Torch</name>
-            <desc>Not only does this torch light your path, it can also be used to smash the heads of overeager creepers.</desc>
+            <name>Смолоскип мародера</name>
+            <desc>Цей смолоскип не тільки освітлює ваш шлях, але й може використовуватися для розбивання голів надто настирливих повзунів.</desc>
         </TorchRuins>
         <Grapple>
-            <name>Grappling Hook</name>
-            <desc>A large fish hook tied to the end of a rope.</desc>
+            <name>Кішка</name>
+            <desc>Великий рибальський гачок, прив'язаний до кінця мотузки.</desc>
         </Grapple>
         <GrapplePirates>
-            <name>Brutish Grapnel</name>
-            <desc>A fearsome grapnel that hooks on to pieces of armour and tears them loose.</desc>
+            <name>Груба кішка</name>
+            <desc>Грізна кішка, яка чіпляється за частини броні та зриває їх.</desc>
         </GrapplePirates>
         <GrappleBelerion>
-            <name>Boarding Grapnel</name>
-            <desc>The element of surprise can make a world of difference when boarding, and having a grapnel like this one will catch anyone off guard.</desc>
+            <name>Абордажна кішка</name>
+            <desc>Ефект несподіванки може змінити хід абордажу, і наявність такої кішки застане будь-кого зненацька.</desc>
         </GrappleBelerion>
         <SeaHorn>
-            <name>Foghorn</name>
-            <desc>It doesn't matter if a foghorn is crafted from a horn or a shell, as long as it makes plenty of noise.</desc>
+            <name>Туманний горн</name>
+            <desc>Неважливо, чи виготовлений туманний горн з рога чи мушлі, головне, щоб він видавав достатньо шуму.</desc>
         </SeaHorn>
         <ThrowingAxe>
-            <name>Throwing Hatchet</name>
-            <desc>This throwing hatchet is both light and deadly.</desc>
+            <name>Метальна сокира</name>
+            <desc>Ця метальна сокира є одночасно легкою та смертоносною.</desc>
         </ThrowingAxe>
         <ThrowingAxeT2>
-            <name>Ghost Throwing Hatchet</name>
-            <desc>It is said that this hatchet will come back on its own to a wielder it likes...</desc>
+            <name>Примарна метальна сокира</name>
+            <desc>Кажуть, що ця сокира сама повернеться до власника, якого вона вподобає...</desc>
         </ThrowingAxeT2>
         <ThrowingAxeT3>
-            <name>Rimesteel Throwing Hatchet</name>
-            <desc>This hatchet's edge will cleave any surface perfectly, be it wood, flesh, shoulder, stomach...</desc>
+            <name>Метальна сокира з краєсталі</name>
+            <desc>Лезо цієї сокири ідеально розсікає будь-яку поверхню: дерево, плоть, плече, живіт...</desc>
         </ThrowingAxeT3>
         <ThrowingAxeT4>
-            <name>Akhedian Steel Throwing Hatchet</name>
-            <desc>Seldom seen on the battlefield due to its price, this efficient dagger deserves better than to be used for show.</desc>
+            <name>Метальна сокира з ахедійської сталі</name>
+            <desc>Рідко зустрічається на полі бою через свою ціну, цей ефективний кинджал заслуговує на краще, ніж бути використаним для показу.</desc>
         </ThrowingAxeT4>
         <PowerfulThrowingAxe>
-            <name>Throwing Axe</name>
-            <desc>Heavier and bulkier than a hatchet, this throwing axe requires some training to be used properly.</desc>
+            <name>Метальна сокира</name>
+            <desc>Ця метальна сокира важча і громіздкіша за сокирку, тому для її правильного використання потрібне тренування.</desc>
         </PowerfulThrowingAxe>
         <PowerfulThrowingAxeT2>
-            <name>Ghost Throwing Axe</name>
-            <desc>This axe makes a blood-curdling noise when flying through the air.</desc>
+            <name>Примарна метальна сокира</name>
+            <desc>Ця сокира видає моторошний звук, коли летить крізь повітря.</desc>
         </PowerfulThrowingAxeT2>
         <PowerfulThrowingAxeT3>
-            <name>Rimesteel Throwing Axe</name>
-            <desc>Considered barbaric in Alazar, the use of this throwing axe has been abandoned over time.</desc>
+            <name>Метальна сокира з краєсталі</name>
+            <desc>У Алазарі вважається варварською, використання цієї метальної сокири з часом було припинено.</desc>
         </PowerfulThrowingAxeT3>
         <PowerfulThrowingAxeT4>
-            <name>Akhedian Steel Throwing Axe</name>
-            <desc>Countless Akhedian heroes wielded this type of axe.</desc>
+            <name>Метальна сокира з ахедійської сталі</name>
+            <desc>Безліч ахедійських героїв володіли такою сокирою.</desc>
         </PowerfulThrowingAxeT4>
         <PoisonedThrowingKnife>
-            <name>Poisoned Throwing Knife</name>
-            <desc>A greenish poison drips from the knife's blade.</desc>
+            <name>Отруєний метальний ніж</name>
+            <desc>З леза цього ножа капає зеленувата отрута.</desc>
         </PoisonedThrowingKnife>
         <PoisonedThrowingKnifeT2>
-            <name>Poisoned Ghost Throwing Knife</name>
-            <desc>A small and sturdy knife used to poison a target from a distance.</desc>
+            <name>Отруєний примарний метальний ніж</name>
+            <desc>Маленький і міцний ніж, який використовують для отруєння цілі на відстані.</desc>
         </PoisonedThrowingKnifeT2>
         <PoisonedThrowingKnifeT3>
-            <name>Poisoned Rimesteel Throwing Knife</name>
-            <desc>One might think that it's a waste to use rimesteel to forge a knife that is likely to get lost quickly. One would have a point.</desc>
+            <name>Отруєний метальний ніж з краєсталі</name>
+            <desc>Можна подумати, що це марнотратство — використовувати краєсталь для виготовлення ножа, який, ймовірно, швидко загубиться. Це було б слушно.</desc>
         </PoisonedThrowingKnifeT3>
         <PoisonedThrowingKnifeT4>
-            <name>Poisoned Akhedian Steel Throwing Knife</name>
-            <desc>Bandits like to carry such a knife on their belts as a sign of success.</desc>
+            <name>Отруєний метальний ніж з ахедійської сталі</name>
+            <desc>Бандити люблять носити такий ніж на поясі як знак успіху.</desc>
         </PoisonedThrowingKnifeT4>
         <ThrowingKnife>
-            <name>Throwing Knife</name>
-            <desc>This knife is both light and sharp.</desc>
+            <name>Метальний ніж</name>
+            <desc>Цей ніж легкий і гострий.</desc>
         </ThrowingKnife>
         <ThrowingKnifeT2>
-            <name>Ghost Throwing Knife</name>
-            <desc>Many careless warriors lost fingers because these weapons.</desc>
+            <name>Примарний метальний ніж</name>
+            <desc>Багато необережних воїнів втратили пальці через ці ножі.</desc>
         </ThrowingKnifeT2>
         <ThrowingKnifeT3>
             <name>Rimesteel Throwing Knife</name>
             <desc>The sound this knife makes when it flies through the air is called &lt;i&gt;requiem&lt;/i&gt;.</desc>
         </ThrowingKnifeT3>
         <ThrowingKnifeT4>
-            <name>Akhedian Steel Throwing Knife</name>
-            <desc>Some believe throwing weapons are dishonourable, but many would be tempted to make an exception for a knife like this.</desc>
+            <name>Метальний ніж з ахедійської сталі</name>
+            <desc>Дехто вважає метальну зброю безчесною, але багато хто буде спокушений зробити виняток для такого ножа.</desc>
         </ThrowingKnifeT4>
         <ThrowingSickle>
-            <name>Throwing Sickle</name>
-            <desc>With its light-weight, curved blade, this sickle can cut off hands as easily as it cuts grass.</desc>
+            <name>Метальний серп</name>
+            <desc>Завдяки своїй легкій, вигнутій формі цей серп може відрубати руки так само легко, як і зрізати траву.</desc>
         </ThrowingSickle>
         <ThrowingSickleT2>
-            <name>Ghost Throwing Sickle</name>
-            <desc>This flexible and sharp blade has already proven its worth.</desc>
+            <name>Примарний метальний серп</name>
+            <desc>Це гнучке та гостре лезо вже довело свою цінність.</desc>
         </ThrowingSickleT2>
         <ThrowingSickleT3>
-            <name>Rimesteel Throwing Sickle</name>
-            <desc>Crafted from precious metal, this sickle barely resembles its farming implement forebear.</desc>
+            <name>Метальний серп з краєсталі</name>
+            <desc>Виготовлений із дорогоцінного металу, цей серп ледве нагадує свого попередника — сільськогосподарське знаряддя.</desc>
         </ThrowingSickleT3>
         <ThrowingSickleT4>
             <name>Akhedian Steel Throwing Sickle</name>
             <desc>To a farmer, it would seem crazy to forge a simple sickle using such a precious metal. But this is &lt;i&gt;not&lt;/i&gt; a simple sickle...</desc>
         </ThrowingSickleT4>
         <ThrowingSicklePetrifying>
-            <name>Petrifying Throwing Sickle</name>
-            <desc>This sickle is coated with a poison that can petrify the soul of its target.</desc>
+            <name>Петрифікуючий метальний серп</name>
+            <desc>Цей серп покритий отрутою, яка може скам'янити душу його цілі.</desc>
         </ThrowingSicklePetrifying>
         <ThrowingSicklePetrifyingT2>
-            <name>Petrifying Ghost Throwing Sickle</name>
-            <desc>This sickle could be mistaken for a humble tool, if it wasn't dripping with poison.</desc>
+            <name>Петрифікуючий примарний метальний серп</name>
+            <desc>Цей серп можна було б прийняти за просте знаряддя, якби з нього не капала отрута.</desc>
         </ThrowingSicklePetrifyingT2>
         <ThrowingSicklePetrifyingT3>
-            <name>Petrifying Rimesteel Throwing Sickle</name>
-            <desc>Rimesteel's colour pops out when covered in poison.</desc>
+            <name>Петрифікуючий метальний серп з краєсталі</name>
+            <desc>Колір краєсталі виразно виділяється, коли вона покрита отрутою.</desc>
         </ThrowingSicklePetrifyingT3>
         <ThrowingSicklePetrifyingT4>
-            <name>Petrifying Akhedian Steel Throwing Sickle</name>
-            <desc>This amazing sickle is forged from steel of outstanding quality and coated in a most devious poison.</desc>
+            <name>Петрифікуючий метальний серп з ахедійської сталі</name>
+            <desc>Цей дивовижний серп викувано з надзвичайно якісної сталі та покрито найпідступнішою отрутою.</desc>
         </ThrowingSicklePetrifyingT4>
         <SwampFlask>
-            <name>Swamp Flask</name>
-            <desc>A flask filled with a nauseating liquid.</desc>
+            <name>Болота колба</name>
+            <desc>Колба, наповнена нудотною рідиною.</desc>
         </SwampFlask>
         <HaragConcoction>
-            <name>Harag Concoction</name>
-            <desc>A vial containing a foul smelling liquid, designed to keep Harag swamp mosquitoes away.</desc>
+            <name>Зілля Харага</name>
+            <desc>Флакон з рідиною з огидним запахом, створений для відлякування харагських болотяних комарів.</desc>
         </HaragConcoction>
         <ThrowingLegendaryArenaA1>
-            <name>Faithless</name>
-            <desc>This throwing axe was custom-made for Lisbeth. It will never fit another warrior's hand as perfectly as hers. </desc>
+            <name>Безвірна</name>
+            <desc>Ця метальна сокира була виготовлена на замовлення для Лісбет. Вона ніколи не підійде іншому воїну так ідеально, як їй.</desc>
         </ThrowingLegendaryArenaA1>
         <ThrowingAxeLegendary01>
-            <name>Solar</name>
-            <desc>This throwing axe was created after an encounter between the Trackers and the Beast. Rumour has it that the names engraved on its shaft are those of Mercenaries who came to their aid.</desc>
+            <name>Сонячна</name>
+            <desc>Ця метальна сокира була створена після зустрічі слідопитів зі Звірем. Подейкують, що імена, вирізані на її рукоятці, належать найманцям, які прийшли їм на допомогу.</desc>
         </ThrowingAxeLegendary01>
         <ThrowingAxeLegendary02>
-            <name>Progress</name>
-            <desc>Professor Winfrith and his scholars were able to create this throwing axe thanks to the artefacts found in the Ludern Tomb.</desc>
+            <name>Прогрес</name>
+            <desc>Професор Вінфріт та його вчені змогли створити цю метальну сокиру завдяки артефактам, знайденим у гробниці Лудерна.</desc>
         </ThrowingAxeLegendary02>
         <BundleOneHandedSwordAxeMaceT1>
             <name>Apprentice Blacksmith Set - Weapons I</name>
@@ -40894,8 +40894,8 @@
             <desc>Learn the following &lt;narrator&gt;Special Throwing Weapon&lt;/narrator&gt; blueprints:</desc>
         </BundleThrowingLeftHandSpecialT4>
         <HeavyArmorCommonGeneric>
-            <name>Battleplate</name>
-            <desc>This armour has few downsides apart from its weight.</desc>
+            <name>Бойові обладунки</name>
+            <desc>Ці обладунки мають мало недоліків, окрім своєї ваги.</desc>
         </HeavyArmorCommonGeneric>
         <HeavyArmorCommonLegion>
             <name>Legion Segmenta</name>
