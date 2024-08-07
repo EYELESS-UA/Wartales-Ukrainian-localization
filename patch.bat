@@ -47,7 +47,7 @@ echo Try to modify the assets.pak..
 quickbms\quickbms_4gb_files.exe -w -r "%BMS_SCRIPT_PATH%" "%WARTALE_HOME%\assets.pak" asset || goto :error
 echo(
 echo Try to modify the res.pak..
-quickbms\quickbms.exe -w -r "%BMS_SCRIPT_PATH%" "%WARTALE_HOME%\res.pak" res || goto :error
+quickbms\quickbms.exe -w -r -r "%BMS_SCRIPT_PATH%" "%WARTALE_HOME%\res.pak" res || goto :error
 
 echo(
 echo Touch the patch time tracker..
