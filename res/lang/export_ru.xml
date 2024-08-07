@@ -1422,59 +1422,59 @@
             <text>Rest</text>
         </WinHCampfire>
         <WinHDestiny>
-            <text>Choose your destiny</text>
+            <text>Обери свою долю</text>
         </WinHDestiny>
         <WinHArena>
-            <desc>Rules<br/><br/>1. A team consists of four fighters. After registering, the team cannot be modified for the rest of the competition.<br/><br/>2. Fight three battles in a row to take on the Arena Champion and try to obtain their medal.<br/><br/>3. When a fighter has no more Health, they do not die but are instantly taken out of combat.</desc>
+            <desc>Правила<br/><br/>1. Команда складається з чотирьох бійців. Після реєстрації команду не можна змінювати до кінця змагання.<br/><br/>2. Проведіть три бої підряд, щоб кинути виклик Чемпіону Арени та спробувати отримати його медаль.<br/><br/>3. Коли боєць втрачає все Здоров'я, він не вмирає, а миттєво виводиться з бою.</desc>
         </WinHArena>
         <WinHArenaHard>
-            <desc>Rules<br/><br/>1. A team consists of four fighters. After registering, the team cannot be modified for the rest of the competition.<br/><br/>2. Fight three battles in a row to take on the Arena Champion and try to obtain their medal.<br/><br/>3. When a fighter has no more Health, they do not die but are instantly taken out of combat.<br/><br/>4. Each time you fail to meet a requirement, a fighter is taken out of combat.</desc>
+            <desc>Правила<br/><br/>1. Команда складається з чотирьох бійців. Після реєстрації команду не можна змінювати до кінця змагання.<br/><br/>2. Проведіть три бої підряд, щоб кинути виклик Чемпіону Арени та спробувати отримати його медаль.<br/><br/>3. Коли боєць втрачає все Здоров'я, він не вмирає, а миттєво виводиться з бою.<br/><br/>4. Кожного разу, коли ви не виконуєте вимогу, боєць виводиться з бою.</desc>
         </WinHArenaHard>
         <WinHArenaLegend>
-            <desc>Rules<br/><br/>1. Fight three champions in a row during a long and challenging arena battle.<br/><br/>2. Upon joining the fight, each champion adds a new rule to the previous ones and a new round starts.<br/><br/>3. When a fighter has no more Health, they do not die but are instantly taken out of combat.<br/><br/>4. Every time you fulfil a requirement, your fighters recover some Health.</desc>
+            <desc>Правила<br/><br/>1. Бийтеся з трьома чемпіонами підряд у довгій і складній битві на арені.<br/><br/>2. Кожен чемпіон, приєднуючись до бою, додає нове правило до попередніх, і починається новий раунд.<br/><br/>3. Коли боєць втрачає все Здоров'я, він не вмирає, а миттєво виводиться з бою.<br/><br/>4. Кожного разу, коли ви виконуєте вимогу, ваші бійці відновлюють частину Здоров'я.</desc>
         </WinHArenaLegend>
         <WinHArenaLegendHard>
-            <desc>Rules<br/><br/>1. Fight three champions in a row during a long and challenging arena battle.<br/><br/>2. Upon joining the fight, each champion adds a new rule to the previous ones and a new round starts.<br/><br/>3. When a fighter has no more Health, they do not die but are instantly taken out of combat.<br/><br/>4. Every time you fulfil a requirement, your fighters recover some Health.<br/><br/>5. Each time you fail to meet a requirement, a fighter is taken out of combat.</desc>
+            <desc>Правила<br/><br/>1. Бийтеся з трьома чемпіонами підряд у довгій і складній битві на арені.<br/><br/>2. Кожен чемпіон, приєднуючись до бою, додає нове правило до попередніх, і починається новий раунд.<br/><br/>3. Коли боєць втрачає все Здоров'я, він не вмирає, а миттєво виводиться з бою.<br/><br/>4. Кожного разу, коли ви виконуєте вимогу, ваші бійці відновлюють частину Здоров'я.<br/><br/>5. Кожного разу, коли ви не виконуєте вимогу, боєць виводиться з бою.</desc>
         </WinHArenaLegendHard>
         <WinHArenaVoxPopuli>
-            <text>Gift from the crowd</text>
+            <text>Подарунок від глядачів</text>
         </WinHArenaVoxPopuli>
         <WinHSport>
-            <text>Rouste Match</text>
-            <desc>Rules<br/><br/>1. A team is made up of 6 players. Each player has a specific role depending on their Strength or Dexterity.<br/><br/>2. There are 2 balls that both teams fight to control. A player taking a ball to the opponent's end zone scores 2 points for their team, plus 1 additional point if their team also has the other ball.<br/><br/>3. A match is played over 8 rounds. The team with the highest score at the end of the last round wins the game!</desc>
+            <text>Матч Русте</text>
+            <desc>Правила<br/><br/>1. Команда складається з 6 гравців. Кожен гравець має певну роль залежно від їхньої Сили або Спритності.<br/><br/>2. Є 2 м'ячі, за контроль яких борються обидві команди. Гравець, який приносить м'яч до зони кінця суперника, заробляє для своєї команди 2 очки, плюс 1 додаткове очко, якщо їхня команда також має інший м'яч.<br/><br/>3. Матч грається протягом 8 раундів. Команда з найвищим рахунком наприкінці останнього раунду виграє гру!</desc>
         </WinHSport>
         <WinHPaths>
-            <text>Paths</text>
+            <text>Шляхи</text>
         </WinHPaths>
         <WinHGrimoire>
-            <text>Compendium</text>
+            <text>Компендіум</text>
         </WinHGrimoire>
         <Gosenberg2RegionQuestAccuse>
-            <text>Accuse</text>
-            <desc>Find the guilty person in the region.<br/>Do you want to accuse this person?</desc>
+            <text>Звинувачення</text>
+            <desc>Знайдіть винного в регіоні.<br/>Ви хочете звинуватити цю людину?</desc>
         </Gosenberg2RegionQuestAccuse>
         <Gosenberg2RegionQuestAccuseTuto>
-            <text>Accuse</text>
-            <desc>Search for the culprit throughout the region.<br/>Do you want to accuse this person?</desc>
+            <text>Звинувачення</text>
+            <desc>Шукайте винного по всьому регіону.<br/>Ви хочете звинуватити цю людину?</desc>
         </Gosenberg2RegionQuestAccuseTuto>
         <Gosenberg2RegionQuestAsk>
-            <text>Question</text>
+            <text>Питання</text>
         </Gosenberg2RegionQuestAsk>
         <Gosenberg2RegionQuestAskTuto>
-            <text>Question</text>
+            <text>Питання</text>
         </Gosenberg2RegionQuestAskTuto>
         <WinHOptions>
-            <text>Options</text>
+            <text>Налаштування</text>
         </WinHOptions>
         <WinStartGame>
-            <text>At the beginning...</text>
+            <text>На початку...</text>
         </WinStartGame>
         <WinHComptoir>
-            <text>Travel Post</text>
+            <text>Поштовий Перевізник</text>
         </WinHComptoir>
         <WinHCrimePath>
-            <text>The treasure is in a chest bearing the Gosenberg Wheel.<br/>The keys are in the other chests.<br/>Only chests with symbols are booby-trapped. Only wooden chests contain information.</text>
-            <desc>Instruction Summary</desc>
+            <text>Скарб знаходиться в скрині з емблемою Колеса Госенберга.<br/>Ключі знаходяться в інших скринях.<br/>Тільки скрині з символами заміновані. Тільки дерев'яні скрині містять інформацію.</text>
+            <desc>Короткий опис інструкцій</desc>
         </WinHCrimePath>
         <TutoForge>
             <text>Learn how to forge!</text>
@@ -46240,444 +46240,444 @@
     </sheet>
     <sheet name="skill">
         <Move>
-            <name>Move</name>
-            <desc>Travels to the targeted point.</desc>
+            <name>Переміщення</name>
+            <desc>Подорожує до заданої точки.</desc>
         </Move>
         <Disengage>
-            <name>Disengage</name>
-            <desc>Disengages. Triggers an attack of opportunity from the opponent, that ignores [Guard].</desc>
+            <name>Відступ</name>
+            <desc>Відступає. Викликає атаку можливості від противника, яка ігнорує [Guard].</desc>
         </Disengage>
         <OpportunityAttack>
-            <name>Attack of Opportunity</name>
-            <desc>Deals [DMG] to the target.</desc>
+            <name>Атака Можливості</name>
+            <desc>Завдає [DMG] цілі.</desc>
         </OpportunityAttack>
         <Recover>
-            <name>Recover</name>
-            <desc>Removes [Stun].</desc>
+            <name>Відновлення</name>
+            <desc>Знімає [Stun].</desc>
         </Recover>
         <KnockOut>
-            <name>Knock Out</name>
-            <desc>Knocks out an enemy while they are engaged with an ally.<br/>They will be taken prisoner after combat ends.</desc>
+            <name>Нокаут</name>
+            <desc>Нокаутує ворога, поки той вступив у бій з союзником.<br/>Вони будуть взяті в полон після закінчення бою.</desc>
         </KnockOut>
         <BraveVictory>
-            <name>Valorous Victory</name>
-            <desc>Every time this unit kills an enemy, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Доблесна Перемога</name>
+            <desc>Кожного разу, коли цей юніт вбиває ворога, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </BraveVictory>
         <BraveSupport>
-            <name>Valorous Support</name>
-            <desc>Every time this unit ends their turn next to an ally and is not engaged in combat, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Доблесна Підтримка</name>
+            <desc>Кожного разу, коли цей юніт закінчує свій хід поруч із союзником і не бере участі в бою, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </BraveSupport>
         <BraveDuel>
-            <name>Valorous Duel</name>
-            <desc>Every time this unit engages in combat, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Доблесний Поєдинок</name>
+            <desc>Кожного разу, коли цей юніт вступає в бій, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </BraveDuel>
         <BraveCleave>
-            <name>Valorous Chain</name>
-            <desc>Every time an attack hits several enemies, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Доблесний Ланцюг</name>
+            <desc>Кожного разу, коли атака вражає кількох ворогів, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </BraveCleave>
         <BraveBoldness>
-            <name>Valorous Audacity</name>
-            <desc>Every time this unit ends their turn next to an enemy and is not engaged in combat, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Доблесна Сміливість</name>
+            <desc>Кожного разу, коли цей юніт закінчує свій хід поруч із ворогом і не бере участі в бою, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </BraveBoldness>
         <CaptainSkill>
-            <name>Galvanise Troops</name>
-            <desc><br/>			You gain &lt;apt&gt;::value1::&lt;/apt&gt; per ally in the area.<br/><br/>			Usable once per encounter.<br/>            </desc>
+            <name>Натхнення Військ</name>
+            <desc><br/>			Ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt; за кожного союзника в області.<br/><br/>			Можна використовувати один раз за сутичку.<br/>            </desc>
         </CaptainSkill>
         <LieutenantSkill>
-            <name>Tactical Order</name>
-            <desc>Allies around this unit gain the [Ordered] status.<br/><br/>Usable once per encounter.</desc>
+            <name>Тактичний Наказ</name>
+            <desc>Союзники навколо цього юніта отримують статус [Ordered].<br/><br/>Можна використовувати один раз за сутичку.</desc>
         </LieutenantSkill>
         <Wip>
             <name>????</name>
-            <desc>Coming soon.</desc>
+            <desc>Скоро буде.</desc>
         </Wip>
         <Flee>
-            <name>Flee</name>
-            <desc>Flee the battle.</desc>
+            <name>Втеча</name>
+            <desc>Втекти з бою.</desc>
         </Flee>
         <ForsakenBattleSearchIssue>
-            <name>Find a way out</name>
-            <desc>This unit tries to find a way out of the building.<br/>Each successive use in the same round decreases its effectiveness.</desc>
+            <name>Знайти вихід</name>
+            <desc>Цей юніт намагається знайти вихід з будівлі.<br/>Кожне наступне використання в тій самій спробі зменшує його ефективність.</desc>
         </ForsakenBattleSearchIssue>
         <Wrath>
-            <name>Wrath</name>
-            <desc>Deals [DMG] to the target if they have less than 50% [Health] left.<br/><br/>[DeadlyBlow]: This unit gains [Fury].</desc>
+            <name>Гнів</name>
+            <desc>Завдає [DMG] цілі, якщо у неї залишилося менше 50% [Health].<br/><br/>[DeadlyBlow]: Цей юніт отримує [Fury].</desc>
         </Wrath>
         <FirstAid>
-            <name>First Aid</name>
-            <desc>Heals a [Dying] ally for ::value1::% of their max [Health].<br/>Removes all stacks of [Poison], [Bleeding] and [Burning].</desc>
+            <name>Перша Допомога</name>
+            <desc>Лікує [Dying] союзника на ::value1::% від його максимального [Health].<br/>Знімає всі ефекти [Poison], [Bleeding] і [Burning].</desc>
         </FirstAid>
         <Dash>
-            <name>Run</name>
-            <desc>Disengages and moves in a straight line up to ::value1:: metres between units.</desc>
+            <name>Втеча</name>
+            <desc>Відступає і рухається по прямій лінії до ::value1:: метрів між юнітами.</desc>
         </Dash>
         <Taunt>
-            <name>Taunt</name>
-            <desc>Forces the target to engage and inflicts [Weakening] to them for ::value1:: rounds.</desc>
+            <name>Насмішка</name>
+            <desc>Змушує ціль вступити в бій і накладає на неї [Weakening] на ::value1:: раундів.</desc>
         </Taunt>
         <Aim>
-            <name>Aim</name>
-            <desc>Gains [Deftness].</desc>
+            <name>Приціл</name>
+            <desc>Отримує [Deftness].</desc>
         </Aim>
         <Cleave>
-            <name>Cleave</name>
-            <desc>Deals [DMG] to all units in the area.</desc>
+            <name>Розсічення</name>
+            <desc>Завдає [DMG] усім юнітам у зоні.</desc>
         </Cleave>
         <Slice>
-            <name>Slice</name>
-            <desc>Deals [DMG] to the target.</desc>
+            <name>Поріз</name>
+            <desc>Завдає [DMG] цілі.</desc>
         </Slice>
         <Impalement>
-            <name>Impale</name>
-            <desc>Deals [DMG] to the target and knocks them back ::value1:: metres.<br/>Damage is doubled if used from a distance.</desc>
+            <name>Протикання</name>
+            <desc>Завдає [DMG] цілі та відкидає її на ::value1:: метрів.<br/>Шкода подвоюється, якщо використовується з відстані.</desc>
         </Impalement>
         <Grinding>
-            <name>Ram</name>
-            <desc>Deals [DMG] to all units in the area.<br/>Damage is increased by ::value1::% against units that still have [Armor].</desc>
+            <name>Таран</name>
+            <desc>Завдає [DMG] усім юнітам у зоні.<br/>Шкода збільшується на ::value1::% проти юнітів, у яких ще є [Armor].</desc>
         </Grinding>
         <Crushing>
-            <name>Pound</name>
-            <desc>Deals [DMG] to the target.<br/>Damage is increased by ::value1::% if target still has [Armor].</desc>
+            <name>Удар</name>
+            <desc>Завдає [DMG] цілі.<br/>Шкода збільшується на ::value1::%, якщо у цілі ще є [Armor].</desc>
         </Crushing>
         <Mutilation>
-            <name>Maim</name>
-            <desc>Deals [DMG] to all units in the area.<br/><br/>[CapaCritical]: Applies [Bleeding].</desc>
+            <name>Каліцтво</name>
+            <desc>Завдає [DMG] усім юнітам у зоні.<br/><br/>[CapaCritical]: Накладає [Bleeding].</desc>
         </Mutilation>
         <Gash>
-            <name>Slash</name>
-            <desc>Deals [DMG] to the target.<br/><br/>[CapaCritical]: Applies [Bleeding].</desc>
+            <name>Розсічення</name>
+            <desc>Завдає [DMG] цілі.<br/><br/>[CapaCritical]: Накладає [Bleeding].</desc>
         </Gash>
         <Stab>
-            <name>Stab</name>
-            <desc>Deals [DMG] to the target.<br/><br/>[Backstab]: Increases the critical hit chance by an extra ::value1::%.</desc>
+            <name>Удар ножем</name>
+            <desc>Завдає [DMG] цілі.<br/><br/>[Backstab]: Збільшує ймовірність критичного удару на додаткові ::value1::%.</desc>
         </Stab>
         <Shot>
-            <name>Shoot</name>
-            <desc>Deals [DMG] to the target.</desc>
+            <name>Постріл</name>
+            <desc>Завдає [DMG] цілі.</desc>
         </Shot>
         <DoublePunch>
-            <name>Double Strike</name>
-            <desc>Deals [DMG] to the target ::value1:: time(s).<br/><br/>[AttackStance]: Attacks one extra time.<br/><br/>[DefenseStance]: Applies [Weakening] for ::value2:: round(s).</desc>
+            <name>Подвійний Удар</name>
+            <desc>Завдає [DMG] цілі ::value1:: раз(ів).<br/><br/>[AttackStance]: Атакує ще раз.<br/><br/>[DefenseStance]: Накладає [Weakening] на ::value2:: раунд(ів).</desc>
         </DoublePunch>
         <Punch>
-            <name>Punch</name>
-            <desc>Deals [DMG] to the target.</desc>
+            <name>Удар</name>
+            <desc>Завдає [DMG] цілі.</desc>
         </Punch>
         <DefensivePosture>
-            <name>Defensive stance</name>
-            <desc>The unit gains [Deflection]. If they are engaged in combat, you gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Захисна Стійка</name>
+            <desc>Юніт отримує [Deflection]. Якщо він бере участь у бою, ви отримуєте &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </DefensivePosture>
         <OpportunityStrategy>
-            <name>Opportunism</name>
-            <desc>[DamageBonusPercent] of attacks of opportunity increased by ::value1::%.</desc>
+            <name>Опортунізм</name>
+            <desc>[DamageBonusPercent] атаки можливості збільшено на ::value1::%.</desc>
         </OpportunityStrategy>
         <SupportedStrategy>
-            <name>Support</name>
-            <desc>Increases the bonus granted by [Supported] by ::value1::%.</desc>
+            <name>Підтримка</name>
+            <desc>Збільшує бонус, наданий [Supported], на ::value1::%.</desc>
         </SupportedStrategy>
         <SurroundedStrategy>
-            <name>Flanking</name>
-            <desc>Increases the Debuff applied by [Surrounded] by ::value1::%.</desc>
+            <name>Фланговий Маневр</name>
+            <desc>Збільшує негативний ефект, що накладається [Surrounded], на ::value1::%.</desc>
         </SurroundedStrategy>
         <DomptingStrategy>
-            <name>Beast Taming</name>
-            <desc>[DamageBonusPercent] dealt by animals increased by ::value1::%.</desc>
+            <name>Приборкання Звірів</name>
+            <desc>[DamageBonusPercent] шкоди, завданої тваринами, збільшено на ::value1::%.</desc>
         </DomptingStrategy>
         <PrecisionStrategy>
-            <name>Perspective</name>
-            <desc>[DamageBonusPercent] of &lt;mode&gt;Precision&lt;/mode&gt; attacks increased by ::value1::%.</desc>
+            <name>Перспектива</name>
+            <desc>[DamageBonusPercent] атак з &lt;mode&gt;Точністю&lt;/mode&gt; збільшено на ::value1::%.</desc>
         </PrecisionStrategy>
         <StrategicRetreat>
-            <name>Strategic Retreat</name>
-            <desc>Retreating causes -::value1::% negative effects.</desc>
+            <name>Стратегічний Відступ</name>
+            <desc>Відступ завдає на ::value1::% менше негативних ефектів.</desc>
         </StrategicRetreat>
         <Deploy>
-            <name>Deployment</name>
-            <desc>Adds ::value1::% extra deployment slots at the start of the battle.</desc>
+            <name>Розміщення</name>
+            <desc>Додає ::value1::% додаткових слотів для розміщення на початку бою.</desc>
         </Deploy>
         <PreserveTroups>
-            <name>Preserving Troops</name>
-            <desc>Dying units have no movement reduction and gain a ::value1::% chance to dodge an attack.</desc>
+            <name>Збереження Військ</name>
+            <desc>У помираючих юнітів немає зниження швидкості і вони отримують ::value1::% шанс ухилитися від атаки.</desc>
         </PreserveTroups>
         <Coordinate>
-            <name>Coordination</name>
-            <desc>Attacks that can hit allies have a ::value1::% chance to miss.</desc>
+            <name>Координація</name>
+            <desc>Атаки, які можуть вразити союзників, мають ::value1::% шанс промаху.</desc>
         </Coordinate>
         <Regroup>
-            <name>Regroup</name>
-            <desc>During battle preparations, allied positions are closer to one another.</desc>
+            <name>Перегрупування</name>
+            <desc>Під час підготовки до бою союзні позиції розташовані ближче один до одного.</desc>
         </Regroup>
         <Repositioning>
-            <name>Repositioning</name>
-            <desc>Each Companion gains the &lt;skill&gt;SkillRepositioning&lt;/skill&gt; skill.</desc>
+            <name>Перепозиціонування</name>
+            <desc>Кожен компаньйон отримує навичку &lt;skill&gt;SkillRepositioning&lt;/skill&gt;.</desc>
         </Repositioning>
         <SkillRepositioning>
-            <name>Reposition</name>
-            <desc>Resets movement.<br/>This unit can no longer use skills or base actions.</desc>
+            <name>Перепозиціонування</name>
+            <desc>Скидає рух.<br/>Цей юніт більше не може використовувати навички або базові дії.</desc>
         </SkillRepositioning>
         <Intervention>
-            <name>Intervention</name>
-            <desc>The unit can swap places with an adjacent ally engaged in combat. The unit then becomes engaged in combat and will deal an attack of opportunity.</desc>
+            <name>Втручання</name>
+            <desc>Юніт може помінятися місцями із суміжним союзником, залученим до бою. Після цього юніт вступає в бій і завдає атаку можливості.</desc>
         </Intervention>
         <Anticipation>
-            <name>Anticipation</name>
-            <desc>When the unit is attacked, they have a ::value1::% chance to not become engaged, and to deal their attacker an attack of opportunity.</desc>
+            <name>Передбачення</name>
+            <desc>Коли юніт атакують, у нього є ::value1::% шанс не вступити в бій і завдати атакуючому атаку можливості.</desc>
         </Anticipation>
         <DefensiveRiposte>
-            <name>Defensive Riposte</name>
-            <desc>When the unit disengages, they have a ::value1::% chance to deal an attack of opportunity instead of taking one.</desc>
+            <name>Оборонний Відповідь</name>
+            <desc>Коли юніт відступає, у нього є ::value1::% шанс завдати атаку можливості замість того, щоб отримати її.</desc>
         </DefensiveRiposte>
         <Swiftness>
-            <name>Alacrity</name>
-            <desc>The unit has a ::value1::% chance to dodge ranged and AoE attacks.</desc>
+            <name>Швидкість</name>
+            <desc>Юніт має ::value1::% шанс ухилитися від дальніх і AoE атак.</desc>
         </Swiftness>
         <LoneWolf>
-            <name>Lone Wolf</name>
-            <desc>As long as there are no allied units within ::value1:: meters, this unit gains the [LoneWolf] status.</desc>
+            <name>Одинокий Вовк</name>
+            <desc>Поки на відстані ::value1:: метрів немає союзних юнітів, цей юніт отримує статус [LoneWolf].</desc>
         </LoneWolf>
         <Unstoppable>
-            <name>Unstoppable</name>
-            <desc>The unit becomes unstoppable and can pass through the enemy ranks.</desc>
+            <name>Незупинний</name>
+            <desc>Юніт стає незупинним і може проходити крізь ряди ворога.</desc>
         </Unstoppable>
         <WeaponSwapSword>
-            <name>Second Weapon</name>
-            <desc>Can equip a second sword and swap weapons in combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може оснащувати другий меч і змінювати зброю в бою.</desc>
         </WeaponSwapSword>
         <WeaponSwapMace>
-            <name>Second Weapon</name>
-            <desc>Can equip a second mace and swap weapons in combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може оснащувати другу булаву і змінювати зброю в бою.</desc>
         </WeaponSwapMace>
         <WeaponSwapAxe>
-            <name>Second Weapon</name>
-            <desc>Can equip a second axe and swap weapons in combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може оснащувати другу сокиру і змінювати зброю в бою.</desc>
         </WeaponSwapAxe>
         <WeaponSwapDagger>
-            <name>Second Weapon</name>
-            <desc>Can equip a second dagger and swap weapons in combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може оснащувати другий кинджал і змінювати зброю в бою.</desc>
         </WeaponSwapDagger>
         <WeaponSwapBow>
-            <name>Second Weapon</name>
-            <desc>Can equip a second bow and swap weapons in combat.</desc>
+            <name>Координація</name>
+            <desc>Атаки, які можуть вразити союзників, мають ::value1::% шанс промахнутися.</desc>
         </WeaponSwapBow>
         <WeaponSwapPolearm>
-            <name>Second Weapon</name>
-            <desc>Can equip a second polearm and swap weapons in combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може екіпірувати другу списову зброю та змінювати зброю в бою.</desc>
         </WeaponSwapPolearm>
         <WeaponSwapFist>
-            <name>Second Weapon</name>
-            <desc>Can equip a second brawling weapon and swap them during combat.</desc>
+            <name>Друга Зброя</name>
+            <desc>Може екіпірувати другу бойову зброю та змінювати її під час бою.</desc>
         </WeaponSwapFist>
         <SuppressFire>
-            <name>Suppressive Fire</name>
-            <desc>Deals [DMG] and applies [Slowdown] to all units in the area for ::value1:: round.</desc>
+            <name>Пригнічуючий Вогонь</name>
+            <desc>Завдає [DMG] і накладає [Slowdown] на всі юніти в зоні на ::value1:: раунд.</desc>
         </SuppressFire>
         <CondamnationUlt>
-            <name>Condemn</name>
-            <desc>Applies [Condemn] to the target and deals [DMG].</desc>
+            <name>Засудження</name>
+            <desc>Накладає [Condemn] на ціль і завдає [DMG].</desc>
         </CondamnationUlt>
         <Exhorted>
-            <name>Exhort</name>
-            <desc>The unit and all allies in the area gain [Zeal] for ::value1:: rounds.</desc>
+            <name>Заклик</name>
+            <desc>Юніт і всі союзники в зоні отримують [Zeal] на ::value1:: раундів.</desc>
         </Exhorted>
         <TitanicRoar>
-            <name>Deafening Roar</name>
-            <desc>Knocks back all enemies in the area by ::value1:: metres.<br/>Any enemy pushed against an ally is dealt an opportunity attack by that ally.</desc>
+            <name>Оглушливий Рев</name>
+            <desc>Відкидає всіх ворогів у зоні на ::value1:: метри.<br/>Будь-який ворог, відкинутий до союзника, отримує атаку можливості від цього союзника.</desc>
         </TitanicRoar>
         <LongTermePlan>
-            <name>Decisive Manoeuvre</name>
-            <desc>If this unit is the first to act on their side, they disengage and can act once more after all of their allies.</desc>
+            <name>Рішучий Маневр</name>
+            <desc>Якщо цей юніт діє першим зі свого боку, він відступає і може діяти ще раз після всіх своїх союзників.</desc>
         </LongTermePlan>
         <DeathLure>
-            <name>Daredevil</name>
-            <desc>The unit gains [Frenzy] for ::value1:: rounds.</desc>
+            <name>Шибайголова</name>
+            <desc>Юніт отримує [Frenzy] на ::value1:: раундів.</desc>
         </DeathLure>
         <Trashing>
             <name>Thrashing</name>
             <desc>Deals [DMG] to the target ::value1:: times. Each attack increases the next attack's damage by ::value2::%.<br/>[AttackStance]: Attacks ::value3:: more times.<br/>[DefenseStance]: Heals ::value4::% of max [Health] for each attack.</desc>
         </Trashing>
         <ClassSpecialization>
-            <name>Class Specialisation</name>
-            <desc>Unlocks a skill from a previous level.</desc>
+            <name>Класова Спеціалізація</name>
+            <desc>Розблоковує вміння з попереднього рівня.</desc>
         </ClassSpecialization>
         <Bulwark>
-            <name>Bulwark</name>
-            <desc>Each time this unit engages, they gain [Deflection].</desc>
+            <name>Бастіон</name>
+            <desc>Кожного разу, коли цей юніт вступає в бій, він отримує [Deflection].</desc>
             <levels>
                 <line0>
-                    <desc>Every time this unit engages in combat, they gain [Deflection].<br/>Every time they disengage, they gain [Fury].</desc>
+                    <desc>Кожного разу, коли цей юніт вступає в бій, він отримує [Deflection].<br/>Кожного разу, коли він відступає, він отримує [Fury].</desc>
                 </line0>
             </levels>
         </Bulwark>
         <Counterattack>
-            <name>Counter-attack</name>
-            <desc>The first time this unit engages during the turn, they gain [Riposte].</desc>
+            <name>Контратака</name>
+            <desc>Перший раз, коли цей юніт вступає в бій протягом ходу, він отримує [Riposte].</desc>
             <levels>
                 <line0>
-                    <desc>The first time this unit engages during the turn, they gain [Riposte].<br/>The first time they disengage during the turn, they gain [Inspiration] for ::value1:: round.</desc>
+                    <desc>Перший раз, коли цей юніт вступає в бій протягом ходу, він отримує [Riposte].<br/>Перший раз, коли він відступає протягом ходу, він отримує [Inspiration] на ::value1:: раунд.</desc>
                 </line0>
             </levels>
         </Counterattack>
         <Boldness>
-            <name>Daring</name>
-            <desc>As long as a Bonus is active on this unit, their attacks apply [Weakening] for ::value1:: round.</desc>
+            <name>Зухвалість</name>
+            <desc>Поки на цьому юніті активний бонус, його атаки накладають [Weakening] на ::value1:: раунд.</desc>
             <levels>
                 <line0>
-                    <desc>As long as a Bonus is active on this unit, their attacks apply [Weakening].</desc>
+                    <desc>Поки на цьому юніті активний бонус, його атаки накладають [Weakening].</desc>
                 </line0>
             </levels>
         </Boldness>
         <DuellistInstinct>
-            <name>Duellist's Instinct</name>
-            <desc>As long as this unit is engaged, they have [Brutality].</desc>
+            <name>Інстинкт Дуеліста</name>
+            <desc>Поки цей юніт вступає в бій, він має [Brutality].</desc>
             <levels>
                 <line0>
-                    <desc>As long as this unit is engaged in combat, they have [Brutality] and their [CritHitDamageBonusPercent] is increased by ::value1::%.</desc>
+                    <desc>Поки цей юніт вступає в бій, він має [Brutality], а його [CritHitDamageBonusPercent] збільшується на ::value1::%.</desc>
                 </line0>
             </levels>
         </DuellistInstinct>
         <Encouragement>
-            <name>Encouragement</name>
-            <desc>The unit and all allies in the area gain [Protection] for ::value1:: rounds.</desc>
+            <name>Заохочення</name>
+            <desc>Юніт і всі союзники в області отримують [Protection] на ::value1:: раундів.</desc>
         </Encouragement>
         <DestabilisingStrike>
-            <name>Destabilising Strike</name>
-            <desc>Deals [DMG] to the target and applies [Destabilization] for ::value1:: rounds.</desc>
+            <name>Дестабілізуючий Удар</name>
+            <desc>Завдає [DMG] цілі та накладає [Destabilization] на ::value1:: раундів.</desc>
             <levels>
                 <line0>
-                    <desc>Deals [DMG] to the target and applies [Destabilization] for ::value1:: rounds.<br/>Always lands a critical hit against enemies without [Guard].</desc>
+                    <desc>Завдає [DMG] цілі та накладає [Destabilization] на ::value1:: раундів.<br/>Завжди завдає критичний удар ворогам без [Guard].</desc>
                 </line0>
             </levels>
         </DestabilisingStrike>
         <Slashes>
-            <name>Laceration</name>
-            <desc>Deals [DMG] to all the units in the area  ::value1:: time(s).<br/>Usable after ::value2:: attacks.<br/><br/>Performed attacks: ::value3::/::value2::</desc>
+            <name>Розсічення</name>
+            <desc>Завдає [DMG] всім одиницям у зоні ::value1:: раз(ів).<br/>Можна використовувати після ::value2:: атак.<br/><br/>Виконано атак: ::value3::/::value2::</desc>
         </Slashes>
         <Estocade>
-            <name>Final Blow</name>
-            <desc>Deals [DMG] to the target and gains [Riposte].</desc>
+            <name>Завершальний Удар</name>
+            <desc>Завдає [DMG] цілі та отримує [Riposte].</desc>
             <levels>
                 <line0>
-                    <desc>Deals [DMG] to the target and gains [Riposte].<br/>If this unit already has [Riposte], the damage is increased by ::value1::%.</desc>
+                    <desc>Завдає [DMG] цілі та отримує [Riposte].<br/>Якщо ця одиниця вже має [Riposte], шкода збільшується на ::value1::%.</desc>
                 </line0>
             </levels>
         </Estocade>
         <LastStand>
-            <name>Last Stand</name>
-            <desc>As long as this unit has no [Armor], they have [Brutality].</desc>
+            <name>Останній Бій</name>
+            <desc>Поки ця одиниця не має [Armor], вона має [Brutality].</desc>
             <levels>
                 <line0>
-                    <desc>As long as this unit has ::value1::% [Armor] or less, they have [Brutality].</desc>
+                    <desc>Поки ця одиниця має ::value1::% [Armor] або менше, вона має [Brutality].</desc>
                 </line0>
             </levels>
         </LastStand>
         <CombatGrip>
-            <name>Hand-to-hand Combat</name>
-            <desc>Applies [Disarm] to the target for ::value1:: round.</desc>
+            <name>Бій Без Зброї</name>
+            <desc>Накладає [Disarm] на ціль на ::value1:: раунд.</desc>
             <levels>
                 <line0>
-                    <desc>Applies [Disarm] to the target for ::value1:: round.<br/>If the unit is already disarmed, also applies [Vulnerability].</desc>
+                    <desc>Накладає [Disarm] на ціль на ::value1:: раунд.<br/>Якщо одиниця вже роззброєна, також накладає [Vulnerability].</desc>
                 </line0>
             </levels>
         </CombatGrip>
         <HardTraining>
-            <name>Hardcore Training</name>
-            <desc>This unit is immune to [Bleeding], [Poison] or [Burning].</desc>
+            <name>Жорстке Тренування</name>
+            <desc>Ця одиниця є імунною до [Bleeding], [Poison] або [Burning].</desc>
             <levels>
                 <line0>
-                    <desc>This unit is immune to [Bleeding], [Poison] or [Burning].<br/>When they should be affected by these effects, they gain ::value1:: [AnimalMarkedBonus] instead (once per effect per round).</desc>
+                    <desc>Ця одиниця є імунною до [Bleeding], [Poison] або [Burning].<br/>Коли вона має бути під впливом цих ефектів, вона натомість отримує ::value1:: [AnimalMarkedBonus] (один раз на ефект за раунд).</desc>
                 </line0>
             </levels>
         </HardTraining>
         <GreatOpportunist>
-            <name>Master Opportunist</name>
-            <desc>Damage from dealt attacks of opportunity increased by ::value1::%.<br/>Damage from incoming attacks of opportunity reduced by ::value1::%.</desc>
+            <name>Майстер Опортунізму</name>
+            <desc>Шкода від здійснених атак за можливістю збільшується на ::value1::%.<br/>Шкода від вхідних атак за можливістю зменшується на ::value1::%.</desc>
         </GreatOpportunist>
         <EternalGloryStrike>
-            <name>Eternal Glory Strike</name>
-            <desc>Deals [DMG] to the target.<br/><br/>[DeadlyBlow]: gain &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
+            <name>Удар Вічної Слави</name>
+            <desc>Завдає [DMG] цілі.<br/><br/>[DeadlyBlow]: отримує &lt;apt&gt;::value1::&lt;/apt&gt;.</desc>
         </EternalGloryStrike>
         <EvolandStrike>
-            <name>Triple Attack</name>
-            <desc>Deals [DMG] to the target  ::value1:: time(s).<br/>The third attack knocks the enemy back by ::value2:: metres.</desc>
+            <name>Потрійна Атака</name>
+            <desc>Завдає [DMG] цілі ::value1:: раз(ів).<br/>Третя атака відкидає ворога на ::value2:: метрів.</desc>
         </EvolandStrike>
         <ReinforcedArrows>
-            <name>Reinforced Arrows</name>
-            <desc>Each time this unit lands a critical hit, applies [Bleeding].</desc>
+            <name>Посилені Стріли</name>
+            <desc>Кожного разу, коли ця одиниця завдає критичний удар, накладає [Bleeding].</desc>
             <levels>
                 <line0>
-                    <desc>Every time this unit lands a critical hit, they apply [Bleeding].<br/>[CritHitDamageBonusPercent] increased by ::value1::%.</desc>
+                    <desc>Кожного разу, коли ця одиниця завдає критичний удар, вона накладає [Bleeding].<br/>[CritHitDamageBonusPercent] збільшується на ::value1::%.</desc>
                 </line0>
             </levels>
         </ReinforcedArrows>
         <Precision>
-            <name>Precision</name>
-            <desc>Every ::value1:: attacks, applies [Vulnerability].<br/><br/>Attacks executed: ::value2::</desc>
+            <name>Точність</name>
+            <desc>Кожні ::value1:: атаки накладає [Vulnerability].<br/><br/>Виконано атак: ::value2::</desc>
             <levels>
                 <line0>
-                    <desc>Every ::value1:: attacks, applies [Vulnerability] and gains [Fury].<br/><br/>Performed attacks: ::value2::</desc>
+                    <desc>Кожні ::value1:: атаки накладає [Vulnerability] і отримує [Fury].<br/><br/>Виконано атак: ::value2::</desc>
                 </line0>
             </levels>
         </Precision>
         <BeastMaster>
-            <name>Beast Mastery</name>
-            <desc>Animals can be controlled in battle.</desc>
+            <name>Майстерність Звірів</name>
+            <desc>Тварин можна контролювати в бою.</desc>
             <levels>
                 <line0>
-                    <desc>Animals can be controlled in battle.<br/>At the end of their turn, heals allied animals for ::value1::% of their maximum [Health].</desc>
+                    <desc>Тварин можна контролювати в бою.<br/>Наприкінці свого ходу зцілює союзних тварин на ::value1::% від їхнього максимального [Health].</desc>
                 </line0>
             </levels>
         </BeastMaster>
         <Subtlety>
-            <name>Subtlety</name>
-            <desc>If this unit ends their turn while not engaged in combat, they gain [Deflection].</desc>
+            <name>Тонкість</name>
+            <desc>Якщо ця одиниця завершує свій хід, не вступаючи в бій, вона отримує [Deflection].</desc>
             <levels>
                 <line0>
-                    <desc>If this unit ends their turn while not engaged in combat, they gain [Deflection] and [Deftness].</desc>
+                    <desc>Якщо ця одиниця завершує свій хід, не вступаючи в бій, вона отримує [Deflection] і [Deftness].</desc>
                 </line0>
             </levels>
         </Subtlety>
         <Barrage>
-            <name>Barrage</name>
-            <desc>Targets a specific area.<br/>Performs an attack of opportunity against the ::value1:: first enemies crossing the area.</desc>
+            <name>Залп</name>
+            <desc>Цілить в конкретну зону.<br/>Здійснює атаку за можливістю проти перших ::value1:: ворогів, які перетинають цю зону.</desc>
         </Barrage>
         <RecoilShot>
-            <name>Recoil Shot</name>
-            <desc>Deals [DMG] to the target, knocks them back by ::value1:: metres and applies [Slowdown] for ::value2:: rounds.</desc>
+            <name>Відштовхуючий Постріл</name>
+            <desc>Завдає [DMG] цілі, відкидає її на ::value1:: метрів та накладає [Slowdown] на ::value2:: раундів.</desc>
         </RecoilShot>
         <ATTACK>
-            <name>ATTACK!</name>
-            <desc>All allied animals next to the target attack them with an attack of opportunity.</desc>
+            <name>АТАКА!</name>
+            <desc>Всі союзні тварини поруч із ціллю атакують її атакою за можливістю.</desc>
             <levels>
                 <line0>
-                    <desc>All allied animals next to the target gain [Fury] and strike it with an attack of opportunity.</desc>
+                    <desc>Всі союзні тварини поруч із ціллю отримують [Fury] і завдають їй атаку за можливістю.</desc>
                 </line0>
             </levels>
         </ATTACK>
         <AimedShot>
-            <name>Aimed Shot</name>
-            <desc>Deals [DMG] to the target. Damage increased by ::value1::% for each metre separating the target from this unit.</desc>
+            <name>Прицільний Постріл</name>
+            <desc>Завдає [DMG] цілі. Шкода збільшується на ::value1::% за кожен метр, що розділяє ціль і цю одиницю.</desc>
             <levels>
                 <line0>
-                    <desc>Deals [DMG] to the target. Damage and critical hit chance increased by ::value1::% for each metre separating the target from this unit.</desc>
+                    <desc>Завдає [DMG] цілі. Шкода та шанс критичного удару збільшуються на ::value1::% за кожен метр, що розділяє ціль і цю одиницю.</desc>
                 </line0>
             </levels>
         </AimedShot>
         <TrainingArrow>
-            <name>Taming Arrow</name>
-            <desc>Applies [Fury] to the targeted animal.</desc>
+            <name>Стріла Приборкання</name>
+            <desc>Накладає [Fury] на цільову тварину.</desc>
             <levels>
                 <line0>
-                    <desc>Applies [Fury] and [Riposte] to the targeted animal.</desc>
+                    <desc>Накладає [Fury] і [Riposte] на цільову тварину.</desc>
                 </line0>
             </levels>
         </TrainingArrow>
         <ThrillOfTheHunt>
-            <name>Thrill of the Hunt</name>
-            <desc>Each round, the first attack executed at a distance of more than ::value1:: meters grants ::value2:: [AnimalMarkedBonus].</desc>
+            <name>Хвилювання Полювання</name>
+            <desc>Кожного раунду перша атака, здійснена на відстані більше ніж ::value1:: метрів, надає ::value2:: [AnimalMarkedBonus].</desc>
         </ThrillOfTheHunt>
         <AnimalConnection>
-            <name>Animal Affinity</name>
-            <desc>At the start of the battle, gains ::value1:: allied animal passive skill.</desc>
+            <name>Спорідненість з Тваринами</name>
+            <desc>На початку бою отримує ::value1:: пасивне вміння союзної тварини.</desc>
         </AnimalConnection>
         <HuntingDownEasyprey>
             <name>Easy Prey</name>
@@ -49731,96 +49731,96 @@
             <desc>The unit performs a &lt;skill&gt;BoatLandingSkill&lt;/skill&gt;, then plays their turn.</desc>
         </BoatLanding>
         <BoatLandingSkill>
-            <name>Landing</name>
-            <desc>Deals [DMG] to units around the target and knocks them back by ::value1:: metres.</desc>
+            <name>Приземлення</name>
+            <desc>Завдає [DMG] одиницям навколо цілі та відкидає їх на ::value1:: метрів.</desc>
         </BoatLandingSkill>
         <HangingStomp>
-            <name>Trample</name>
-            <desc>Causes a suspended enemy to fall in the water, eliminating them.</desc>
+            <name>Затоптати</name>
+            <desc>Змушує тимчасово виведеного з бою ворога впасти у воду, усуваючи його.</desc>
         </HangingStomp>
         <HangingHelp>
-            <name>Raise</name>
-            <desc>Brings a suspended ally back to combat.</desc>
+            <name>Підняття</name>
+            <desc>Повертає союзника, що був тимчасово виведений з бою, назад у бій.</desc>
         </HangingHelp>
         <BallistaLoading>
-            <name>Reload</name>
-            <desc>Allows the use of &lt;skill&gt;::fireskill::&lt;/skill&gt; the following turn.</desc>
+            <name>Перезарядка</name>
+            <desc>Дозволяє використання &lt;skill&gt;::fireskill::&lt;/skill&gt; у наступному ходу.</desc>
         </BallistaLoading>
         <BallistaShoot>
-            <name>Ballista Shot</name>
-            <desc>Deals ::value2::% of their maximum [Health] to all targets in the target area and knocks them back by ::value1:: metres.</desc>
+            <name>Постріл з Балісти</name>
+            <desc>Завдає ::value2::% від їхнього максимального [Health] усім цілям у зоні ураження та відкидає їх на ::value1:: метрів.</desc>
         </BallistaShoot>
         <BallistaShootFire>
-            <name>Ballista Shot</name>
-            <desc>Deals ::value2::% of their maximum [Health] to all targets in the target area, knocks them back by ::value1:: metres and applies [Burning].</desc>
+            <name>Постріл з Балісти</name>
+            <desc>Завдає ::value2::% від їхнього максимального [Health] усім цілям у зоні ураження, відкидає їх на ::value1:: метрів і накладає [Burning].</desc>
         </BallistaShootFire>
         <SportTeamLeader>
-            <name>Designate as the Opener</name>
-            <desc>The opener gets the ball and starts the game.</desc>
+            <name>Призначити Відкривача</name>
+            <desc>Відкривач отримує м'яч і починає гру.</desc>
         </SportTeamLeader>
         <SportRun>
-            <name>Run</name>
-            <desc>The unit charges in a straight line.<br/><br/>&lt;idesc&gt;SportTackle&lt;/idesc&gt;<br/>&lt;idesc&gt;SportDodge&lt;/idesc&gt;</desc>
+            <name>Біг</name>
+            <desc>Одиниця мчить по прямій лінії.<br/><br/>&lt;idesc&gt;СпортивнеЗбивання&lt;/idesc&gt;<br/>&lt;idesc&gt;СпортивнеУхилення&lt;/idesc&gt;</desc>
         </SportRun>
         <SportPass>
-            <name>Pass</name>
-            <desc>Attempt to pass to a teammate.</desc>
+            <name>Передача</name>
+            <desc>Спроба передати м'яч товаришу по команді.</desc>
         </SportPass>
         <SportSeaUrchin>
-            <name>Throw</name>
-            <desc>Tries to make an opponent fall.</desc>
+            <name>Кидок</name>
+            <desc>Намагається збити противника з ніг.</desc>
         </SportSeaUrchin>
         <SportKick>
-            <name>Kick</name>
-            <desc>High kick to clear the ball.</desc>
+            <name>Удар Ногою</name>
+            <desc>Високий удар для вибивання м'яча.</desc>
         </SportKick>
         <SportPunch>
-            <name>Punch</name>
-            <desc>Hits an opponent.<br/>Has a chance of tackling them.</desc>
+            <name>Удар</name>
+            <desc>Вдаряє противника.<br/>Має шанс збити його з ніг.</desc>
         </SportPunch>
         <SportStandUp>
-            <name>Get up</name>
-            <desc>The unit stands back up.</desc>
+            <name>Підйом</name>
+            <desc>Одиниця встає на ноги.</desc>
         </SportStandUp>
         <SportAssist>
-            <name>Assist</name>
-            <desc>Picks up an ally.</desc>
+            <name>Допомога</name>
+            <desc>Піднімає союзника.</desc>
         </SportAssist>
         <SportGuard>
-            <name>Keep</name>
-            <desc>This unit gains [SportGuard] until they move.</desc>
+            <name>Захист</name>
+            <desc>Ця одиниця отримує [SportGuard], поки не почне рухатися.</desc>
         </SportGuard>
         <SportDodge>
-            <name>Dodge</name>
-            <desc>This unit will try to dodge nearby opponent tackles.</desc>
+            <name>Ухилення</name>
+            <desc>Ця одиниця спробує ухилитися від збивання найближчого противника.</desc>
         </SportDodge>
         <SportTackle>
-            <name>Tackle</name>
-            <desc>This unit will try to knock down any opponent passing within range.</desc>
+            <name>Збивання</name>
+            <desc>Ця одиниця спробує збити будь-якого противника, який проходить в межах досяжності.</desc>
         </SportTackle>
         <SportFendOff>
-            <name>Fend Off</name>
-            <desc>This unit will try to knock down an opponent in their path.</desc>
+            <name>Відбити Атаку</name>
+            <desc>Ця одиниця спробує збити противника на своєму шляху.</desc>
         </SportFendOff>
         <SportReplay>
-            <name>Play Again</name>
-            <desc>This unit can play again if they get the ball.</desc>
+            <name>Грати Знову</name>
+            <desc>Ця одиниця може грати знову, якщо отримає м'яч.</desc>
         </SportReplay>
         <SportAnimalCharge>
-            <name>Charge</name>
-            <desc>Charges in a straight line, knocking down all units in their path.</desc>
+            <name>Атака</name>
+            <desc>Атакує по прямій лінії, збиваючи всі одиниці на своєму шляху.</desc>
         </SportAnimalCharge>
         <SportBallDrop>
-            <name>Drop Zone</name>
-            <desc>The ball will fall somewhere in the area of effect.</desc>
+            <name>Зона Скидання</name>
+            <desc>М'яч впаде десь у зоні дії.</desc>
         </SportBallDrop>
         <CelestiumSearch>
-            <name>Examine the relic</name>
-            <desc>The unit is working on the Celestium relic.<br/><br/>Must be close to the relic.</desc>
+            <name>Дослідження реліквії</name>
+            <desc>Одиниця працює над реліквією Целестіуму.<br/><br/>Повинна бути поруч із реліквією.</desc>
         </CelestiumSearch>
         <CelestiumRepair>
-            <name>Repair the relic</name>
-            <desc>The unit is repairing the Celestium relic.<br/><br/>Must be close to the relic.</desc>
+            <name>Ремонт реліквії</name>
+            <desc>Одиниця ремонтує реліквію Целестіуму.<br/><br/>Повинна бути поруч із реліквією.</desc>
         </CelestiumRepair>
     </sheet>
     <sheet name="status">
