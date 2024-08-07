@@ -1,46 +1,51 @@
-# script for Dune: Spice Wars .pak files
-# created by spiritovod
-# copied from https://forum.xentax.com/viewtopic.php?t=25295
+# Script by Allen, modified by Bartlomiej Duda (Ikskoks)
+# Shiro Games *.PAK archives
+# Tested on PAK archive from "Wartales" PC game
+
+
+# Ver		Date		Author				Comment
+# v0.1		-			Allen				-
+# v0.2		10.03.2022	Bartlomiej Duda		-
+# v0.3		20.04.2023	Allgames-kari		Type 2 analysis completed
+
 
 idstring "PAK\0"
-get BASE_OFF long
-get DATA_SIZE long
-string PATH = ""
-callfunction extract 1
+get DataOffset long
+get fileSize long
+get dummy short 
+get numFolder long
+for i = 0 < numFolder
+	set folderName string ""
+	CallFunction unpack 0 folderName
+next i
 
-startfunction extract
-	get NAMEZ byte
-	getdstring NAME_P NAMEZ	
-	get TYPE byte
-	if TYPE = 1
-		math FILE = 0
-		string PATH p "%s\%s" PATH NAME_P
-		get NCOUNT long
-		for i = 0 < NCOUNT
-			callfunction extract
-		next i
-		string PATH > "\"
-	elif TYPE = 0
-		string NAME p "%s\%s" PATH NAME_P
-		get OFFSET long
-		math OFFSET + BASE_OFF
-		get SIZE long
-		get FILE_CRC long # adler32 checksum
-		log NAME OFFSET SIZE
-		
-		math OFFSET + SIZE
-		if OFFSET >= 0x80000000
-			putvarchr MEMORY_FILE 0 OFFSET longlong
+StartFunction unpack folderName
+	get namelen byte
+	getdstring name namelen    
+	get type byte
+	if type == 0 || type == 2
+		if type == 0
+			get offset long
+		elif type == 2
+			get offset double
 		endif
-	elif TYPE = 2
-		string NAME p "%s\%s" PATH NAME_P
-		get DUMMY_OFF longlong # actually double
-		get SIZE long
-		get FILE_CRC long # adler32 checksum
-		getvarchr OFFSET MEMORY_FILE 0 longlong
-		log NAME OFFSET SIZE
-		
-		math OFFSET + SIZE
-		putvarchr MEMORY_FILE 0 OFFSET longlong
-	endif
-endfunction
+		get size long
+		get dummy long
+		math offset += Dataoffset
+		set fname string FolderName
+		string fname += /
+		string fname += name
+		log fname offset size
+	elif type == 1
+		string folderName += /
+		string folderName += name        
+		get numEntry long
+		for j = 0 < numEntry
+			set folderName2 string folderName
+			CallFunction unpack 0 folderName2
+		next j
+	else
+		print "Error! This type is not supported!"
+		cleanexit
+    endif
+EndFunction
